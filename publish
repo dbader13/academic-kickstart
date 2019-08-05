@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd public
+rsync -av * bader@kong.njit.edu:AFS_HOME/public_html/.

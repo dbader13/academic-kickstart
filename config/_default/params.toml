@@ -63,15 +63,15 @@ phone = "973-596-2654"
 address = "GITC Rm 4102, New Jersey Institute of Technology, Newark, NJ 07102"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-# office_hours = """Monday 10:00 to 13:00<br>
-#                   Wednesday 09:00 to 10:00"""
+#office_hours = """Monday 10:00 to 13:00<br>
+#                  Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
- contact_links = [
+contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Prof_DavidBader"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:dbader13?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
