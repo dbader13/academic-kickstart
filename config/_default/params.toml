@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "mr_robot"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -71,13 +71,13 @@ address = "4105 GITC Building, New Jersey Institute of Technology, Newark, NJ 07
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-# contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Prof_DavidBader"},
-#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:dbader13?call"},
+ contact_links = [
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Prof_DavidBader"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:dbader13?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-#  ]
+  ]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
