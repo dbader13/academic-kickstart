@@ -8,7 +8,7 @@ draft: false
 
 Continuing its mission to lead in computing technologies, [NJIT](http://www.njit.edu/) announced today that it will establish a new Institute for Data Science, focusing on cutting-edge interdisciplinary research and development in all areas pertinent to digital data. The institute will bring existing research centers in big data, medical informatics and cybersecurity together with new research centers in data analytics and artificial intelligence, cutting across all NJIT colleges and schools, and conduct both basic and applied research.
 
-The Institute for Data Science will be directed by Distinguished Professor (http://www.cs.njit.edu/~bader). Bader recently joined NJIT’s [Ying Wu College of Computing](https://computing.njit.edu/) from Georgia Tech, where he was chair of the School of Computational Science and Engineering within the College of Computing.
+The Institute for Data Science will be directed by Distinguished Professor [David Bader](http://www.cs.njit.edu/~bader). Bader recently joined NJIT’s [Ying Wu College of Computing](https://computing.njit.edu/) from Georgia Tech, where he was chair of the School of Computational Science and Engineering within the College of Computing.
 
 The institute will bring together scientists, engineers and users to develop data-driven technologies and apply them to solve fundamental and real-world problems. Beyond academic research, the institute will interact closely with the outside world to identify and solve important problems in the modern data-driven economy.
 
