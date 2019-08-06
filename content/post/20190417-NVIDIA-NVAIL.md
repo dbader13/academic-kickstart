@@ -44,7 +44,7 @@ The importance of [graph analytics](https://developer.nvidia.com/discover/graph-
 
 Leading the way, Georgia Tech, UC Davis and Texas A&M are working towards solving graph analytics problems within the [cuGRAPH](https://github.com/rapidsai/cugraph)framework inside [RAPIDS](https://github.com/rapidsai), an open source set of software libraries that speeds data science and analytics pipelines. 
 
-{{< figure library="true" src="inception-visual-nvail-data-science-blog-image-976056-r3.jpg" title="NVIDIA NVAIL" lightbox="true" >}}
+{{< figure library="true" src="inception-visual-nvail-data-science-blog-image-976056-r3.jpg" title="" lightbox="true" >}}
 
 ## Building the Future of Graph Analytics with RAPIDS
 
