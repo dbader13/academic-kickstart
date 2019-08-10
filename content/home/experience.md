@@ -41,4 +41,13 @@ date_format = "Jan 2006"
   date_end = "2019-06-30"
   description = """Chair, School of Computational Science and Engineering."""
 
+[[experience]]
+  title = "Associate Professor and Regents' Lecturer"
+  company = "University of New Mexico"
+  company_url = "http://www.unm.edu/"
+  location = "Albuquerque, NM"
+  date_start = "1998-01-01"
+  date_end = "2005-07-30"
+  description = """Department of Electrical and Computer Engineering."""
+
 +++
