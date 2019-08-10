@@ -2,9 +2,8 @@
 title: "NJIT to Establish New Institute for Data Science"
 date: 2019-07-08T09:12:06-04:00
 draft: false
----
 
-{{< figure library="true" src="Data%20Science%20Institute%20art_small.jpg" title="" lightbox="true" >}}
+---
 
 Continuing its mission to lead in computing technologies, [NJIT](http://www.njit.edu/) announced today that it will establish a new Institute for Data Science, focusing on cutting-edge interdisciplinary research and development in all areas pertinent to digital data. The institute will bring existing research centers in big data, medical informatics and cybersecurity together with new research centers in data analytics and artificial intelligence, cutting across all NJIT colleges and schools, and conduct both basic and applied research.
 

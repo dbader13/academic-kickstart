@@ -44,8 +44,6 @@ The importance of [graph analytics](https://developer.nvidia.com/discover/graph-
 
 Leading the way, Georgia Tech, UC Davis and Texas A&M are working towards solving graph analytics problems within the [cuGRAPH](https://github.com/rapidsai/cugraph)framework inside [RAPIDS](https://github.com/rapidsai), an open source set of software libraries that speeds data science and analytics pipelines. 
 
-{{< figure library="true" src="inception-visual-nvail-data-science-blog-image-976056-r3.jpg" title="" lightbox="true" >}}
-
 ## Building the Future of Graph Analytics with RAPIDS
 
 RAPIDS was launched by NVIDIA last year with the goal of enabling end-to-end data analytics pipelines to run entirely on GPUs.  RAPIDS at its lowest level relies on the [CUDA-X AI](https://www.nvidia.com/en-us/technologies/cuda-x/) libraries for low-level optimization of GPU parallelism at the thread level, taking best advantage of the GPU’s high memory bandwidth, but then exposes these functionalities through simple and familiar python interfaces, making it highly suitable for running data science experiments.

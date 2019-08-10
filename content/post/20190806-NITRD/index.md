@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-{{< figure library="true" src="NITRD.gif" title="" lightbox="true" >}}
-
 On August 5-6, 2019, I was invited to attend the [Future Computing (FC) Community of Interest Meeting](https://www.nitrd.gov/nitrdgroups/index.php?title=FC-COI-2019) sponsored by the National Coordination Office (NCO) of [NITRD](https://nitrd.gov/).  The Networking and Information Technology Research and Development (NITRD) Program is a formal Federal program that coordinates the activities of 23 member agencies to tackle multidisciplinary, multitechnology, and multisector cyberinfrastructure R&D needs of the Federal Government and the Nation.  The meeting was held in Washington, DC, at the NITRD NCO office. 
 
 The meeting set a goal to "explore the computing landscape for the coming decade and beyond, along with emerging and future application drivers, to inform agencies and to identify potential opportunities as well as gaps.  It will also examine new software concepts needed for the effective use of advances that come with the future computing systems to ensure that the federal government is poised to respond to unanticipated challenges and opportunities."  

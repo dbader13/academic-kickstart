@@ -28,9 +28,6 @@ image:
 projects: []
 ---
 
-{{< figure library="true" src="FB_logo.svg" title="" lightbox="true" >}}
-
-{{< figure library="true" src="shutterstock_1011467887.jpg" title="" lightbox="true" >}}
 
 In January, Facebook invited university faculty to respond to a [call for research proposals on AI System Hardware/Software Co-Design](https://research.fb.com/programs/research-awards/proposals/ai-system-hardware-software-co-design-request-for-proposals/). Co-design implies simultaneous design and optimization of several aspects of the system, including hardware and software, to achieve a set target for a given system metric, such as throughput, latency, power, size, or any combination thereof. Deep learning has been particularly amenable to such co-design processes across various parts of the software and hardware stack, leading to a variety of novel algorithms, numerical optimizations, and AI hardware.
 
@@ -93,3 +90,5 @@ Jung Ho Ahn (Seoul National University)
  
 
 Thank you to all the researchers who submitted proposals, and congratulations to the winners. To view our currently open research awards and to subscribe to our email list, visit our [Research Awards page](https://research.fb.com/programs/research-awards/).
+
+{{< figure library="true" src="shutterstock_1011467887.jpg" title="" lightbox="true" >}}
