@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "5G will enable a new era of opportunity, says David Bader"
-subtitle: ""
+subtitle: "Dr Deepak Garg, Times of India"
 summary: ""
 authors: []
 tags: []
@@ -27,8 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-(*Dr Deepak Garg, Times of India*)
 
 Recently, **David Bader** visited India to give a keynote talk at IEEE International Conference on Machine Learning and Data Science at Bennett University, Greater Noida. David A. Bader is Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. He is a fellow of the IEEE and AAAS and served on the White House’s National Strategic Computing Initiative (NSCI) panel. He was in conversation with Prof. Deepak Garg, Chair, of Computer Science Engineering at Bennett University.
 
