@@ -8,7 +8,6 @@ authors: []
 tags: []
 categories: []
 date: 2014-03-26T21:54:39-04:00
-publishDate: 2019-08-10T21:54:39-04:00
 lastmod: 2014-03-26T21:54:39-04:00
 featured: false
 draft: false
