@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Georgia Tech Partners with USC for $6.8 Million DARPA Project"
-subtitle: ""
+subtitle: "Researchers teaming to develop software toolkit for revolutionary next-gen HIVE processors"
 summary: ""
 authors: []
 tags: []
@@ -27,9 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-
-## Researchers teaming to develop software toolkit for revolutionary next-gen HIVE processors ##
 
 (*Georgia Tech, Atlanta, GA, 10 July 2017*) The Georgia Institute of Technology and the University of Southern California Viterbi School of Engineering have been selected to receive [Department of Defense Research Projects Agency (DARPA)](https://www.darpa.mil/) funding under the [Hierarchal Identify Verify Exploit (HIVE)](https://www.darpa.mil/program/hierarchical-identify-verify-exploit) program. Georgia Tech and USC are to receive total funding of $6.8 million over 4.5 years to develop a powerful new data analysis and computing platform.
 
