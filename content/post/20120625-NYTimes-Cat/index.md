@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "An image of a cat that a neural network taught itself to recognize. *Credit Jim Wilson/The New York Times*"
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -29,9 +29,9 @@ image:
 projects: []
 ---
 
-{{< figure library="true" src="NewYorkTimes.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="20120625-NYTimes.jpg" title="An image of a cat that a neural network taught itself to recognize. *Credit Jim Wilson/The New York Times*" lightbox="true" >}}
 
-By JOHN MARKOFF, JUNE 25, 2012
+*By John Markoff, June 25, 2012*   
 
 MOUNTAIN VIEW, Calif. — Inside [Google](http://topics.nytimes.com/top/news/business/companies/google_inc/index.html?inline=nyt-org)’s secretive X laboratory, known for inventing self-driving cars and augmented reality glasses, a small group of researchers began working several years ago on a simulation of the human brain.
 
