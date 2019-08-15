@@ -55,4 +55,6 @@ Atlanta, Georgia 30308 USA
 
 *Writer: Abby Robinson*
 
+[Archive copy](20111110-GeorgiaTech-ResearchNews.pdf)
+
 https://www.news.gatech.edu/2011/11/10/georgia-tech-helps-develop-system-will-detect-insider-threats-massive-data-sets
