@@ -69,3 +69,5 @@ https://www.nsf.gov/news/news_summ.jsp?cntn_id=116029
 http://gtresearchnews.gatech.edu/newsrelease/peta-apps.htm
 
 https://www.newswise.com/articles/petascale-tools-could-provide-deeper-insight-into-genomic-evolution
+
+https://www.genomeweb.com/informatics/nsf-funds-petascale-algorithms-genomic-relatedness-research
