@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="bader.jpg" title="" >}}
+
 [ACM Transactions on Parallel Computing](https://topc.acm.org/) (TOPC) welcomes David Bader as new Editor-in-Chief, for the term November 1, 2018 to October 31, 2021. David is a Professor and Chair in the School of Computational Science and Engineering and College of Computing at Georgia Institute of Technology.
 
  
