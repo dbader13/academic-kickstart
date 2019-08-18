@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "David Bader Chosen to Lead Georgia Tech's School of Computational Science and Engineering"
-subtitle: ""
+subtitle: "Veteran Georgia Tech professor plans to leverage school’s history of innovation and impactful research into new advances and successes for computational science"
 summary: ""
 authors: []
 tags: []
