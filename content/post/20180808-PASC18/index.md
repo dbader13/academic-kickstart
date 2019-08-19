@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-[![Bader PASC18 interview](http://img.youtube.com/vi/T6fW2GlZDbo/0.jpg)](http://www.youtube.com/watch?v=T6fW2GlZDbo)
+[![Bader PASC18 interview](https://img.youtube.com/vi/T6fW2GlZDbo/0.jpg)](https://www.youtube.com/watch?v=T6fW2GlZDbo)
 
 In this video from [PASC18](https://pasc18.pasc-conference.org/), **David Bader** from Georgia Tech summarizes his [keynote talk](https://pasc18.pasc-conference.org/program/keynote-presentations/) on Big Data Analytics.
 
@@ -39,7 +39,7 @@ In this video from [PASC18](https://pasc18.pasc-conference.org/), **David Bader*
 
 David Bader is Professor and Chair of the School of Computational Science and Engineering at Georgia Institute of Technology, and is regarded as one of the world’s leading experts in data sciences. His interests are at the intersection of high performance computing (HPC) and real-world applications, including cybersecurity, massive-scale analytics, and computational genomics. Bader has co-authored over 200 articles in peer-reviewed journals and conferences, and is an associate editor for high-impact publications including IEEE Transactions on Computers, ACM Transactions on Parallel Computing, and ACM Journal of Experimental Algorithmics. He is a Fellow of the IEEE and AAAS, and has served on a number of advisory committees in scientific computing and cyber-infrastructure, including the White House’s National Strategic Computing Initiative. Bader has served as a lead scientist in several DARPA programs and is a co-founder of the Graph500 list, a rating of “Big Data” computing platforms. He was recognized as a “[Rock Star of HPC](https://insidehpc.com/2011/11/announcing-our-newest-rock-star-of-hpc-david-bader/)” by insideHPC and as HPCwire’s “People to Watch” in 2012 and 2014.
 
-[![Bader PASC18 interview](http://img.youtube.com/vi/B8zz-_GWSCY/0.jpg)](http://www.youtube.com/watch?v=B8zz-_GWSCY)
+[![Bader PASC18 interview](https://img.youtube.com/vi/B8zz-_GWSCY/0.jpg)](https://www.youtube.com/watch?v=B8zz-_GWSCY)
 
 In this keynote video from [PASC18](https://pasc18.pasc-conference.org/), David Bader from Georgia Tech presents: *Massive-Scale Analytics Applied to Real-World Problems*.
 
