@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-{{< figure library="true" src="Intel2007.jpg" title="The Intel Teraflop Research Chip is seen Tuesday, Feb. 6, 2007, near San Jose, Ore. Intel Corp. has designed a computer chip that promises to do as many calculations as quickly as an entire data center, while consuming as much energy as a light bulb. *(AP Photo/The Oregonian, Fredrick D. Joe)*" lightbox="true" >}}
+{{< figure src="Intel2007.jpg" title="The Intel Teraflop Research Chip is seen Tuesday, Feb. 6, 2007, near San Jose, Ore. Intel Corp. has designed a computer chip that promises to do as many calculations as quickly as an entire data center, while consuming as much energy as a light bulb. *(AP Photo/The Oregonian, Fredrick D. Joe)*" lightbox="true" >}}
 
 
 *by Tom Abate, Chronicle Staff Writer*

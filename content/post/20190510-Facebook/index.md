@@ -91,4 +91,4 @@ Jung Ho Ahn (Seoul National University)
 
 Thank you to all the researchers who submitted proposals, and congratulations to the winners. To view our currently open research awards and to subscribe to our email list, visit our [Research Awards page](https://research.fb.com/programs/research-awards/).
 
-{{< figure library="true" src="shutterstock_1011467887.jpg" title="" lightbox="true" >}}
+{{< figure src="shutterstock_1011467887.jpg" title="" lightbox="true" >}}

@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The conference coincided with the recent MoU signed between Bennett University and Nvidia, making it the first educational institute in the country to get the DGX-1V100 AI supercomputer."
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-{{< figure library="true" src="EconomicTimes.jpg" title="" lightbox="true" >}}
+{{< figure src="BennettUniv.jpg" title="The conference coincided with the recent MoU signed between Bennett University and Nvidia, making it the first educational institute in the country to get the DGX-1V100 AI supercomputer." lightbox="true" >}}
 
 NEW DELHI: [Bennett University](https://economictimes.indiatimes.com/topic/Bennett-University)'s computer science and engineering (CSE) department
 held its first international conference on machine learning and data science at its Greater

@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-{{< figure library="true" src="20120625-NYTimes.jpg" title="An image of a cat that a neural network taught itself to recognize. *Credit Jim Wilson/The New York Times*" lightbox="true" >}}
+{{< figure src="20120625-NYTimes.jpg" title="An image of a cat that a neural network taught itself to recognize. *Credit Jim Wilson/The New York Times*" lightbox="true" >}}
 
 *By John Markoff, June 25, 2012*   
 

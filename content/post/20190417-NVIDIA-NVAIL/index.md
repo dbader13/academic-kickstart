@@ -28,15 +28,15 @@ image:
 projects: []
 ---
 
-# [Georgia Tech, UC Davis, Texas A&M Join NVAIL Program with Focus on Graph Analytics](https://news.developer.nvidia.com/graph-technology-leaders-combine-forces-to-advance-graph-analytics/)
+# [Georgia Tech, UC Davis, Texas A&M Join NVAIL Program with Focus on Graph Analytics](https://news.developer.nvidia.com/graph-technology-leaders-combine-forces-to-advance-graph-analytics/) #
 
-April 17, 2019
-
-By Sandra Skaff
+*By Sandra Skaff*
 
 NVIDIA is partnering with three leading universities — Georgia Tech, the University of California, Davis, and Texas A&M — as part of our NVIDIA AI Labs program, to build the future of graph analytics on GPUs. 
 
-NVIDIA’s work with these three new NVAIL partners aims to ultimately create a one-stop shop for customers to take advantage of accelerated graph analytics algorithms. 
+NVIDIA’s work with these three new NVAIL partners aims to ultimately create a one-stop shop for customers to take advantage of accelerated graph analytics algorithms.
+
+{{< figure src="NVAIL.jpg" title="" >}}
 
 This will enable users to iterate over different graph models to find the best one faster, to update models faster as the data changes or grows, and to extract better insights from their data and bring new offerings to customers.
 
@@ -75,5 +75,5 @@ While the landscape of graph frameworks designed for GPUs is sparse, we believe 
 You can get started with RAPIDS cuGRAPH today: https://github.com/rapidsai/notebooks/tree/branch-0.6/cugraph
 
 
-
 https://news.developer.nvidia.com/graph-technology-leaders-combine-forces-to-advance-graph-analytics/
+
