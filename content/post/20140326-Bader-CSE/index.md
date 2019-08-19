@@ -53,3 +53,5 @@ The School of Computational Science and Engineering is devoted to the advancemen
 About the Georgia Tech College of Computing: The Georgia Tech College of Computing is a national leader in the creation of real-world computing breakthroughs that drive social and scientific progress. With its graduate program ranked ninth nationally by U.S. News and World Report, the College’s unconventional approach to education is defining the new face of computing by expanding the horizons of traditional computer science students through interdisciplinary collaboration and a focus on human-centered solutions. For more information about the Georgia Tech College of Computing, its academic divisions and research centers, please visit http://www.cc.gatech.edu
 
 https://www.newswise.com//articles/david-bader-chosen-to-lead-georgia-tech-s-school-of-computational-science-and-engineering
+
+https://www.news.gatech.edu/2014/03/25/college-computing-picks-bader-lead-school-cse
