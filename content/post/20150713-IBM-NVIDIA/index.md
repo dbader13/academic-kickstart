@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IBM, Nvidia rev HPC engines in next-gen supercomputer push"
-subtitle: "By Katherine Noyes, Senior U.S. Correspondent, IDG News Service"
+title: "IBM, Nvidia rev their HPC engines in next-gen supercomputer push"
+subtitle: "'The race is on to the exascale milestone,' one analyst says"
 summary: ""
 authors: []
 tags: []
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+*By Katherine Noyes, Senior U.S. Correspondent, IDG News Service*
 
 Hard on the heels of the publication of the latest [Top 500 ranking](http://www.computerworld.com/article/2947452/data-center/china-retains-supercomputing-crown-in-latest-top-500-ranking.html) of the world’s fastest supercomputers, IBM and Nvidia on Monday announced they have teamed up to launch two new supercomputer centers of excellence to develop the next generation of contenders.
 
@@ -72,7 +74,12 @@ The Graph 500’s top 10, in fact, currently includes several IBM systems.
 
 “All of these are impressive systems,” Bader said, “but our list was dominated by IBM’s Blue Gene/Q in terms of this new analytics processing.”
 
+https://www.computerworld.com/article/2947832/ibm-and-nvidia-rev-their-hpc-engines-for-next-gen-supercomputer-push.html
+
 https://www.pcworld.com/article/2947792/ibm-nvidia-rev-hpc-engines-in-nextgen-supercomputer-push.html
+
+https://computing.llnl.gov/news/ibm-nvidia-rev-hpc-engines-next-gen-supercomputer-push
+
 
 *Katherine Noyes has been an ardent geek ever since she first conquered Pyramid of Doom on an ancient TRS-80. Today she covers enterprise software in all its forms, with an emphasis on cloud computing, big data, analytics and artificial intelligence.*
 
