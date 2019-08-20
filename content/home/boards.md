@@ -21,6 +21,14 @@ date_format = "2006"
   date_end = ""
 
 [[experience]]
+  title = "Advisory Council Member"
+  company = "Electrical and Computer Engineering Department, Lehigh University"
+  company_url = "https://engineering.lehigh.edu/ece/about-department-electrical-and-computer-engineering/ece-advisory-council"
+  location = "Bethlehem, PA"
+  date_start = "2018-01-01"
+  date_end = ""
+
+[[experience]]
   title = "Advisory Committee on High Performance Computing"
   company = "Council on Competitiveness"
   company_url = "https://www.compete.org/"
