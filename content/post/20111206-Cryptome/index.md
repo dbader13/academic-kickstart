@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-PRODIGAL: http://en.wikipedia.org/wiki/Proactive_Discovery_of_Insider_Threats_Using_Graph_Analysis_and_Learning
-
 {{<figure src="pict2.jpg" caption="Georgia Tech DARPA ADAMS leaders">}}
 
 {{<figure src="pict0.jpg" caption="Georgia Tech DARPA ADAMS team">}}
@@ -62,6 +60,8 @@ Atlanta, Georgia 30308 USA
 Media Relations Contacts: Abby Robinson (abby[at]innovate.gatech.edu; 404-385-3364) or John Toon (jtoon[at]gatech.edu; 404-894-6986)
 
 Writer: Abby Robinson
+
+PRODIGAL: http://en.wikipedia.org/wiki/Proactive_Discovery_of_Insider_Threats_Using_Graph_Analysis_and_Learning
 
 
 http://cryptome.org/isp-spy/ga-tech-spy/ga-tech-spy.htm
