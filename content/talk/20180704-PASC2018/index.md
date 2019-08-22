@@ -2,8 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PASC 2018 Keynote Talk: Massive-Scale Analytics Applied to Real-World Problems"
-subtitle: ""
+event: "2018 Platform for Advanced Scientific Computing (PASC) Conference"
+event_url: "https://pasc18.pasc-conference.org/"
+location: "Basel, Switzerland"
 summary: ""
+abstract: "Emerging real-world graph problems include: detecting and preventing disease in human populations; revealing community structure in large social networks; and improving the resilience of the electric power grid. Unlike traditional applications in computational science and engineering, solving these social problems at scale often raises new challenges because of the sparsity and lack of locality in the data, the need for research on scalable algorithms and development of frameworks for solving these real-world problems on high performance computers, and for improved models that capture the noise and bias inherent in the torrential data streams.  In this talk, Bader will discuss the opportunities and challenges in massive data-intensive computing for applications in social sciences, physical sciences, and engineering."
 authors: []
 tags: []
 categories: []
@@ -29,15 +32,7 @@ image:
 projects: []
 ---
 
-[2018 Platform for Advanced Scientific Computing (PASC) Conference](https://pasc18.pasc-conference.org/),
-Basel, Switzerland. 
-July 4, 2018.
-
 ## PASC18 Public Lecture ##
-
-Emerging real-world graph problems include: detecting and preventing disease in human populations; revealing community structure in large social networks; and improving the resilience of the electric power grid. Unlike traditional applications in computational science and engineering, solving these social problems at scale often raises new challenges because of the sparsity and lack of locality in the data, the need for research on scalable algorithms and development of frameworks for solving these real-world problems on high performance computers, and for improved models that capture the noise and bias inherent in the torrential data streams.
-
-In this talk, Bader will discuss the opportunities and challenges in massive data-intensive computing for applications in social sciences, physical sciences, and engineering.
 
 *The Platform for Advanced Scientific Computing (PASC) Conference, co-sponsored by the Association for Computing Machinery (ACM) and the Swiss National Supercomputing Centre (CSCS).*
 
