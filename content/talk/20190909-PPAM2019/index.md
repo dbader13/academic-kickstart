@@ -10,11 +10,18 @@ abstract: "Data science aims to solve grand global challenges such as: detecting
 authors: []
 tags: []
 categories: []
-date: 2019-09-09T13:20:00+02:00
-publishDate: 2019-08-01T16:12:21-04:00
-lastmod: 2019-08-09T16:12:21-04:00
 featured: false
 draft: false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2019-09-09T14:00:00+02:00
+date_end: 2019-09-09T14:40:00+02:00
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2019-08-22T15:26:12-04:00
+
 
 
 # Featured image
