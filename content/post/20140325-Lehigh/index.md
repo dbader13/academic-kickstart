@@ -38,6 +38,6 @@ Bader has earned recognition as a fellow with both IEEE and AAAS, received a Nat
 
 "I believe that the School of CSE has firmly established itself as the country’s premier department focused on solving real-world challenges through advanced computational techniques, thanks to a world-class faculty and dedicated students," says Bader. "My plan as school chair is to accelerate our impactful research and gain recognition for further successes by solving grand challenges that make this world a better place for all."
 
-[Lehigh webpage]()https://web.archive.org/web/20150109185459/https://www.lehigh.edu/engineering/news/alumni/2014/alum_20140325_bader_georgia_tech.html)
+[Lehigh webpage](https://web.archive.org/web/20150109185459/https://www.lehigh.edu/engineering/news/alumni/2014/alum_20140325_bader_georgia_tech.html)
 
 https://engineering.lehigh.edu/alumni/david-bader
