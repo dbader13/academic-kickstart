@@ -10,11 +10,17 @@ abstract: "Emerging real-world graph problems include: detecting and preventing 
 authors: []
 tags: []
 categories: []
-date: 2018-07-04T14:00:00+02:00
-publishDate: 2019-08-01T16:12:21-04:00
-lastmod: 2019-08-11T06:50:38-04:00
 featured: false
 draft: false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2018-07-03T18:30:00+02:00
+date_end: 2018-07-03T19:30:00+02:00
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2019-08-22T15:26:12-04:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -9,11 +9,18 @@ summary: ""
 abstract: "In this emerging era of analytics, nearly every government and industry sector envisions superiority by real-time decision making from torrential streams of data. Predictive analytics leverages the investments in new computer architectures purpose-built for data-intensive workloads from artificial intelligence and machine learning. In real-world challenges such as understanding financial transactions in digital currencies, finding new communities in social networks, increasing power grid resiliency, and protecting us from cyberattack, graphs are a natural representation for connecting information. In this talk, Prof. Bader, one of the nation's leading experts in massive-scale graph analytics, will discuss his Spatio-Temporal Interaction Networks and Graphs (STING) initiative that supports new technologies for finding interesting patterns and features in these critical knowledge graphs from homeland security and national defense. In addition, these problems often require rethinking computer architecture, and Dr. Bader will share his experience with design of new systems in several DARPA programs including Power Efficiency Revolution For Embedded Computing Technologies."
 tags: []
 categories: []
-date: 2019-03-26T09:00:00-04:00
-publishDate: 2019-08-01T16:12:21-04:00
-lastmod: 2019-08-10T16:12:21-04:00
+date: 
 featured: false
 draft: false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2019-03-26T09:00:00-06:00
+date_end: 2019-03-26T09:45:00-06:00
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2019-08-22T15:26:12-04:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
