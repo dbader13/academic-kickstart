@@ -28,6 +28,9 @@ image:
 projects: []
 ---
 
+{{<figure src="37929_web.jpg" caption="Researchers from Georgia Tech are helping to create a suite of algorithms that can detect multiple types of insider threats by analyzing massive amounts of data for unusual activity. The Georgia Tech research team includes (left-right) Erica Briscoe, Andy Register, David A. Bader, Richard Boyd, Anita Zakrzewska, Oded Green, Lora Weiss, Edmond Chow and Oguz Kaya. *(Credit: Gary Meek)*">}}
+
+
 When a soldier in good mental health becomes homicidal or a government employee abuses access privileges to share classified information, we often wonder why no one saw it coming. When looking through the evidence after the fact, a trail often exists that, had it been noticed, could have possibly provided enough time to intervene and prevent an incident.
 
 With support from the Defense Advanced Research Projects Agency (DARPA) and the Army Research Office, researchers at the Georgia Institute of Technology are collaborating with scientists from four other organizations to develop new approaches for identifying these "insider threats" before an incident occurs. The two-year, $9 million project will create a suite of algorithms that can detect multiple types of insider threats by analyzing massive amounts of data -- including email, text messages and file transfers -- for unusual activity.
