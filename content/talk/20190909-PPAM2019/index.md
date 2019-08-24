@@ -15,7 +15,6 @@ draft: false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-startDate: 2019-09-09T14:00:00+02:00
 date: 2019-09-09T14:00:00+02:00
 date_end: 2019-09-09T14:40:00+02:00
 all_day: false
