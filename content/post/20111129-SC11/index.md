@@ -32,6 +32,4 @@ projects: []
 
 In this [video](https://www.youtube.com/watch?v=oynCgx8XEIc), Professor **David Bader** from Georgia Tech discusses his participation in the DARPA ADAMS project. The Anomaly Detection at Multiple Scales (ADAMS) program uses Big Data Analytics to look for cleared personnel that might be on the verge of "Breaking Bad" and becoming internal security threats.
 
-Recorded at SC11. Learn more at: 
-https://web.archive.org/web/20111217120847/http://www.darpa.mil/Our_Work/I2O/Programs/Anomaly_Detection_at_Multiple_Scales_(ADAMS).aspx
-
+Recorded at SC11. Learn more [here](https://web.archive.org/web/20111217120847/http://www.darpa.mil/Our_Work/I2O/Programs/Anomaly_Detection_at_Multiple_Scales_(ADAMS).aspx)
