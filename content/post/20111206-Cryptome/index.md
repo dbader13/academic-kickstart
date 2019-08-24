@@ -61,7 +61,7 @@ Media Relations Contacts: Abby Robinson (abby[at]innovate.gatech.edu; 404-385-33
 
 Writer: Abby Robinson
 
-PRODIGAL: http://en.wikipedia.org/wiki/Proactive_Discovery_of_Insider_Threats_Using_Graph_Analysis_and_Learning
+[PRODIGAL](http://en.wikipedia.org/wiki/Proactive_Discovery_of_Insider_Threats_Using_Graph_Analysis_and_Learning)
 
 
 http://cryptome.org/isp-spy/ga-tech-spy/ga-tech-spy.htm
