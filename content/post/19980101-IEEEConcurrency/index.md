@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-*IEEE Concurrency*’s home page
+*IEEE Concurrency* ’s home page
 (http://computer.org/concurrency/) now
 includes a link to ParaScope, a comprehensive
 listing of parallel computing
