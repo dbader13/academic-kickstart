@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+[UNM Mirage](200404-UNM-Mirage.pdf)
+
 UNM Computing faculty **David A. Bader**, Patrick Bridges, Arthur B. Maccabe and Bernard Moret, are collaborating on IBM’s Productive, Easy-to-use, Reliable, Computing Systems (PERCS) project, a new initiative to design a supercomputer several orders of magnitude faster than today’s high-end systems. 
 
 IBM has received more than $53 million in funding from the Defense Advanced Research Projects Agency (DARPA) for the second phase of DARPA’s High Productivity Computing Systems (HPCS) initiative to perform this research and development effort in technology risk reduction demonstrations and a preliminary design review.

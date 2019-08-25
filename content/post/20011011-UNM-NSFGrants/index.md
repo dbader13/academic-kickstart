@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+[UNM Mirage](200202-UNM-Mirage.pdf)
+
 University of New Mexico School of Engineering Professors Bernard Moret, Computer Science, and **David Bader**, Electrical and Computer Engineering, have received more than $1.1 million in grants this fall from the National Science Foundation (NSF) to pursue research in reconstructing evolutionary trees (known as “phylogenies”). 
 
 This research program is being conducted in collaboration with the University of Texas at Austin. The UT-UNM group received two other awards from the NSF, made directly to the University of Texas, bringing the total group funding for the next five years to more than $7 million. This makes the joint UT-UNM research group the largest and most active group in the world in the area of computational phylogenetics. 

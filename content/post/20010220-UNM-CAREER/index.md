@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+[UNM Mirage](200108-UNM-Mirage.pdf)
+
 University of New Mexico School of Engineering professors **David A. Bader** and Hy D. Tran recently received the National Science Foundation Faculty Early Career Development (CAREER) Awards. 
 
 Bader, assistant professor in Electrical and Computer Engineering, has been awarded the grant in High-Performance Algorithms for Scientific Applications. His CAREER research plan will investigate and develop algorithms for high-performance computers that have multiple processors, advanced memory subsystems and state-of-the-art communication networks. He harnesses all of these resources concurrently to solve computional science applications. Science-driven problems in genomics, bioinformatics and computational ecology will provide the focus for this research. 

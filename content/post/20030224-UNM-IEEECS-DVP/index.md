@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+[UNM Mirage](200308-UNM-Mirage.pdf)
+
 **David A. Bader**, assistant professor in the Electrical and Computer Engineering Department, has been selected as an Institute of Electrical and Electronics Engineers (IEEE) Computer Society Distinguished Speaker. Bader is named to a group of about three dozen speakers from throughout the country and will serve a three-year term.
 
 “I am honored that I have been nominated and selected for this prestigious program,” Bader said. “As a distinguished speaker, I will have the support to visit with IEEE Computer Society student and professional chapters and give presentations related to my high-performance computing research.”
