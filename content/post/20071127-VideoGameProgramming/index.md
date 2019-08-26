@@ -48,4 +48,5 @@ For more information about Multicore and GPU Programming for Video Games, visit 
 
 * Revenue from software sales statistic courtesy of the NPD Group, a leading marketing information provider.*
 
-https://web.archive.org/web/20151011102433/http://www.ece.gatech.edu/highlights/volume-04-issue-04/news/lanterman.html
+[http://www.ece.gatech.edu/highlights/volume-04-issue-04/news/lanterman.html](https://web.archive.org/web/20151011102433/http://www.ece.gatech.edu/highlights/volume-04-issue-04/news/lanterman.html)
+

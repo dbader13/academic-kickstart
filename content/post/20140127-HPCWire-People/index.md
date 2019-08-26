@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HPCWire Reveals the 2014 People to Watch"
+title: "HPCwire Reveals the 2014 People to Watch"
 subtitle: ""
 summary: ""
 authors: []

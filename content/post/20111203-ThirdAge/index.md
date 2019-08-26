@@ -46,4 +46,4 @@ Bader is quick to reassure the public that PRODIGAL couldn't monitor everyone, s
 
 John Fratamico, SAIC senior vice president and business unit general manager said PRODIGAL "can translate to significant, often critical, actionable insider threat information across a wide variety of application domains."
 
-https://web.archive.org/web/20111207074347/http://www.thirdage.com/news/darpa-scanner-to-search-e-mail-for-insider-threats_12-03-2011
+[http://www.thirdage.com/news/darpa-scanner-to-search-e-mail-for-insider-threats_12-03-2011](https://web.archive.org/web/20111207074347/http://www.thirdage.com/news/darpa-scanner-to-search-e-mail-for-insider-threats_12-03-2011)

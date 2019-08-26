@@ -47,4 +47,4 @@ mvincent@curagen.com
 CuraGen Corporation 1-888-GENOMICS
 www.curagen.com.
 
-https://web.archive.org/web/19971015234540/http://www.curagen.com/releases/est_31897.html
+[http://www.curagen.com/releases/est_31897.html](https://web.archive.org/web/19971015234540/http://www.curagen.com/releases/est_31897.html)

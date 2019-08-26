@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HPCWire People to Watch 2012"
+title: "HPCwire People to Watch 2012"
 subtitle: ""
 summary: ""
 authors: []

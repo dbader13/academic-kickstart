@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "David Bader Selected as One of HPCWire’s “People to Watch” in 2014"
+title: "David Bader Selected as One of HPCwire’s “People to Watch” in 2014"
 subtitle: ""
 summary: ""
 authors: []
@@ -38,4 +38,4 @@ Among his many achievements, Bader led an effort that resulted in a nearly $2 mi
 
 Read more about Bader and his thoughts on the trends in HPC for 2014.
 
-https://web.archive.org/web/20140330225419/http://www.cc.gatech.edu/news/david-bader-selected-one-hpcwire%E2%80%99s-%E2%80%9Cpeople-watch%E2%80%9D-2014
+[http://www.cc.gatech.edu/news/david-bader-selected-one-hpcwire%E2%80%99s-%E2%80%9Cpeople-watch%E2%80%9D-2014](https://web.archive.org/web/20140330225419/http://www.cc.gatech.edu/news/david-bader-selected-one-hpcwire%E2%80%99s-%E2%80%9Cpeople-watch%E2%80%9D-2014)

@@ -60,4 +60,4 @@ SNAP is a modular infrastructure that provides an optimized collection of algori
 
 In order to achieve scalable parallel performance, we exploit typical network characteristics of small-world networks, such as the low graph diameter, sparse connectivity, and skewed degree distribution. The SNAP parallel algorithms, coupled with aggressive algorithm engineering for small-world networks, give significant running time improvements over current state-of-the-art social network analysis packages. We are extending the SNAP framework with efficient data structures and algorithms aimed specifically at manipulation and analysis of large dynamic networks, with applications in social networks, healthcare, and critical infrastructures such as the Internet and the power grid.
 
-https://web.archive.org/web/20150902190335/http://www.drdobbs.com/parallel/multicore-and-parallelism-catching-up/216401662
+[http://www.drdobbs.com/parallel/multicore-and-parallelism-catching-up/216401662](https://web.archive.org/web/20150902190335/http://www.drdobbs.com/parallel/multicore-and-parallelism-catching-up/216401662)

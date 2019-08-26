@@ -117,4 +117,5 @@ The nominee cannot be a member of the IEEE Fellow Committee, an IEEE Society/Tec
 
 With nearly 85,000 members, the IEEE Computer Society is the world’s leading organization of computing professionals. Founded in 1946, and the largest of the 39 societies of the Institute of Electrical and Electronics Engineers (IEEE), the Computer Society is dedicated to advancing the theory and application of computer and information-processing technology. The Society serves the information and career-development needs of today’s computing researchers and practitioners with technical journals, magazines, conferences, books, conference publications, certifications, and online courses.
 
-https://web.archive.org/web/20091206201750/https://www.computer.org/portal/web/pressroom/2009/fellows
+[https://www.computer.org/portal/web/pressroom/2009/fellows](https://web.archive.org/web/20091206201750/https://www.computer.org/portal/web/pressroom/2009/fellows)
+

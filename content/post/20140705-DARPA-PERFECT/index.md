@@ -42,4 +42,7 @@ The main focus would be to reduce power consumption by cutting the level of data
 
 The ultimate goal of the project is to get an algorithmic framework that would enable to create smaller devices with supercomputer like capabilities.
 
-https://web.archive.org/web/20140709052901/http://www.cbronline.com/news/tech/hardware/desktops/researchers-working-on-computers-which-can-last-75-times-longer-4311072
+[http://www.cbronline.com/news/tech/hardware/desktops/researchers-working-on-computers-which-can-last-75-times-longer-4311072](https://web.archive.org/web/20140709052901/http://www.cbronline.com/news/tech/hardware/desktops/researchers-working-on-computers-which-can-last-75-times-longer-4311072)
+
+
+
