@@ -62,3 +62,5 @@ For more information on IBM's SUR award project, please visit: http://www-304.ib
 For more information on IBM Technology Collaboration Solutions, please visit http://www.ibm.com/technology.
 
 https://www-03.ibm.com/press/us/en/pressrelease/20756.wss
+
+http://www.hg.gatech.edu/node/51601
