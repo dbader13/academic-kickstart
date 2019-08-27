@@ -87,4 +87,4 @@ Thank you Nicole and thank you for listening to those presentations.
 
 ---
 
-https://www.datanami.com/multimedia/hpcwire_live_atlanta_s_big_data_kick_off_week_meets_hpc_what_does_the_future_holds_for_hpc_-1/
+[https://bit.ly/30EeycJ](https://www.datanami.com/multimedia/hpcwire_live_atlanta_s_big_data_kick_off_week_meets_hpc_what_does_the_future_holds_for_hpc_-1/)
