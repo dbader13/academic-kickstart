@@ -30,7 +30,7 @@ projects: []
 
 ## David Bader, Full Professor in the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology, and Executive Director for High Performance Computing ##
 
-**Dr. Bader* is a lead scientist in the DARPA Ubiquitous High Performance Computing (UHPC) program. He received his Ph.D. in 1996 from The University of Maryland, and his research is supported through highly competitive research awards, primarily from NSF, NIH, DARPA, and DOE.
+**Dr. Bader** is a lead scientist in the DARPA Ubiquitous High Performance Computing (UHPC) program. He received his Ph.D. in 1996 from The University of Maryland, and his research is supported through highly competitive research awards, primarily from NSF, NIH, DARPA, and DOE.
 
 Bader is also one of the original co-founders of the Graph 500, who, since its first list was unveiled at SC ’10, is establishing itself as the preeminent benchmark for data-intensive applications, which are becoming extremely important for business analytics, finance, and any other field where vast data sets need to be evaluated. This is the first serious approach to complement the TOP500 with data intensive applications, and we are looking forward to watching it continue to grow and evolve over the upcoming year.
 
