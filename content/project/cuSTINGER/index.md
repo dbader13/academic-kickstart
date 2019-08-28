@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multicore SWARM: Software and Algorithms for Running on Multicore Processors"
-summary: "an open source library for developing efficient and portable implementations that make use of multi-core processors"
+title: "cuSTINGER"
+summary: "dynamic graph data structures and streaming algorithms for GPU"
 authors: []
 tags: []
 categories: []
-date: 2007-05-15T07:21:37-04:00
+date: 2017-01-01T07:28:09-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://multicore-swarm.sourceforge.net/"
+external_link: "https://github.com/cuStinger"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

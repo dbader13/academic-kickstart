@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multicore SWARM: Software and Algorithms for Running on Multicore Processors"
-summary: "an open source library for developing efficient and portable implementations that make use of multi-core processors"
+title: "HORNET"
+summary: "High-Performance Streaming Graph Analytics on GPUs"
 authors: []
 tags: []
 categories: []
-date: 2007-05-15T07:21:37-04:00
+date: 2018-05-01T07:29:53-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://multicore-swarm.sourceforge.net/"
+external_link: "https://github.com/hornet-gt"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
