@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "GRAPPA: Genome Rearrangements Analysis under Parsimony and other Phylogenetic Algorithms"
-summary: ""
+summary: "High-performance software for computational phylogeny"
 authors: []
 tags: []
 categories: []
 date: 2004-12-31T09:47:53-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.cs.unm.edu/~moret/GRAPPA/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
