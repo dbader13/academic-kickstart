@@ -1,0 +1,19 @@
+@inproceedings{1996-HBJ,
+ abstract = {A fundamental challenge for parallel computing is to obtain high-level, architecture independent, algorithms which exe- cute efficiently on general-purpose parallel machines. With the emergence of message passing standards such as MPI, it has become easier to design efficient and portable parallel al- gorithms by making use of these communication primitives. While existing primitives allow an assortment of collective communication routines, they do not handle an important communication event when most or all processors have non- uniformly sized personalized messages to exchange with each other. We first present an algorithm for the h-relation per- sonalized communication whose efficient implementation will allow high performance implementations of a large class of algorithms. We then consider how to effectively use these communi- cation primitives to address the problem of sorting. Previ- ous schemes for sorting on general-purpose parallel machines have had to choose between poor load balancing and irreg- ular communication or multiple rounds of all-to-all person- alized communication. In this paper, we introduce a novel variation on sample sort which uses only two rounds of reg- ular all-to-all personalized communication in a scheme that yields very good load balancing with virtually no overhead. Another variation using regular sampling for choosing the splitters has similar performance with deterministic guar- anteed bounds on the memory and communication require- ments. Both of these variations efficiently handle the pres- ence of duplicates without the overhead of tagging each el- ement. The personalized communication and sorting algorithms presented in this paper have been coded in SPLIT-C and run on a variety of platforms, including the Thinking Ma- chines CM-5, IBM SP-2, Gray Research T3D, Meiko Scien- tific CS-2, and the Intel Paragon. Our experimental results are consistent with the theoretical analyses and illustrate " The support by NASA Graduate Student Researcher Fellowship},
+ address = {New York},
+ author = {David R. Helman and David A. Bader and Joseph JáJá},
+ bibsource = {dblp computer science bibliography, https://dblp.org},
+ biburl = {https://dblp.org/rec/bib/conf/spaa/HelmanBJ96},
+ booktitle = {Proceedings of the 8th Annual ACM Symposium on Parallel Algorithms and Architectures, SPAA '96, Padua, Italy, June 24-26, 1996},
+ doi = {10.1145/237502.237558},
+ editor = {Guy E. Blelloch},
+ groups = {Edited},
+ note = {39 papers accepted out of 106 papers submitted: 36.8% acceptance rate},
+ pages = {211--222},
+ publisher = {ACM},
+ timestamp = {Wed, 21 Nov 2018 12:27:44 +0100},
+ title = {Parallel Algorithms for Personalized Communication and Sorting with an Experimental Study (Extended Abstract)},
+ url = {https://doi.org/10.1145/237502.237558},
+ year = {1996}
+}
+

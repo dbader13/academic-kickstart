@@ -1,0 +1,18 @@
+@inproceedings{2017-ZLS+,
+ abstract = {PageRank is a fundamental graph algorithm to evaluate the importance of vertices in a graph. In this paper, we present an efficient parallel PageRank design based on an edge-centric scatter-gather model. To overcome the poor locality of PageRank and optimize the memory performance, we develop a fast and efficient partitioning technique. We first partition all the vertices into non-overlapping vertex sets such that the data of each vertex set can fit in the cache; then we sort the outgoing edges of each vertex set based on the destination vertices to minimize random memory writes. The partitioning technique significantly reduces random accesses to main memory and improves the sustained memory bandwidth by 3×. It also enables efficient parallel execution on multicore platforms; we use distinct cores to execute the computations of distinct vertex sets in parallel to achieve speedup. We implement our design on a 16-core Intel Xeon processor and use various large-scale real-life and synthetic datasets for evaluation. Compared with the PageRank Pipeline Benchmark, our design achieves 12× to 19× speedup for all the datasets.},
+ address = {Los Alamitos, CA},
+ author = {Shijie Zhou and Kartik Lakhotia and Shreyas G. Singapura and Hanqing Zeng and Rajgopal Kannan and Viktor K. Prasanna and James Fox and Euna Kim and Oded Green and David A. Bader},
+ bibsource = {dblp computer science bibliography, https://dblp.org},
+ biburl = {https://dblp.org/rec/bib/conf/hpec/ZhouLSZKPFKGB17},
+ booktitle = {The 21st Annual IEEE High Performance Extreme Computing Conference, HPEC 2017, Waltham, MA, USA, September 12-14, 2017},
+ doi = {10.1109/HPEC.2017.8091048},
+ groups = {Edited},
+ note = {Graph Challenge Student Innovation Award},
+ pages = {1--6},
+ publisher = {IEEE Computer Society},
+ timestamp = {Fri, 02 Nov 2018 00:00:00 +0100},
+ title = {Design and implementation of parallel PageRank on multicore platforms},
+ url = {https://doi.org/10.1109/HPEC.2017.8091048},
+ year = {2017}
+}
+

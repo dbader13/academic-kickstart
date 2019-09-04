@@ -1,0 +1,23 @@
+@article{2005-BC,
+ abstract = {The ability to provide uniform shared-memory access to a significant number of processors in a single SMP node brings us much closer to the ideal PRAM parallel computer. Many PRAM algorithms can be adapted to SMPs with few modifications. Yet there are few studies that deal with the implementation and performance issues of running PRAM-style algorithms on SMPs. Our study in this paper focuses on implementing parallel spanning tree algorithms on SMPs. Spanning tree is an important problem in the sense that it is the building block for many other parallel graph algorithms and also because it is representative of a large class of irregular combinatorial problems that have simple and efficient sequential implementations and fast PRAM algorithms, but these irregular problems often have no known efficient parallel implementations. Experimental studies have been conducted on related problems (minimum spanning tree and connected components) using parallel computers, but only achieved reasonable speedup on regular graph topologies that can be implicitly partitioned with good locality features or on very dense graphs with limited numbers of vertices. In this paper we present a new randomized algorithm and implementation with superior performance that for the first time achieves parallel speedup on arbitrary graphs (both regular and irregular topologies) when compared with the best sequential implementation for finding a spanning tree. This new algorithm uses several techniques to give an expected running time that scales linearly with the number p of processors for suitably large inputs (n>p2). As the spanning tree problem is notoriously hard for any parallel implementation to achieve reasonable speedup, our study may shed new light on implementing PRAM algorithms for shared-memory parallel computers. The main results of this paper are:
+1. A new and practical spanning tree algorithm for symmetric multiprocessors that exhibits parallel speedups on graphs with regular and irregular topologies; and
+2. an experimental study of parallel spanning tree algorithms that reveals the superior performance of our new approach compared with the previous algorithms.
+
+
+The source code for these algorithms is freely-available from our web site.
+},
+ author = {David A. Bader and Guojing Cong},
+ bibsource = {dblp computer science bibliography, https://dblp.org},
+ biburl = {https://dblp.org/rec/bib/journals/jpdc/BaderC05},
+ doi = {10.1016/j.jpdc.2005.03.011},
+ groups = {Edited},
+ journal = {Journal of Parallel and Distributed Computing},
+ number = {9},
+ pages = {994--1006},
+ timestamp = {Wed, 14 Nov 2018 00:00:00 +0100},
+ title = {A fast, parallel spanning tree algorithm for symmetric multiprocessors (SMPs)},
+ url = {https://doi.org/10.1016/j.jpdc.2005.03.011},
+ volume = {65},
+ year = {2005}
+}
+

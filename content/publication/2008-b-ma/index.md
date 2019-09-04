@@ -1,0 +1,13 @@
+---
+title: "A graph-theoretic analysis of the human protein-interaction network using multicore parallel algorithms"
+date: 2008-01-01
+publishDate: 2019-09-04T10:56:26.420739Z
+authors: ["David A. Bader", "Kamesh Madduri"]
+publication_types: ["2"]
+abstract: "Due to fundamental physical limitations and power constraints, we are witnessing a paradigm shift in commodity microprocessor architecture to multicore designs. Continued performance now requires the exploitation of concurrency at the algorithm level. In this article, we demonstrate the application of high performance computing techniques in systems biology and present multicore algorithms for the important research problem of protein-interaction network (PIN) analysis.  PINs play an important role in understanding the functional and organizational principles of biological processes. Promising computational techniques for key systems biology research problems such as identification of signaling pathways, novel protein function prediction, and the study of disease mechanisms, are based on topological characteristics of the protein interactome. Several complex network models have been proposed to explain the evolution of protein networks, and these models primarily try to reproduce the topological features observed in yeast, the model eukaryote interactome. In this article, we study the structural properties of a high-confidence human interaction network, constructed by assimilating recent experimentally derived interaction data. We identify topological properties common to the yeast and human protein networks.  Betweenness is a quantitative measure of centrality of an entity in a complex network, and is based on computing all-pairs shortest paths in the graph. A novel contribution of our work is the analysis of the degree–betweenness centrality correlation in the human PIN. Jeong et al. empirically showed that betweenness is positively correlated with the essentiality and evolutionary age of a protein. We observe that proteins with high betweenness, but low degree (or connectivity) are abundant in the human PIN. We have designed efficient and portable parallel implementations for the exact calculation of betweenness and other compute-intensive centrality metrics relevant to interactome analysis. For example, on the Sun Fire T2000 server with the UltraSparc T1 (Niagara) processor, we achieve a relative speedup of about 16 using 32 threads for a typical instance of betweenness centrality on a PIN, reducing the running time from nearly 3 1/2 to 13 s."
+featured: false
+publication: "*Parallel Computing*"
+url_pdf: "https://doi.org/10.1016/j.parco.2008.04.002"
+doi: "10.1016/j.parco.2008.04.002"
+---
+
