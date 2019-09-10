@@ -1,7 +1,7 @@
 ---
 title: "HiCOMB 2002: Workshop Introduction"
 date: 2002-01-01
-publishDate: 2019-09-04T10:56:25.454198Z
+publishDate: 2019-09-10T12:18:36.351520Z
 authors: ["David A. Bader", "Srinivas Aluru"]
 publication_types: ["1"]
 abstract: ""

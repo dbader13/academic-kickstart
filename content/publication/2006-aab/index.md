@@ -1,7 +1,7 @@
 ---
 title: "Editorial: Special Section on High-Performance Computational Biology"
 date: 2006-01-01
-publishDate: 2019-09-04T10:56:26.579879Z
+publishDate: 2019-09-10T12:18:37.945700Z
 authors: ["Srinivas Aluru", "Nancy M. Amato", "David A. Bader"]
 publication_types: ["2"]
 abstract: ""

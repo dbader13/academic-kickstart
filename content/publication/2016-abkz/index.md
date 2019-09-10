@@ -1,7 +1,7 @@
 ---
 title: "HiCOMB Introduction and Committees"
 date: 2016-01-01
-publishDate: 2019-09-04T10:56:23.154999Z
+publishDate: 2019-09-10T12:18:34.077212Z
 authors: ["Srinivas Aluru", "David A. Bader", "Ananth Kalyanaraman", "Jaroslaw Zola"]
 publication_types: ["1"]
 abstract: "Provides a listing of current committee members and society officers."

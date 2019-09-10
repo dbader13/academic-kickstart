@@ -1,7 +1,7 @@
 ---
 title: "Introduction to EMBRACE Workshop"
 date: 2017-01-01
-publishDate: 2019-09-04T10:56:23.041968Z
+publishDate: 2019-09-10T12:18:33.958504Z
 authors: ["David A. Bader"]
 publication_types: ["1"]
 abstract: "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record."

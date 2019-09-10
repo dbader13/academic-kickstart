@@ -1,7 +1,7 @@
 ---
 title: "Special Issue: High Performance Computational Biology"
 date: 2004-01-01
-publishDate: 2019-09-04T10:56:26.630361Z
+publishDate: 2019-09-10T12:18:38.008276Z
 authors: ["David A. Bader", "Srinivas Aluru"]
 publication_types: ["2"]
 abstract: ""

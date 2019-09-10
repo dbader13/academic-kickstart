@@ -1,7 +1,7 @@
 ---
 title: "Guest editorial: High-performance computational biology"
 date: 2008-01-01
-publishDate: 2019-09-04T10:56:26.406927Z
+publishDate: 2019-09-10T12:18:37.690991Z
 authors: ["David A. Bader", "Srinivas Aluru"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Parallel community detection for massive graphs"
 date: 2013-01-01
-publishDate: 2019-09-04T10:56:22.532985Z
+publishDate: 2019-09-10T12:18:33.632757Z
 authors: ["E. Jason Riedy", "Henning Meyerhenke", "David Ediger", "David A. Bader"]
 publication_types: ["6"]
 abstract: ""

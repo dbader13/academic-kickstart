@@ -1,7 +1,7 @@
 ---
 title: "HiCOMB Introduction and Committees"
 date: 2014-01-01
-publishDate: 2019-09-04T10:56:23.446593Z
+publishDate: 2019-09-10T12:18:34.347331Z
 authors: ["Alba Cristina Magalhaes", "Alves de Melo", "Srinivas Aluru", "David A. Bader"]
 publication_types: ["1"]
 abstract: "Provides a listing of current committee members and society officers."

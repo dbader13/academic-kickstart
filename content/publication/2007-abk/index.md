@@ -1,7 +1,7 @@
 ---
 title: "Symposium Evening Tutorial: High-performance Computing Methods for Computational Genomics"
 date: 2007-01-01
-publishDate: 2019-09-04T10:56:25.032722Z
+publishDate: 2019-09-10T12:18:35.739799Z
 authors: ["Srinivas Aluru", "David A. Bader", "Anantharaman Kalyanaraman"]
 publication_types: ["1"]
 abstract: ""

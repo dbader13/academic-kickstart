@@ -1,7 +1,7 @@
 ---
 title: "Graph Partitioning and Graph Clustering"
 date: 2013-01-01
-publishDate: 2019-09-04T10:56:26.199166Z
+publishDate: 2019-09-10T12:18:37.477953Z
 authors: ["David A. Bader", "Henning Meyerhenke", "Peter Sanders", "Dorothea Wagner"]
 publication_types: ["0"]
 abstract: ""

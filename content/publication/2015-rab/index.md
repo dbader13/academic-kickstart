@@ -1,7 +1,7 @@
 ---
 title: "HiCOMB Introduction and Committees"
 date: 2015-01-01
-publishDate: 2019-09-04T10:56:23.294961Z
+publishDate: 2019-09-10T12:18:34.227727Z
 authors: ["Sanguthevar Rajasekaran", "Srinivas Aluru", "David A. Bader"]
 publication_types: ["1"]
 abstract: "Provides a listing of current committee members and society officers. The conference also offers a note of thanks and lists its reviewers."

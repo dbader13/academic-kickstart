@@ -1,7 +1,7 @@
 ---
 title: "Engineering Algorithms for Computational Biology"
 date: 2008-01-01
-publishDate: 2019-09-04T10:56:24.833244Z
+publishDate: 2019-09-10T12:18:35.530882Z
 authors: ["David A. Bader"]
 publication_types: ["6"]
 abstract: ""

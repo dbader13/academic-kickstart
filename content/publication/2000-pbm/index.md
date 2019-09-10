@@ -1,7 +1,7 @@
 ---
 title: "Tutorial A: Design and Analysis of High Performance Clusters"
 date: 2000-01-01
-publishDate: 2019-09-04T10:56:25.542306Z
+publishDate: 2019-09-10T12:18:36.455837Z
 authors: ["Rob Pennington", "David A. Bader", "Barney Maccabe", "Patricia A. Kovatch", "Stephen L. Scott"]
 publication_types: ["1"]
 abstract: ""

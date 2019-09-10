@@ -1,7 +1,7 @@
 ---
 title: "HiCOMB Introduction"
 date: 2011-01-01
-publishDate: 2019-09-04T10:56:23.979856Z
+publishDate: 2019-09-10T12:18:34.868092Z
 authors: ["Ananth Kalyanaraman", "Srinivas Aluru", "David A. Bader"]
 publication_types: ["1"]
 abstract: "Presents the introductory welcome message from the conference proceedings."

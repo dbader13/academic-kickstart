@@ -1,7 +1,7 @@
 ---
 title: "HCW 2012 Keynote Talk: Analyzing massive data using heterogeneous computing"
 date: 2012-01-01
-publishDate: 2019-09-04T10:56:23.882331Z
+publishDate: 2019-09-10T12:18:34.761621Z
 authors: ["David A. Bader"]
 publication_types: ["1"]
 abstract: "Summary form only given. The keynote speach was not made available for publication as part of the conference proceedings. Only a professional biography of the speaker is presented."
