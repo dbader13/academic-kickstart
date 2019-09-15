@@ -1,5 +1,5 @@
 ---
-title: "Parallel Processing and Applied Mathematics"
+title: "Petascale Computing for Large-Scale Graph Problems"
 date: 2008-01-01
 publishDate: 2019-09-10T12:18:37.724420Z
 authors: ["David A. Bader"]
