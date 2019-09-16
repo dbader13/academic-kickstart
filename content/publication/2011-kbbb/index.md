@@ -1,5 +1,5 @@
 ---
-title: "Fundamental Questions in the Analysis of Large Graphs Read More: https://epubs-siam-org.libdb.njit.edu:8443/doi/abs/10.1137/1.9780898719918.ch16"
+title: "Fundamental Questions in the Analysis of Large Graphs"
 date: 2011-01-01
 publishDate: 2019-09-15T17:12:25.932439Z
 authors: ["Jeremy Kepner", "David A. Bader", "Robert Bond", "Nadya Bliss", "Christos Faloutsos", "Bruce Hendrickson", "John Gilbert", "Eric Robinson Read More: https://epubs-siam-org.libdb.njit.edu:8443/doi/abs/10.1137/1.9780898719918.ch16"]
