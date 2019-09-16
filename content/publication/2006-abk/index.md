@@ -1,5 +1,5 @@
 ---
-title: "M11 - High-performance computing methods for computational genomics"
+title: "High-performance computing methods for computational genomics"
 date: 2006-01-01
 publishDate: 2019-09-10T12:18:35.903269Z
 authors: ["Srinivas Aluru", "David A. Bader", "Anantharaman Kalyanaraman"]
