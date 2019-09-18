@@ -1,0 +1,13 @@
+---
+title: "Semantic database applications at the Samtavro Cemetery, Georgia"
+date: 2016-01-01
+publishDate: 2019-09-18T11:07:24.509489Z
+authors: ["David Bader", "Aleksandra Michalewicz", "Oded Green", "Jessie Birkett-Rees", "Jason Riedy", "James Fairbanks", "Anita Zakrzewska"]
+publication_types: ["1"]
+abstract: "In 2013 a paper was offered to the CAA concerning archaeological legacy data and semantic database applications, with some preliminary results for a study conducted into the Samtavro cemetery, situated in the South Caucasus in the modern republic of Georgia. The present paper presents further research outcomes of data mining the Samtavro material. Over four thousand graves were excavated at this site, used most intensively during the Late Bronze and Iron Ages, and later in the Roman and Late Antique periods. The current project focuses on the latter period—and the legacy of Soviet and post-Soviet excavations—in a collaborative effort between computer scientists based at the Georgia Institute of Technology, USA, and archaeologists at the University of Melbourne and Monash University, Australia.  Data for 1075 tombs, 1249 individuals, and 5842 grave accoutrements were collected across 74 data fields, resulting in the identification of 9 tomb types, 37 artefact types and 320 artefact subtypes. Methods tested against the Samtavro material culture included the application of clustering techniques to understand associations of related items based on patterns of co-occurrence, using traditional data mining (hierarchical link clustering) and spectral graph theory—focusing on tomb types in relation to artefact types. The other method calculated the probability of each event occurring and comparing this to what we would expect if these were truly random—focusing on artefact types in relation to biological sex and age brackets.  In some instances, our work confirmed previously established relationships, but it likewise revealed new results concerning particular entities. The project demonstrates that although sites for which comprehensive archival records exist can benefit from these types of approaches, often the greatest limitation in taking a ‘big data’ approach is the relative scarcity of archaeological data."
+featured: false
+publication: "*The 44th Computer Applications and Quantitative Methods in Archaeology Conference (CAA), Oslo, Norway, March 29 – April 2, 2016*"
+tags: ["graph analysis", "archaeology"]
+url_pdf: "https://2016.caaconference.org/session-11-supporting-researchers-in-the-use-and-re-use-of-archaeological-data-continuing-the-ariadne-thread/"
+---
+
