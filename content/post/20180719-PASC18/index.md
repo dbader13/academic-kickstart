@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-[![Bader PASC18 interview](http://img.youtube.com/vi/B8zz-_GWSCY/0.jpg)](http://www.youtube.com/watch?v=B8zz-_GWSCY)
+[![Bader PASC18 interview](https://img.youtube.com/vi/B8zz-_GWSCY/0.jpg)](https://www.youtube.com/watch?v=B8zz-_GWSCY)
 
 In this keynote video from [PASC18](https://pasc18.pasc-conference.org/), David Bader from Georgia Tech presents: *Massive-Scale Analytics Applied to Real-World Problems*.
 
