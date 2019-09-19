@@ -2,8 +2,6 @@
  abstract = {The constant and massive influx of new data into analysis systems needs to be addressed without assuming we can pause the onslaught. Here we consider one aspect: non-stop graph analysis of streaming data. We formalize a new and practical algorithm model that includes both single-run analysis as well as efficiently updating analysis results only around changed data. In our model, a massive graph undergoes changes from an input stream of edge insertions and removals. These changes occur concurrently with analysis. Algorithms do not pause or stop the input stream. Assuming basic data access safety, we consider an algorithm valid for our model if the output is correct for a graph consisting of the initial graph and some implicit subset of concurrent changes. Our technical contributions include 1) the first formal model for graph analysis with concurrent changes, 2) properties of the model including how our model is the strongest possible without point-in-time graph views, 3) demonstrations of our model on connected components and PageRank, and 4) an extension to updating computed results incrementally. },
  author = {Chunxing Yin and Jason Riedy and David A. Bader},
  booktitle = {Proceedings of the 14th International Workshop on Mining and Learning with Graphs ({MLG}), held in conjunction with 24th {ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining ({KDD})},
- ejr-grant = {hpda, grateful},
- ejr-proj = {high-performance-data-analysis, graph-analysis, novel-arch},
  groups = {Edited},
  keywords = {hpda, graph analysis, streaming data},
  pages = {1--8},
