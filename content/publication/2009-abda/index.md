@@ -1,8 +1,8 @@
 ---
-title: "Faster FAST: Multicore Acceleration of Streaming Financial Data"
+title: "Faster FAST: Multicore Acceleration of Streaming Financial Data (Best Paper Award)"
 date: 2009-01-01
 publishDate: 2019-09-18T11:07:24.880643Z
-authors: ["V. Agarwal", "David A. Bader", "L. Dan", "L. -K. Liu", "D. Pasetto", "M. Perrone", "F. Petrini"]
+authors: ["Virat Agarwal", "David A. Bader", "Lin Dan", "Lurng-Kuo Liu", "Davide Pasetto", "Michael Perrone", "Fabrizio Petrini"]
 publication_types: ["1"]
 abstract: ""
 featured: false
