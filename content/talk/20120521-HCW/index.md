@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-, May 21, 2012.
+
 title: "HCW 2012 Keynote Talk: Analyzing Massive Data on Heterogeneous Computing"
 event: "21st International Heterogeneity in Computing Workshop (HCW)"
 event_url: ""
