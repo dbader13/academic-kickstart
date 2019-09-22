@@ -3,7 +3,7 @@
 
 title: "HCW 2012 Keynote Talk: Analyzing Massive Data on Heterogeneous Computing"
 event: "21st International Heterogeneity in Computing Workshop (HCW)"
-event_url: ""
+event_url: "http://hcw-xyz.eecs.wsu.edu/archive/2012/"
 location: "Shanghai, China"
 summary:
 abstract:
@@ -11,7 +11,7 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2012-05-21T09:00:00+08:00
-date_end: 2012-05-21T10:00:00+08:00
+date_end: 2012-05-21T09:50:00+08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -60,8 +60,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-[http://hcw.wsu.edu/](https://web.archive.org/web/20130411153447/http://hcw.eecs.wsu.edu/)
 
 ## Brief Biography ##
 
