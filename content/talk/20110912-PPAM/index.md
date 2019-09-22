@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ParGraph 2011 Keynote Talk: Opportunities and Challenges in Massive Data-Intensive Computing"
-event: "Workshop on Parallel Algorithms and Software for Analysis of Massive Graphs (ParGraph)"
-event_url: "https://web.archive.org/web/20111015000741/https://cass-mt.pnnl.gov/pargraph.aspx"
-location: "Bengaluru, India"
+title: "PPAM 2011 Keynote Talk: Opportunities and Challenges in Massive DataIntensive Computing"
+event: "The 9th International Conference on Parallel Processing and Applied Mathematics (PPAM)"
+event_url: "https://ppam.pl/prev/ppam2011/"
+location: "Torun, Poland"
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2011-12-18T09:00:00+05:30
-date_end: 2011-12-18T10:00:00+05:30
+date: 2011-09-12T14:40:00+02:00
+date_end: 2011-09-12T15:20:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-09-22T09:04:25-04:00
+publishDate: 2019-09-22T18:59:13-04:00
 
 authors: []
 tags: []
@@ -60,6 +60,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-[https://cass-mt.pnnl.gov/pargraph.aspx](https://web.archive.org/web/20111015000741/https://cass-mt.pnnl.gov/pargraph.aspx)
-
