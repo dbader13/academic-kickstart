@@ -61,6 +61,7 @@ slides: ""
 projects: []
 ---
 
+[![Predictive Analysis from Massive Knowledge Graphs on Neo4j – David Bader](https://img.youtube.com/vi/3yKcJ7pmzyQ/0.jpg)](https://www.youtube.com/watch?v=3yKcJ7pmzyQ)
 
 GraphConnect is the global conference for the graph technology community. Drawing experts and enthusiasts alike, the gathering focuses on Neo4j, the world’s leading graph database and the #1 platform for connected data.
 
