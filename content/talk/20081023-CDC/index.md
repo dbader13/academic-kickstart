@@ -1,21 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Accelerating Applications with Cell Broadband Engine, Graphics, and Multithreaded, Processors"
-event: "SC08 Workshop on Bridging Multicore's Programmability Gap"
-event_url: "https://sites.google.com/site/sc08mcoregap/"
-location: "Austin, TX"
+title: "Petascale Phylogenetic Reconstruction of Evolutionary Histories"
+event: "Symposium on Biomedical High Performance Computing"
+event_url:
+location: "CDC Biotechnology Core Facility, Atlanta, GA"
 summary:
-abstract: ""
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2008-11-11T13:30:00-06:00
-date_end: 2008-11-11T14:30:00-06:00
+date: 2008-10-23T10:00:00-04:00
+date_end: 2008-10-23T11:00:00-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-09-29T07:16:37-04:00
+publishDate: 2019-09-29T19:26:04-04:00
 
 authors: []
 tags: []
@@ -60,5 +60,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-[Talk slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYzA4bWNvcmVnYXB8Z3g6N2M2NmMxOGEzN2Q5Mjk0Yw)
