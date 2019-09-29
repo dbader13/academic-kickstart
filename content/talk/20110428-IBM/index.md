@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IBM Research Keynote Speaker: Opportunities and Challenges in Massive Data-Intensive Computing"
+title: "IBM Research Keynote Talk: Opportunities and Challenges in Massive Data-Intensive Computing"
 event: "IBM Research Spring Strategy Meeting"
 event_url:
 location: "IBM Thomas J. Watson Research Center, Yorktown Heights, NY"

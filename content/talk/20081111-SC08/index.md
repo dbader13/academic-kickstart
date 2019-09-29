@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Accelerating Applications with Cell Broadband Engine, Graphics, and Multithreaded, Processors"
+title: "SC08 Workshop Keynote Talk: Accelerating Applications with Cell Broadband Engine, Graphics, and Multithreaded, Processors"
 event: "SC08 Workshop on Bridging Multicore's Programmability Gap"
 event_url: "https://sites.google.com/site/sc08mcoregap/"
 location: "Austin, TX"

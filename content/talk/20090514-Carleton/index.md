@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Accelerating Scientific Computing with the Cell Broadband Engine Processor"
+title: "STI Cell Keynote Talk: Accelerating Scientific Computing with the Cell Broadband Engine Processor"
 event: "The 2nd Annual Carleton Cell BE Programming Workshop"
 event_url: "http://cu-bic.ca/cell/"
 location: "Carleton University, Ottawa, Canada"

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "UC Berkeley, Invited Speaker: Opportunities and Challenges in Massive Data-Intensive Computing"
+title: "UC Berkeley, Invited Talk: Opportunities and Challenges in Massive Data-Intensive Computing"
 event: "From Data to Knowledge: Machine-Learning with Real-time and Streaming Applications"
 event_url: "https://lyra.berkeley.edu/CDIConf/"
 location: "Berkeley, CA"

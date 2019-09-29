@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Massive Scale Analytics of Streaming Social Networks"
+title: "EIHECS6 Keynote Talk: Massive Scale Analytics of Streaming Social Networks"
 event: "6th Erlangen High-End-Computing Symposium"
 event_url: "https://web.archive.org/web/20100607205342/http://www10.informatik.uni-erlangen.de:80/de/Misc/EIHECS6/index.shtml"
 location: "Erlangen, Germany"

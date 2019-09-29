@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Petascale Phylogenetic Reconstruction of Evolutionary Histories"
+title: "CDC Keynote Talk: Petascale Phylogenetic Reconstruction of Evolutionary Histories"
 event: "Symposium on Biomedical High Performance Computing"
 event_url:
 location: "CDC Biotechnology Core Facility, Atlanta, GA"
