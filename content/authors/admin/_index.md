@@ -55,6 +55,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: http://scholar.google.com/citations?user=uXUA1pgAAAAJ  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7380-5876
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/David_Bader2
