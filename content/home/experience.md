@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Newark, NJ"
   date_start = "2019-07-01"
   date_end = ""
-#  description = """
+  description = """Department of Computer Science, Ying Wu College of Computing"""
 #  Responsibilities include:
 #  
 #  * Analysing
