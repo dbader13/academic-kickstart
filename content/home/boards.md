@@ -69,6 +69,14 @@ date_format = "2006"
   date_end = "2014-12-31"
 
 [[experience]]
+  title = "Advisory Council Member"
+  company = "Internet2"
+  company_url = "https://www.internet2.edu/"
+  location = ""
+  date_start = "2007-01-01"
+  date_end = "2011-12-31"
+
+[[experience]]
   title = "Advisory Board Member"
   company = "DSPlogic, Inc."
   company_url = "https://DSPlogic.com/"
