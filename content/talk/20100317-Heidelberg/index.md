@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Keynote Speaker: Analyzing Massive Social Networks using Multicore and Multithreaded Architectures"
+title: "Keynote Talk: Analyzing Massive Social Networks using Multicore and Multithreaded Architectures"
 event: "Facing the Multicore Challenge"
 event_url: "https://www.haw.uni-heidelberg.de/forschung/konf-multicore.en.html"
 location: "Heidelberg Academy of Sciences, Heidelberg, Germany"
