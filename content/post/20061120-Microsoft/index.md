@@ -38,4 +38,4 @@ This award supports Bader’s design of a parallel programming methodology for M
 
 Bader plans to deliver his methodologies and parallel algorithm libraries as a package for Microsoft Visual Studio 2005 using the SDK v3 extensibility toolkit. Several releases of the SWARM package are planned: an initial release when the build environment is stable and basic primitives are implemented; a second major release with parallel primitives that support two to three higher-level algorithms; and the third release at the end of the project with a complete set of fundamental kernels and additional higher-level algorithms. The source code will be freely-available under the Microsoft Permissive License (Ms-PL) that allows licensees to view, modify, and redistribute the source code for either commercial or non-commercial purposes.
 
-
+[http://www.cc.gatech.edu/news/david-bader-wins-microsoft-research-award](https://web.archive.org/web/20080202060253/http://www.cc.gatech.edu/news/david-bader-wins-microsoft-research-award)
