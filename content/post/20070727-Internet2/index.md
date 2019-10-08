@@ -36,4 +36,4 @@ The RAC is responsible for advising the Internet2 Board (consisting primarily of
 
 Internet2 is a not-for-profit advanced networking consortium comprising more than 200 U.S. universities in cooperation with 70 leading corporations, 45 government agencies, laboratories and other institutions of higher learning as well as over 50 international partner organizations. Beyond just providing network capacity, Internet2 and its members actively engage in the development of important new technology including middleware, security, network research and performance measurement capabilities which are critical to the progress of the Internet. For more information and the complete announcement, visit the Internet2 website.
 
-https://studylib.net/doc/14186765/david-bader-elected-to-serve-on-advisory-board-for-internet2
+[http://www.cc.gatech.edu/news/david-bader-elected-to-serve-on-advisory-board-for-internet2](https://web.archive.org/web/20080202060238/http://www.cc.gatech.edu/news/david-bader-elected-to-serve-on-advisory-board-for-internet2)
