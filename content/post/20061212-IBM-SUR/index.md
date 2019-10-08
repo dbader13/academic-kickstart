@@ -64,3 +64,7 @@ For more information on IBM Technology Collaboration Solutions, please visit htt
 https://www-03.ibm.com/press/us/en/pressrelease/20756.wss
 
 http://www.hg.gatech.edu/node/51601
+
+Tech Wins IBM Shared University Research Award: 
+[http://www.cc.gatech.edu/news/tech-wins-ibm-shared-university-research-award](https://web.archive.org/web/20080202061034/http://www.cc.gatech.edu/news/tech-wins-ibm-shared-university-research-award)
+
