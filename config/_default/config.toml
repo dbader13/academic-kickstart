@@ -49,7 +49,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [outputFormats.WebAppManifest]
   mediaType = "application/manifest+json"
   rel = "manifest"
-
+  
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
