@@ -5,6 +5,7 @@ title: "Facebook AI Systems Faculty Summit: Scalable Graph Learning Algorithms"
 event: "Facebook AI Systems Faculty Summit 2019"
 event_url: "https://facebook.com/"
 location: "Menlo Park, CA"
+address: 
 summary: ""
 abstract: "Deep learning has boosted the machine learning field at large and created significant increases in the performance of tasks including speech recognition, image classification, object detection, and recommendation. It has opened the door to complex tasks, such as self-driving and super-human image recognition. However, the important techniques used in deep learning, e.g. convolutional neural networks, are designed for Euclidean data type and do not directly apply on graphs. This problem is solved by embedding graphs into a lower dimensional Euclidean space, generating a regular structure. There is also prior work on applying convolutions directly on graphs and using sampling to choose neighbor elements. Systems that use this technique are called graph convolution networks (GCNs). GCNs have proven to be successful at graph learning tasks like link prediction and graph classification. Recent work has pushed the scale of GCNs to billions of edges but significant work remains to extend learned graph systems beyond recommendation systems with specific structure and to support big data models such as streaming graphs."
 
