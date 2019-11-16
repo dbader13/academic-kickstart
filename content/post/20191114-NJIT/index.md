@@ -28,6 +28,10 @@ image:
 projects: []
 ---
 
+{{<figure src="bader.jpg">}}
+
+*By Evan Koblentz*
+
 Data science has reached a point where techniques such as deep learning can beat humans at recognizing objects, although experts are still figuring out how to make explainable predictions from massive data, NJIT distinguished professor **David Bader** said.
 
 Bader leads the university's Institute for Data Science in collaboration with the Ying Wu College of Computing, Newark College of Engineering, Martin Tuchman School of Management, and College of Science and Liberal Arts. He also advises the National Strategic Computing Initiative, founded in 2015 under President Obama through the White House's Office of Science and Technology Policy, which [released a report today](https://www.nitrd.gov/pubs/National-Strategic-Computing-Initiative-Update-2019.pdf) reaffirming past goals and emphasizing the needs for federal funding of new hardware types; partnerships between academia, government, and industry; and creative approaches to data science and cybersecurity.
@@ -54,6 +58,8 @@ Forthcoming research opportunities for the NJIT Institute for Data Science and t
 
 One of only 32 polytechnic universities in the United States, New Jersey Institute of Technology (NJIT) prepares students to become leaders in the technology-dependent economy of the 21st century. NJIT's multidisciplinary curriculum and computing-intensive approach to education provide technological proficiency, business acumen and leadership skills. NJIT is rated an "R1" research university by the Carnegie Classification®, which indicates the highest level of research activity. NJIT conducts approximately $170 million in research activity each year and has a $2.8 billion annual economic impact on the State of New Jersey. NJIT is ranked #1 nationally by Forbes for the upward economic mobility of its lowest-income students and is ranked 53rd out of more than 4,000 colleges and universities for the mid-career earnings of graduates, according to PayScale.com. NJIT also is ranked by U.S. News & World Report as one of the top 100 national universities.
 
-
-
 https://www.eurekalert.org/pub_releases/2019-11/njio-dse111419.php
+
+https://news.njit.edu/data-science-expert-bader-looks-fed-funding-info-analysis
+
+
