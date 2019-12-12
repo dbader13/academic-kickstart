@@ -61,6 +61,9 @@ time_format = "3:04 PM"
 ## Contact Widget setup   ##
 ############################
 
+# Address format (choose from the [address_formats] list below or add you own to the list).
+address_format = "en-us"
+
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "bader@njit.edu"
 phone = "973-596-2654"
@@ -120,8 +123,8 @@ plugins_js  = []
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
-# Align the main menu to the right of the page? (true/false)
-menu_align_right = true
+# Main menu alignment (l = left, c = center, r = right) and logo options.
+main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -132,6 +135,9 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
+
+# Link authors to their profile page? (true/false)
+link_authors = true
 
 # Configuration of publication pages.
 [publications]
@@ -186,3 +192,17 @@ sharing = true
     show_count = true  # Show comment count in page header? (true/false)
 
 # edit_page = {repo_url = "https://github.com/<USERNAME>/<REPO>", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+
+# Available address formats.
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = "UA-109174963-2"
+  google_tag_manager = ""
+  
