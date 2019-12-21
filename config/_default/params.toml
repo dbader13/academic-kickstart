@@ -65,7 +65,8 @@ time_format = "3:04 PM"
 address_format = "en-us"
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "bader@njit.edu"
+# email = "bader@njit.edu"
+email = "dbader13@gmail.com"
 phone = "973-596-2654"
 address = {street = "GITC Rm 4105, New Jersey Institute of Technology", city = "Newark", region = "NJ", postcode = "07102", country = "United States", country_code = "US"}
 
