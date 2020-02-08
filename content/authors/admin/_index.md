@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-David A. Bader is a Distinguished Professor in the [Department of Computer Science](https://cs.njit.edu/) in the [Ying Wu College of Computing](https://computing.njit.edu/) and Director of the Institute for Data Science at [New Jersey Institute of Technology](http://www.njit.edu/). Prior to this, he served as founding Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. He is a Fellow of the IEEE, AAAS, and SIAM.
+David A. Bader is a Distinguished Professor in the [Department of Computer Science](https://cs.njit.edu/) in the [Ying Wu College of Computing](https://computing.njit.edu/) and Director of the [Institute for Data Science](https://datascience.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/). Prior to this, he served as founding Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. He is a Fellow of the IEEE, AAAS, and SIAM.
