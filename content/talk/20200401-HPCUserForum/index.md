@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "Data science aims to solve grand global challenges such as: detecting and preventing disease in human populations; revealing community structure in large social networks; protecting our elections from cyber-threats, and improving the resilience of the electric power grid. Unlike traditional applications in computational science and engineering, solving these social problems at scale often raises new challenges because of the sparsity and lack of locality in the data, the need for research on scalable algorithms and architectures, and development of frameworks for solving these real-world problems on high performance computers, and for improved models that capture the noise and bias inherent in the torrential data streams. In this talk, Bader will discuss the opportunities and challenges in massive data science for applications in social sciences, physical sciences, and engineering."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -66,3 +66,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+## Biography: ##
+**David A. Bader** is a Distinguished Professor in the Department of Computer Science and Director of the Institute for Data Science at New Jersey Institute of Technology. Prior to this, he served as founding Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. He is a Fellow of the IEEE, AAAS, and SIAM, and advises the White House, most recently on the National Strategic Computing Initiative (NSCI). Dr. Bader is a leading expert in solving global grand challenges in science, engineering, computing, and data science. His interests are at the intersection of high-performance computing and real-world applications, including cybersecurity, massive-scale analytics, and computational genomics, and he has co-authored over 250 articles in peer-reviewed journals and conferences. Dr. Bader has served as a lead scientist in several DARPA programs including High Productivity Computing Systems (HPCS) with IBM, Ubiquitous High Performance Computing (UHPC) with NVIDIA, Anomaly Detection at Multiple Scales (ADAMS), Power Efficiency Revolution For Embedded Computing Technologies (PERFECT), Hierarchical Identify Verify Exploit (HIVE), and Software-Defined Hardware (SDH). He has also served as Director of the Sony-Toshiba-IBM Center of Competence for the Cell Broadband Engine Processor. Bader is a cofounder of the Graph500 List for benchmarking “Big Data” computing platforms. Bader is recognized as a “RockStar” of High Performance Computing by InsideHPC and as HPCwire’s People to Watch in 2012 and 2014. In April 2019, Bader was awarded an NVIDIA AI Lab (NVAIL) award, and in July 2019, Bader received a Facebook Research AI Hardware/Software Co-Design award.
