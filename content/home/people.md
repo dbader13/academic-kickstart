@@ -20,8 +20,9 @@ title = "People"
 #                 "Alumni"]
 user_groups = ["Faculty",
 	    "Research Scientists",
+	    "Postdoctoral Alumni",
 #	    "PhD Students",
-	    "Alumni"]
+	    "PhD Alumni"]
 	    
 [design]
   # Show user's social networking links? (true/false)

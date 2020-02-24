@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Jinyang Liu
+name: Tiffani L. Williams
 
 # Username (this should match the folder name)
 authors:
-- liu-jinyang
+- williams-tiffani
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Teaching Professor and Director of Onramp Programs
 
 # Organizations/Affiliations
 organizations:
-- name: Janelia Farm Research Campus, Howard Hughes Medical Institute (HHMI)
-  url: "https://www.janelia.org/"
+- name: University of Illinois at Urbana-Champaign
+  url: "http://www.illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -24,9 +24,15 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Electrical & Computer Engineering
+  - course: Postdoctoral Associate and Alfred P. Sloan Postdoctoral Fellowship in Computational Molecular Biology
     institution: University of New Mexico
-    year: 2005
+    year: 2001-2004
+  - course: PhD in Computer Science
+    institution: University of Central Florida
+    year: 2000
+  - course: BS in Computer Science
+    institution: Marquette University
+    year: 1994
 
 
 # Social/Academic Networking
@@ -39,25 +45,25 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jinyang-liu-42a2253/
+  link: https://www.linkedin.com/in/tiffani-williams-5091a24/
 #- icon: facebook
 #  icon_pack: fab
-#  link:
+#  link: 
 #- icon: twitter
 #  icon_pack: fab
-#  link:
+#  link: 
 #- icon: google-scholar
 #  icon_pack: ai
-#  link:
+#  link: 
 #- icon: orcid
 #  icon_pack: ai
 #  link: 
-#- icon: researchgate
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/scientific-contributions/35539144_Tiffani_L_Williams
+#- icon: github
 #  icon_pack: fab
-#  link: 
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+#  link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -65,12 +71,12 @@ social:
 #  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "liujin@janelia.hhmi.org"
+email: "tlw@cse.tamu.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Alumni
+- Postdoctoral Alumni
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Jinyang Liu
+name: Yuzhong Sun
 
 # Username (this should match the folder name)
 authors:
-- liu-jinyang
+- sun-yuzhong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Janelia Farm Research Campus, Howard Hughes Medical Institute (HHMI)
-  url: "https://www.janelia.org/"
+- name: Institute of Computing Technology, Chinese Academy of Sciences
+  url: "http://english.ict.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -24,9 +24,18 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Electrical & Computer Engineering
+  - course: Postdoctoral Associate
     institution: University of New Mexico
-    year: 2005
+    year: 1999-2000
+  - course: PhD in Computer Engineering
+    institution: Institute for Computing Technology, Chinese Academy of Sciences
+    year: 1999
+  - course: MS in Computer Engineering
+    institution: Northeastern University, China
+    year: 1994
+  - course: BS in Information and Control Engineering
+    institution: Xi'an Jiaotong University
+    year: 1991
 
 
 # Social/Academic Networking
@@ -39,25 +48,25 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jinyang-liu-42a2253/
+  link: https://www.linkedin.com/in/yuzhong-sun-6062a24/
 #- icon: facebook
 #  icon_pack: fab
-#  link:
+#  link: 
 #- icon: twitter
 #  icon_pack: fab
-#  link:
-#- icon: google-scholar
-#  icon_pack: ai
-#  link:
+#  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=N3nviCUAAAAJ
 #- icon: orcid
 #  icon_pack: ai
 #  link: 
-#- icon: researchgate
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yuzhong_Sun
+#- icon: github
 #  icon_pack: fab
 #  link: 
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -65,12 +74,12 @@ social:
 #  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "liujin@janelia.hhmi.org"
+email: "yuzhongsun@ict.ac.cn"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Alumni
+- Postdoctoral Alumni
 
 ---
 
