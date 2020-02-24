@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Chief Algorithm Architect
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: TRIAS Lab
-  url: "http://trias.one/"
+- name: Google
+  url: "http://www.google.com/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -27,7 +27,7 @@ education:
   - course: PhD in Computational Science & Engineering
     institution: Georgia Institute of Technology
     year: 2014
-  - course: ME in Software Engineering
+  - course: ME in Software and Microelectronics
     institution: Peking University
     year: 2010
   - course: BS in Software Engineering
@@ -61,9 +61,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Zhaoming_Yin
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/stplaydog
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -80,3 +80,15 @@ user_groups:
 
 ---
 
+Zhaoming Yin had a joyful undergraduate study in Hunan University
+learning Software Engineering. After that he spent 3 years in Peking
+University under the supervision of Shiwen Yu for NLP research. Then he
+headed for Atlanta at GaTech and earned his PhD degree in the area of
+combinatorial research for bioinformatics and graph analysis advised
+by Prof David A. Bader. Zhaoming got my first job at Oracle in the Bay area
+working on Golden Gate, a data base replication software. Two and half
+years later, he moved back to China and lives in Hangzhou, and worked in
+Alibaba Cloud on ODPS -- a big data platform. After short stint at
+TRIAS lab as Chief Algorithm Architect and Senior Software Expert in
+PayTM labs, currently he works for Google on Android Automotive Embedded
+system.
