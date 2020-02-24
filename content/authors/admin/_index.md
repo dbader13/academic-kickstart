@@ -18,7 +18,7 @@ organizations:
   url: "http://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include David A. Bader is a Distinguished Professor in the Department of Computer Science at New Jersey Institute of Technology.
+bio: David A. Bader is a Distinguished Professor in the Department of Computer Science at New Jersey Institute of Technology.
 
 interests:
 - Data Science
@@ -46,6 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dbader13/
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ProfDavidBader
@@ -76,7 +79,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- ["Faculty"]
+- Faculty
 
 ---
 
