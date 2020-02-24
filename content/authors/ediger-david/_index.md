@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Engineering
+role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
