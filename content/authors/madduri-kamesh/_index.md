@@ -46,9 +46,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/kamesh.madduri
-#- icon: twitter
-#  icon_pack: fab
-#  link:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Maddurilabpsu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bYI7VMwAAAAJ&hl=en
@@ -58,12 +58,12 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Kamesh_Madduri
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kmadduri
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#- icon: cv
+# - icon: cv
 #  icon_pack: ai
 #  link: files/resume.pdf
 
@@ -77,4 +77,14 @@ user_groups:
 
 ---
 
-
+[Kamesh Madduri](https://madduri.org/) is an associate professor in
+the College of Engineering at Pennsylvania State University. He
+received his PhD in Computer Science from Georgia Tech and was
+previously a Luis W. Alvarez postdoctoral fellow at Berkeley Lab. His
+current research interests include high-performance graph analytics,
+algorithms for combinatorial problems in computational genomics, and
+applied machine learning for transportation data analysis. He is a
+recipient of the NSF CAREER award (2013), a co-recipient of the best
+paper award at the 42nd International Conference on Parallel
+Processing (2013), and was awarded the first Junior Scientist prize by
+the SIAM Activity group on Supercomputing (2010).
