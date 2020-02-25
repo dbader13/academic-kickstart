@@ -80,3 +80,4 @@ user_groups:
 
 ---
 
+Adam McLaughlin is currently a Research Scientist at D. E. Shaw Research. He is currently working on embedded software and hardware verification for Anton, a massively parallel supercomputer used for fast simulations of molecular dynamics for drug discovery projects and fundamental biochemistry research. As David's doctoral student, Adam worked on accelerating various graph algorithms using GPUs; one paper produced from that work, "Scalable and High Performance Betweenness Centrality on the GPU", was a Best Student Paper finalist at the 2014 Supercomputing Conference and was included as a Research Highlight in _Communications of the ACM_. In his free time, Adam enjoys concerts, comedy shows, and reminiscing about his days as a semi-professional poker player.
