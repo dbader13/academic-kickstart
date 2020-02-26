@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Solutions Architect
+role: Senior Solutions Architect
 
 # Organizations/Affiliations
 organizations:
@@ -28,10 +28,10 @@ education:
     institution: Georgia Institute of Technology
     year: 2014
   - course: MS in Electrical Engineering
-    institution: Technion - Israel Institute of Technology
-    year: 2010
+    institution: Technion, Israel Institute of Technology
+    year: 2011
   - course: BS in Computer Engineering
-    institution: Technion - Israel Institute of Technology
+    institution: Technion, Israel Institute of Technology
     year: 2008
 
 
@@ -49,9 +49,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/oded.green
-#- icon: twitter
-#  icon_pack: fab
-#  link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/odedgreen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=C_7l2roAAAAJ
@@ -61,9 +61,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Oded_Green
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ogreen/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -80,3 +80,8 @@ user_groups:
 
 ---
 
+
+Oded Green is a Senior Solutions Architect at NVIDIA. His research
+interests primarily focus on improving the performance and scalability
+of large-scale analytics. Oded is also very interested in
+architecture-algorithm co-design.
