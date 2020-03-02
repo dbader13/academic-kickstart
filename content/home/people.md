@@ -19,7 +19,7 @@ title = "People"
 #                 "Visitors",
 #                 "Alumni"]
 user_groups = ["Faculty",
-	    "Research Scientists",
+	    "Staff",
 	    "Postdoctoral Alumni",
 #	    "PhD Students",
 	    "PhD Alumni"]
