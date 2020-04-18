@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-[Shawn Cicoria](https://www.linkedin.com/in/shawncicoria/), Principle Software Engineer Manager, Microsoft, discussed the [M.S. in Data Science program at NJIT@JerseyCity](https://jerseycity.njit.edu/), highlighting **Prof. David A. Bader**.
+[Shawn Cicoria](https://www.linkedin.com/in/shawncicoria/), Principle Software Engineer Manager, Microsoft, discusses the [M.S. in Data Science program at NJIT@JerseyCity](https://jerseycity.njit.edu/), highlighting **Prof. David A. Bader**.
 
 {{< youtube xQt5GSgwk8k >}}
 
