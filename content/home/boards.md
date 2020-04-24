@@ -13,6 +13,14 @@ subtitle = ""
 date_format = "2006"
 
 [[experience]]
+  title = "Strategic Advisory Board Member"
+  company = "Open Source Election Technology (OSET) Institute"
+  company_url = "https://www.osetfoundation.org/"
+  location = "Palo Alto, CA"
+  date_start = "2019-09-01"
+  date_end = ""
+
+[[experience]]
   title = "Advisory Board Member"
   company = "Trovares"
   company_url = "https://trovares.com/"
