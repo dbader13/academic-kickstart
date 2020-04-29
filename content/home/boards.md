@@ -13,8 +13,24 @@ subtitle = ""
 date_format = "2006"
 
 [[experience]]
+  title = "Steering Committee Chair, Seed Fund"
+  company = "Northeat Big Data Innovation Hub"
+  company_url = "http://nebigdatahub.org/"
+  location = "New York, NY"
+  date_start = "2020-05-01"
+  date_end = ""
+
+[[experience]]
+  title = "Advisory Board Member"
+  company = "OpenCilk"
+  company_url = "http://cilk.mit.edu/"
+  location = "Cambridge, MA"
+  date_start = "2020-03-10"
+  date_end = ""
+
+[[experience]]
   title = "Strategic Advisory Board Member"
-  company = "Open Source Election Technology (OSET) Institute"
+  company = "Open Source Election Technology Institute"
   company_url = "https://www.osetfoundation.org/"
   location = "Palo Alto, CA"
   date_start = "2019-09-01"
@@ -26,7 +42,7 @@ date_format = "2006"
   company_url = "https://trovares.com/"
   location = "Seattle, WA"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2020-04-30"
 
 [[experience]]
   title = "Advisory Council Member"
@@ -42,7 +58,7 @@ date_format = "2006"
   company_url = "https://Accelogic.com/"
   location = "Weston, FL"
   date_start = "2015-06-12"
-  date_end = ""
+  date_end = "2019-06-30"
 
 [[experience]]
   title = "Advisory Committee on High Performance Computing"
@@ -90,6 +106,6 @@ date_format = "2006"
   company_url = "https://DSPlogic.com/"
   location = "Frederick, MD"
   date_start = "2006-08-01"
-  date_end = ""
+  date_end = "2019-06-30"
 
 +++
