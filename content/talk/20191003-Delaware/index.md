@@ -5,6 +5,12 @@ title: "Fall 2019 Distinguished Speaker Series, Department of Computer and Infor
 event: "Fall 2019 Distinguished Speaker, Department of Computer and Information Science, University of Delaware"
 event_url: "https://cis.udel.edu/"
 location: "Newark, DE"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary: ""
 abstract: "Data science aims to solve grand global challenges such as: detecting and preventing disease in human populations; revealing community structure in large social networks; and improving the resilience of the electric power grid. Unlike traditional applications in computational science and engineering, solving these social problems at scale often raises new challenges because of the sparsity and lack of locality in the data, the need for research on scalable algorithms and architectures, and development of frameworks for solving these real-world problems on high performance computers, and for improved models that capture the noise and bias inherent in the torrential data streams. In this talk, Bader will discuss the opportunities and challenges in massive data science for applications in social sciences, physical sciences, and engineering."
 
