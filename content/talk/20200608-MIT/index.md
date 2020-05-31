@@ -4,7 +4,7 @@
 title: "MIT Invited Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "MIT Fast Code Seminar"
 event_url: "http://fast-code.csail.mit.edu/"
-location:
+location: "Cambridge, MA"
 address:
   street:
   city:
