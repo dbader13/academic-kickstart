@@ -55,6 +55,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Prof_DavidBader
+- icon: ieee
+  icon_pack: ai
+  link: https://ieeexplore.ieee.org/author/37283801600
+- icon: acmdl
+  icon_pack: ai
+  link: https://dl.acm.org/profile/81100165442
 - icon: google-scholar
   icon_pack: ai
   link: http://scholar.google.com/citations?user=uXUA1pgAAAAJ  
