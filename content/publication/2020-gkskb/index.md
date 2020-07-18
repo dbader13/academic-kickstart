@@ -4,7 +4,7 @@
 title: "Traversing Large Graphs on GPUs with Unified Memory"
 authors: ["Prasun Gera", "Hyojong Kim", "Piyush Sao", "Hyesoon Kim", "David Bader"]
 date: 2020-03-20T08:54:31-04:00
-doi: ""
+doi: "10.14778/3384345.3384358"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-03-20T08:54:31-04:00
@@ -16,7 +16,7 @@ publishDate: 2020-03-20T08:54:31-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the VLDB Endowment, 13(7):1119-1133, 2020},"
+publication: "Proceedings of the VLDB Endowment, 13(7):1119-1133, 2020,"
 publication_short: ""
 
 abstract: "Due to the limited capacity of GPU memory, the majority of
