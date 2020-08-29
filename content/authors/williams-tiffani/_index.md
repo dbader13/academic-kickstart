@@ -52,9 +52,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: 
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=krUDe7IAAAAJ&hl
 #- icon: orcid
 #  icon_pack: ai
 #  link: 
