@@ -1,0 +1,30 @@
+@inproceedings{2020-MDSBWW,
+ author = {Austin Chase Minor and  Zhihui Du and Yankui Sun and David A. Bader and Chao Wu and Jianyan Wei},
+ booktitle = {The 24th Annual IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, September 22-24, 2020},
+ groups = {Edited},
+ title = {GPU Accelerated Anomaly Detection of Large Scale Light Curves},
+ year = {2020},
+ url       = {},
+ doi       = {},
+ abstract = {Identifying anomalies in millions of stars in real time
+is a great challenge. In this paper, we develop a matched filtering
+based algorithm to detect a typical anomaly, microlensing. The
+algorithm can detect short timescale microlensing events with
+high accuracy at their early stage with a very low false-positive
+rate. Furthermore, a GPU accelerated scalable computational
+framework, which can enable real time follow-up observation,
+is designed. This framework efficiently divides the algorithm
+between CPU and GPU, accelerating large scale light curve
+processing to meet low latency requirements. Experimental
+results show that the proposed method can process 200,000
+stars (the maximum number of stars processed by a single
+GWAC telescope) in approximately 3.34 seconds with current
+commodity hardware while achieving an accuracy of 92% and an
+average detection occurring approximately 14% before the peak
+of the anomaly with zero false alarm. Working together with the
+proposed sharding mechanism, the framework is positioned to be
+extendable to multiple GPUs to improve the performance further
+for the higher data throughput requirements of next-generation
+telescopes.}
+}
+

@@ -1,0 +1,38 @@
+@inproceedings{2020-HBG,
+ author = {Todd Hricik and David A. Bader and Oded Green},
+ booktitle = {The 24th Annual IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, September 22-24, 2020},
+ groups = {Edited},
+ title = {Using RAPIDS AI to Accelerate Graph Data Science Workflows},
+ year = {2020},
+ url       = {},
+ doi       = {},
+ abstract = {This Scale free networks are abundant in many natural,
+social, and engineering phenomena for which there exists a substantial
+corpus of theory able to elucidate many of their underlying
+properties. In this paper we study the scalability of some widely
+available Python-based tools for the empirical investigation of scale
+free network data in a typical early stage analysis pipeline. We
+demonstrate how porting serial implementations of commonly used
+pipeline data structures and methods to parallel hardware via the
+NVIDIA RAPIDS AI API requires minimal rewriting of code. As a utility
+for each pipeline we recorded the time required to complete the
+analysis for both the serial and parallelized workflows on a task-wise
+basis.  Furthermore, we review a statistically based methodology for
+fitting a power-law to empirical data. Maximum likelihood estimations
+for scale were inferred after using Kolmogorov- Smirnov based methods
+to determine location estimates. Our serial implementation of a
+typical early stage network analysis workflow uses a combination of
+widely used data structures and algorithms provided by the NumPy,
+Pandas and NetworkX frameworks. We then parallelized our workflow
+using the APIs provided by NVIDIA’s RAPIDS AI open data science
+libraries and measured the relative time to completion for the tasks
+of ingesting raw data, creating a graph representation of the data and
+finally fitting a power-law distribution to the empirical
+observations. The results of our experiments, run on graphs ranging in
+size from 1 million to 20 million edges, demonstrate that
+significantly less time is required to complete the tasks of
+generating a graph from an edge list, computing the degree of all
+nodes in the graph and fitting the scale and location parameters to
+the observed data.}
+}
+
