@@ -4,7 +4,7 @@
 title: "U.S. Army ERDC 2020 Invited Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "U.S. Army Engineer Research and Development Center (ERDC) Virtual Computational Data Science Workshop"
 event_url: "https://www.erdc.usace.army.mil/"
-location: 
+location: "Virtual"
 address:
   street:
   city:

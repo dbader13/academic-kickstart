@@ -5,7 +5,7 @@
 title: "Neo4j Connections, Graphs in Government, Invited Talk: Using Graphs to Enable National-Scale Analytics"
 event: "Neo4j Connections, Graphs in Government"
 event_url: "https://neo4j.com/connections/graphs-in-government/"
-location:
+location: "Virtual"
 address:
   street:
   city:
