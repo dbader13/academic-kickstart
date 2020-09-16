@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Tech Research Institute (GTRI)
-  url: "https://gtri.gatech.edu/"
+- name: University of Florida
+  url: "https://www.cise.ufl.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -71,7 +71,7 @@ social:
 #  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "james.fairbanks@gtri.gatech.edu"
+email: "fairbanksj@ufl.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -80,4 +80,23 @@ user_groups:
 
 ---
 
-James Fairbanks works as a Research Engineer at the Georgia Tech Research Institute, where he studies computational science and engineering and data science. He leads several research programs including DARPA and ONR projects on AI, and scientific knowledge representation. Dr. Fairbanks focuses on developing mathematical techniques and computational technology for understanding data via algebraic and combinatorial structure. For example using knowledge graphs and algebraic modeling languages for understanding scientific models and experimental data. His previous work on applied graph theory included mining and analyzing online and social media and social networks. During his graduate studies, James applied numerical analysis to graph mining algorithms such as Spectral Clustering and Algebraic Graph Centralities to develop both theoretical results connecting numerical accuracy to data analysis quality and practical improvements to iterative solvers for said problems. He has been a significant contributor to the Julia language for technical computing since 2015.
+James Fairbanks is an Assistant Professor in the Computer &
+Information Science & Engineering Department of the University of
+Florida. He earned his B.S. in Mathematics at the University of
+Florida and his Ph.D at the Georgia Institute of Technology in
+Computational Science and Engineering. He studied under the
+supervision of Professor David A. Bader, while supported by the
+National Defense Science and Engineering Graduate (NDSEG) Fellowship.
+During his graduate studies, James applied numerical analysis to graph
+mining algorithms such as Spectral Clustering and Algebraic Graph
+Centralities to develop both theoretical results connecting numerical
+accuracy to data analysis quality and practical improvements to
+iterative solvers for said problems. He then worked at the Georgia
+Tech Research Institute on Data Analysis and High Performance
+Computing as applied to scientific computing and data science problems
+in healthcare. social science, epidemiology, biology, and physics
+problems. His work focuses on using programming language theory and
+algebraic techniques for designing and developing large scale software
+for technical computing problems. He has been a significant
+contributor to the Julia language for technical computing since 2015.
+
