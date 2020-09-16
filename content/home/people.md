@@ -21,7 +21,7 @@ title = "People"
 user_groups = ["Faculty",
 	    "Staff",
 	    "Postdoctoral Alumni",
-#	    "PhD Students",
+	    "PhD Students",
 	    "PhD Alumni"]
 	    
 [design]
