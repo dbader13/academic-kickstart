@@ -4,7 +4,7 @@
 title: "GTC 2020 Invited Talk: New High Performance Graph Analytics Technique and a GPU Implementation"
 event: "NVIDIA GPU Technology Conference (GTC) 2020"
 event_url: "https://www.nvidia.com/en-us/gtc/"
-location:
+location: "Virtual"
 address:
   street:
   city:
