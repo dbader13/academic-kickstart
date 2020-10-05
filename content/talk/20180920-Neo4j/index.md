@@ -5,6 +5,12 @@ title: "GraphConnect 2018: Predictive Analysis from Massive Knowledge Graphs on 
 event: "Neo4j GraphConnect 2018"
 event_url: "https://neo4j.com/graphconnect-2018/session/predictive-analysis-massive-knowledge-graphs-neo4j"
 location: "New York, NY"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary: ""
 abstract: "Prof. **David Bader**, one of the nation’s leading experts in massive-scale graph analytics, presents a Neo4j case study on predictive analytics on a homeland security knowledge graph that connects disparate data from multiple sources such as spreadsheets and relational databases. Graphs are a natural representation for connecting information in real-world challenges such as understanding financial transactions in digital currencies, finding new communities in social networks, increasing power grid resiliency, and protecting us from cyberattack. Bader will discuss his Spatio-Temporal Interaction Networks and Graphs (STING) initiative that supports new methods for finding interesting patterns and features in these critical knowledge graphs."
 
