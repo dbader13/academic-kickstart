@@ -4,7 +4,7 @@
 title: "Accelerating and Expanding End-to-End Data Science Workflows with DL/ML Interoperability Using RAPIDS"
 authors: ["Bartley Richardson", "Bradley Rees", "Tom Drabas", "Even Oldridge", "David Bader", "Rachel Allen"]
 date: 2020-08-23T16:31:45-04:00
-doi: ""
+doi: "10.1145/3394486.3406702"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-18T16:31:45-04:00
