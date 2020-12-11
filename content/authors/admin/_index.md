@@ -70,9 +70,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/David_Bader2
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dbader13
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
