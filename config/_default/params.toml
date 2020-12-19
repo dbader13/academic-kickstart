@@ -68,7 +68,7 @@ address_format = "en-us"
 # email = "bader@njit.edu"
 email = "dbader13@gmail.com"
 phone = "973-596-6340"
-address = {street = "GITC Rm 5100, New Jersey Institute of Technology", city = "Newark", region = "NJ", postcode = "07102", country = "United States", country_code = "US"}
+address = {street = "Institute for Data Science, New Jersey Institute of Technology, 101 Hudson St., Suite 3610", city = "Jersey City", region = "NJ", postcode = "07302", country = "United States", country_code = "US"}
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
@@ -86,7 +86,10 @@ contact_links = [
 #  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
-coordinates = {latitude = "40.7442", longitude = "-74.1798"}
+# GITC
+# coordinates = {latitude = "40.7442", longitude = "-74.1798"}
+
+coordinates = {latitude = "40.7160735", longitude = "-74.0372538"}
 
 [map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
