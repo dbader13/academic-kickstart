@@ -89,7 +89,7 @@ contact_links = [
 # GITC
 # coordinates = {latitude = "40.7442", longitude = "-74.1798"}
 
-coordinates = {latitude = "40.7160735", longitude = "-74.0372538"}
+coordinates = {latitude = "40.7161", longitude = "-74.0344"}
 
 [map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
