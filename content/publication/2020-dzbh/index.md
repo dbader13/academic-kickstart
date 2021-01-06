@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A 2-Approximation Algorithm for QoS-Aware and Fault-Tolerant Replica Placement"
+title: "An Efficient LP Rounding Scheme for Replica Placement"
 authors: ["Zhihui Du", "Sen Zhang", "David Bader", "Jingkun Hu"]
 date: 2020-09-08T15:29:50-04:00
 doi: ""
@@ -19,20 +19,7 @@ publication_types: ["1"]
 publication: "2020 IEEE High Performance Extreme Computing Conference"
 publication_short: "HPEC"
 
-abstract: "As emerging applications become more and more
-distributed and decentralized, how to design and build a faulttolerant
-network system with high Quality of Service (QoS)
-guarantee has become a challenging problem. In this paper,
-we formulate an unique optimal replica placement problem in
-terms of minimizing the replica placement cost subject to both
-QoS and fault-tolerant constraints at the same time. Based
-on the generalized graph model, we prove that the optimal
-replica placement problem is NP-hard. To solve the problem, our
-proposed a novel heuristic based greedy solution that comprises
-of two interesting rounding algorithms that are applied in tandem
-on the results preprocessed by a relaxed linear programming
-component. We further prove our the proposed greedy algorithm
-actually is a 2-approximate algorithm."
+abstract: "Large fault-tolerant network systems with high Quality of Service (QoS) guarantee are critical in many real world applications and entail diverse replica placement problems. In this paper, the replica placement problem in terms of minimizing the replica placement cost subject to both QoS and fault-tolerant constraints is formulated as a binary integer linear programming problem first and then relaxed as a linear programming problem. Given the optimal fractional linear programming solution, we propose a two-step rounding algorithm to obtain its integer solution. In the first step, a half rounding algorithm is used to simplify the problem. In the second step, a cheapest amortized cost rounding algorithm uses a novel metric, named amortized cost, to make locally optimal rounding decision for the remaining vertices independently. Furthermore, a conflict resolution algorithm is presented to tackle the situations when different vertices make conflicting rounding decisions. Finally, we prove that the proposed two-step rounding algorithm has a 2-approximation ratio when the additional conflict cost meets a given constraint."
 
 # Summary. An optional shortened abstract.
 summary: ""
