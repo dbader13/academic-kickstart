@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.png">}}
+
 The Executive Director of High Performance Computing at Georgia Tech, **David Bader**, discusses High Performance Computing.
 
 https://youtu.be/Jbd_fW5l6ls

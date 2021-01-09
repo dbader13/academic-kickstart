@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="bader.jpg">}}
+
 School of Computational Science and Engineering Chair and Professor **David Bader** was named Editor-in-Chief (EiC) of [ACM Transactions on Parallel Computing (ACM ToPC)](https://topc.acm.org/index.cfm) this morning. 
 
 ACM Transactions on Parallel Computingis a forum for novel and innovative work on all aspects of parallel computing, and addresses all classes of parallel-processing platforms, from concurrent and multithreaded to clusters and supercomputers. 

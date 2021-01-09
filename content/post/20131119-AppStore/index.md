@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.jpg">}}
+
 Until now the niche area of supercomputing was available only to those in national research laboratories or leading research universities.
 
 That’s about to change.

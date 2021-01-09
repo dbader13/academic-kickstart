@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.jpg">}}
+
 Back in 2009, Josh Anderson didn’t know much about biology. But he knew that a summer undergraduate research assistantship working on something called “RNA folding” had to be better than the job his mother had lined up for him. Prashant Gaurav recalls that in 2009 he was thinking about applying to graduate school in computer science—not about the base pairings of a nasty RNA virus like Hepatitis C.
 
 Yet in 2011 both Anderson (double-major in discrete mathematics and computer science) and Gaurav (M.S. student in computational science and engineering) are hard at work on problems in computational molecular biology as part of an interdisciplinary research team led by Christine Heitsch, associate professor in the School of Mathematics, with professors Steve Harvey from Biology and **David Bader** from CSE. The computational side of this math/bio/CSE research collaboration is rounded out by Emily Rogers, a CSE Ph.D. student, and CS major Andrew Ash. (Ash and Anderson both graduated in May 2011.) Together with other students and postdocs from math and biology, the team is trying to reverse engineer in silico some of the mysteries of “molecular origami,” as Heitsch describes RNA folding.

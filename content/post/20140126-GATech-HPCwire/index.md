@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "David Bader is a professor of computational science and engineering in the College of Computing."
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< figure src="image.jpg" caption="David Bader is a professor of computational science and engineering in the College of Computing.">}}
 
 The College of Computing at the Georgia Institute of Technology, one of only two major universities to house its computing program within a college of its own, today announced that **David A. Bader**, professor and executive director of High Performance Computing, has been selected as one of HPCWire’s “People to Watch” in 2014.
 

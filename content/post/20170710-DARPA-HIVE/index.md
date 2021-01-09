@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.jpg">}}
+
 (*Georgia Tech, Atlanta, GA, 10 July 2017*) The Georgia Institute of Technology and the University of Southern California Viterbi School of Engineering have been selected to receive [Department of Defense Research Projects Agency (DARPA)](https://www.darpa.mil/) funding under the [Hierarchal Identify Verify Exploit (HIVE)](https://www.darpa.mil/program/hierarchical-identify-verify-exploit) program. Georgia Tech and USC are to receive total funding of $6.8 million over 4.5 years to develop a powerful new data analysis and computing platform.
 
 Many security and consumer applications – including identifying and zeroing in on erratic driving behavior of vehicles in real-time, recognizing terrorist cells through patterns of communication, or protecting critical infrastructure facilities such as power, communication and water grids, or even predicting the spread of a cyber attack – can be modeled using graph data-analysis formalisms envisioned in the HIVE program.

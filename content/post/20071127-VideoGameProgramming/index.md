@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+{{<figure src="image.jpg">}}
 {{<figure src="Abhishek-Venkatesh-Xbox1.jpg">}}
 
 ECE introduced a new video game programming class to students this fall: Multicore and GPU Programming for Video Games. The course focuses on the architecture and programming of multicore  photo of Brian Davidsonprocessors and graphical processing units (GPUs). ECE faculty members Aaron Lanterman and Hsien-Hsin “Sean” Lee helped develop the class (ECE 4893A/CS4803MPG) along with **David Bader**, an associate professor in the College of Computing. The three professors are co-teaching the class this semester.

@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.jpg">}}
+
 Today the Georgia Institute of Technology Office of the Provost announced the formation of the Georgia Tech Institute for Data and High Performance Computing (IDH) in recognition of the need to advance and coordinate institute research and education activities in this area. High performance computing (HPC) continues to grow as a strategically important area for Georgia Tech, both in its application to key areas of science and engineering as well as in the advancement of the technology itself.
 
 “As we look to high performance computing to drive advanced breakthroughs in science, health, energy and other industries, leveraging Georgia Tech’s strongest assets – world class researchers in computing, experts across nearly every problem domain, and low barriers to collaboration – is what will set us apart,” said Dr. Mark Allen, Senior Vice Provost for Research and Innovation at Georgia Tech. “The creation of the Institute for Data and High Performance Computing provides the organizational foundation to harness our strategic capabilities and attack the most challenging problems that face society today.”

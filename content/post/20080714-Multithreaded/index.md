@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The Center for Adaptive Supercomputing Software will take advantage of the multithreaded processors in the Cray XMT. *Image courtesy of Cray, Inc.*"
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< figure src="image.jpg" caption="The Center for Adaptive Supercomputing Software will take advantage of the multithreaded processors in the Cray XMT. *Image courtesy of Cray, Inc.*">}}
 
 The newest breed of supercomputers have hardware set up not just for speed, but also to better tackle large networks of seemingly random data. And now, a multi-institutional group of researchers has been awarded $4.0 million to develop software for these supercomputers. Applications include anywhere complex webs of information can be found: from internet security and power grid stability to complex biological networks.
 

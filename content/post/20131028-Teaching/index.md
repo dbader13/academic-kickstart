@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.png">}}
+
 It’s around 9:30 a.m. on a Thursday, and **David Bader** is explaining how trick-or-treating is connected to graph theory.       
 
 “For example, we get together with our friends to figure out which houses to go to for optimal candy rewards — and optimization is one component of graph theory,” said Bader, professor in the College of Computing and executive director for High Performance Computing. “And when you get home, you sort your candy — yet another concept. We should consider October graph theory month.”  

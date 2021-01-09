@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.png">}}
+
 ## Making room for privacy in cybersecurity ##
 
 [In this video, Anton explains why she disagrees with the Director of the FBI and the Attorney General on the topic of cell phone encryption.](https://youtu.be/ODa2I3SnBD8)

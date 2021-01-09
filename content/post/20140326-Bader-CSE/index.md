@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "David Bader the new chair of Georgia Tech's School of Computational Science and Engineering."
+  caption: ""
   focal_point: ""
   preview_only: false
 
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< figure src="image.jpg" caption="David Bader the new chair of Georgia Tech's School of Computational Science and Engineering.">}}
 
 Following a national search for new leadership of its [School of Computational Science and Engineering](http://www.cse.gatech.edu/) (CSE), Georgia Tech’s College of Computing has selected its own **David A. Bader**, a renowned leader in high-performance computing, to chair the school.
 

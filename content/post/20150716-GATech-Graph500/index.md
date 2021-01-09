@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.jpg">}}
+
 Two highly anticipated lists of the world’s fastest supercomputers were released this week, and Georgia Tech’s **David Bader** was behind one of them.
 
 The lists – Top 500 and Graph 500 – are published twice each year to coincide with supercomputer conferences, and are closely watched as indicators of development and investment into high-performance computing worldwide. The lists can indicate trends into which technologies are popular in the machines. 

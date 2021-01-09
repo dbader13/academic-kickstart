@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="bader.jpg">}}
+
 (*Georgia Tech, Atlanta, GA. 8 April 2019*) After five years, Professor David Bader has decided not to seek another term as the chair of the School of Computational Science and Engineering (CSE) and is returning to faculty and his research.
 
 Bader, a founding faculty member of the school (then a division), became chair in summer 2014. Since then, enrollment in the school’s M.S. program has more than doubled to 190 students. The school also has 71 Ph.D. students and teaches hundreds of others in interdisciplinary degrees including the M.S. in Analytics and the M.S. and Ph.D. programs in bioinformatics and bioengineering.

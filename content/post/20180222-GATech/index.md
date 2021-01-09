@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="image.jpg">}}
+
 As 2017 drew to a close, several faculty and alumni from the School of Computational Science and Engineering (CSE) traveled across the globe to attended two conferences in India – The 24th IEEE International Conference on High Performance Computing (HiPC2017), held in Jaipur, and the IEEE International Conference on Machine Learning and Data Science (ICMLDS2017) in Greater Noida.
 
 CSE Professor and Associate Chair Ümit Çatalyürek served as the program chair of HiPC2017, which, coincidentally, was where he presented his first peer-reviewed paper in 1995. Now, 22 years later, Çatalyürek oversaw all aspects of the conference, from the technical program – with a committee of more than 100 individuals – that featured three keynote talks and 41 papers, selected from over 180 submissions. CSE Chair **David Bader** and CSE Professor and IDEaS co-Director Srinivas Aluru are members of the HiPC Steering Committee and attended the conference.
