@@ -4,7 +4,7 @@
 title: "Solving Global Grand Challenges with High Performance Data Analytics"
 event: "Supercomputing Frontiers Europe 2021"
 event_url: https://supercomputingfrontiers.eu/2020/seminars/
-location:
+location: "Virtual"
 address:
   street:
   city:
