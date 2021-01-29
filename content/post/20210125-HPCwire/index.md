@@ -57,3 +57,5 @@ Since March 2020, over 2250 people have participated in virtual meetings organiz
 Established by a resolution of the Senate of the University of Warsaw dated 29 June 1993, the Interdisciplinary Centre for Mathematical and Computational Modelling (ICM), University of Warsaw, is one of the top HPC centres in Poland. ICM is engaged in serving the needs of a large community of computational researchers in Poland through provision of HPC and grid resources, storage, networking and expertise. It has always been an active research centre with high quality research contributions in computer and computational science, numerical weather prediction, visualisation, materials engineering, digital repositories, social network analysis and other areas.
 
 https://www.hpcwire.com/off-the-wire/virtual-icm-seminar-with-david-bader-solving-global-grand-challenges-with-high-performance-data-analytics-to-be-held-jan-29/
+
+https://pierrelotichelsea.com/digital-icm-seminar-with-david-bader-solving-world-wide-grand-issues-with-superior-general-performance-details-analytics-to-be-held-jan-29.html
