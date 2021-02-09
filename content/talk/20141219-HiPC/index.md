@@ -5,6 +5,12 @@ title: "HiPC 2014 Keynote Talk: Massive-scale Streaming Analytics"
 event: "The 21st Annual IEEE International Conference on High Performance Computing (HiPC)"
 event_url: "https://www.hipc.org/hipc2014/"
 location: "Goa, India"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract:
 
