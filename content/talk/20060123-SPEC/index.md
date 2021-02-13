@@ -5,6 +5,12 @@ title: "SPEC 2006 Invited Talk: BioPerf: An Open Benchmark Suite for Evaluating 
 event: "2006 SPEC Benchmark Workshop"
 event_url: "https://www.spec.org/workshops/2006/"
 location: "Austin, TX"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract:
 

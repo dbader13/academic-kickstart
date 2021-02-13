@@ -5,6 +5,12 @@ title: "Colorado State ISTeC Distinguished Lecture: Petascale Computing for Comp
 event: "Colorado State ISTeC Distinguished Lecture"
 event_url: "http://istec.colostate.edu/activities/events-past"
 location: "Fort Collins, CO"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "Graph theoretic problems are representative of fundamental
 kernels in traditional and emerging computational sciences such as
