@@ -1,111 +1,110 @@
-+++
-# Recent professional service widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Recent Boards"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 45
+
+title: Recent Boards
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-[[experience]]
-  title = "Steering Committee Chair, Seed Fund"
-  company = "Northeat Big Data Innovation Hub"
-  company_url = "http://nebigdatahub.org/"
-  location = "New York, NY"
-  date_start = "2020-05-01"
-  date_end = ""
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
 
-[[experience]]
-  title = "Advisory Board Member"
-  company = "OpenCilk"
-  company_url = "http://cilk.mit.edu/"
-  location = "Cambridge, MA"
-  date_start = "2020-03-10"
-  date_end = ""
+  - title: Steering Committee Chair, Seed Fund
+    company: Northeat Big Data Innovation Hub
+    company_url: 'http://nebigdatahub.org/'
+    location: New York, NY
+    date_start: '2020-05-01'
+    date_end: ''
 
-[[experience]]
-  title = "Strategic Advisory Board Member"
-  company = "Open Source Election Technology Institute"
-  company_url = "https://www.osetfoundation.org/"
-  location = "Palo Alto, CA"
-  date_start = "2019-09-01"
-  date_end = ""
+  - title: Advisory Board Member
+    company: OpenCilk
+    company_url: 'http://cilk.mit.edu/'
+    location: Cambridge, MA
+    date_start: '2020-03-10'
+    date_end: ''
 
-[[experience]]
-  title = "Advisory Board Member"
-  company = "Trovares"
-  company_url = "https://trovares.com/"
-  location = "Seattle, WA"
-  date_start = "2019-01-01"
-  date_end = "2020-04-30"
+  - title: Strategic Advisory Board Member
+    company: Open Source Election Technology Institute
+    company_url: 'https://www.osetfoundation.org/'
+    location: Palo Alto, CA
+    date_start: '2019-09-01'
+    date_end: ''
 
-[[experience]]
-  title = "Advisory Council Member"
-  company = "Electrical and Computer Engineering Department, Lehigh University"
-  company_url = "https://engineering.lehigh.edu/ece/about-department-electrical-and-computer-engineering/ece-advisory-council"
-  location = "Bethlehem, PA"
-  date_start = "2018-01-01"
-  date_end = ""
+  - title: Advisory Board Member
+    company: Trovares
+    company_url: 'https://trovares.com/'
+    location: Seattle, WA
+    date_start: '2019-01-01'
+    date_end: '2020-04-30'
 
-[[experience]]
-  title = "Advisory Board Member"
-  company = "Accelogic, LLC"
-  company_url = "https://Accelogic.com/"
-  location = "Weston, FL"
-  date_start = "2015-06-12"
-  date_end = "2019-06-30"
+  - title: Advisory Council Member
+    company: Electrical and Computer Engineering Department, Lehigh University
+    company_url: 'https://engineering.lehigh.edu/ece/about-department-electrical-and-computer-engineering/ece-advisory-council'
+    location: Bethlehem, PA
+    date_start: '2018-01-01'
+    date_end: ''
 
-[[experience]]
-  title = "Advisory Committee on High Performance Computing"
-  company = "Council on Competitiveness"
-  company_url = "https://www.compete.org/"
-  location = "Washington, DC"
-  date_start = "2014-01-01"
-  date_end = "2019-06-30"
+  - title: Advisory Board Member
+    company: Accelogic, LLC
+    company_url: 'https://Accelogic.com/'
+    location: Weston, FL
+    date_start: '2015-06-12'
+    date_end: '2019-06-30'
 
-[[experience]]
-  title = "Advisory Committee on Cyberinfrastructure"
-  company = "National Science Foundation"
-  company_url = "https://www.nsf.gov/"
-  location = ""
-  date_start = "2014-01-01"
-  date_end = "2017-12-31"
+  - title: Advisory Committee on High Performance Computing
+    company: Council on Competitiveness
+    company_url: 'https://www.compete.org/'
+    location: Washington, DC
+    date_start: '2014-01-01'
+    date_end: '2019-06-30'
 
-[[experience]]
-  title = "Board of Governors"
-  company = "IEEE Computer Society"
-  company_url = "https://www.computer.org/"
-  location = ""
-  date_start = "2014-01-01"
-  date_end = "2016-12-31"
+  - title: Advisory Committee on Cyberinfrastructure
+    company: National Science Foundation
+    company_url: 'https://www.nsf.gov/'
+    location:
+    date_start: '2014-01-01'
+    date_end: '2017-12-31'
 
-[[experience]]
-  title = "Board Member"
-  company = "Computing Research Association"
-  company_url = "https://cra.org/"
-  location = "Washington, DC"
-  date_start = "2013-01-01"
-  date_end = "2014-12-31"
+  - title: Board of Governors
+    company: IEEE Computer Society
+    company_url: 'https://www.computer.org/'
+    location:
+    date_start: '2014-01-01'
+    date_end: '2016-12-31'
 
-[[experience]]
-  title = "Advisory Council Member"
-  company = "Internet2"
-  company_url = "https://www.internet2.edu/"
-  location = ""
-  date_start = "2007-01-01"
-  date_end = "2011-12-31"
+  - title: Board Member
+    company: Computing Research Association
+    company_url: 'https://cra.org/'
+    location: Washington, DC
+    date_start: '2013-01-01'
+    date_end: '2014-12-31'
 
-[[experience]]
-  title = "Advisory Board Member"
-  company = "DSPlogic, Inc."
-  company_url = "https://DSPlogic.com/"
-  location = "Frederick, MD"
-  date_start = "2006-08-01"
-  date_end = "2019-06-30"
+  - title: Advisory Council Member
+    company: Internet2
+    company_url: 'https://www.internet2.edu/'
+    location:
+    date_start: '2007-01-01'
+    date_end: '2011-12-31'
 
-+++
+  - title: Advisory Board Member
+    company: DSPlogic, Inc.
+    company_url: 'https://DSPlogic.com/'
+    location: Frederick, MD
+    date_start: '2006-08-01'
+    date_end: '2019-06-30'
+
+---

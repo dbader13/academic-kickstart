@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = true, page = false, post = true, project = true, publication = true, talk = false}
 
 ############################
 ## Contact details
