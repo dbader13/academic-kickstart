@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kamesh Madduri
+title: Kamesh Madduri
 
 # Username (this should match the folder name)
 authors:

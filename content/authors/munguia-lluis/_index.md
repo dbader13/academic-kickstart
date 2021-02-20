@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lluís-Miquel Munguía
+title: Lluís-Miquel Munguía
 
 # Username (this should match the folder name)
 authors:

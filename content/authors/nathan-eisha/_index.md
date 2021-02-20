@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Eisha Nathan
+title: Eisha Nathan
 
 # Username (this should match the folder name)
 authors:

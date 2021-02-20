@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yuzhong Sun
+title: Yuzhong Sun
 
 # Username (this should match the folder name)
 authors:

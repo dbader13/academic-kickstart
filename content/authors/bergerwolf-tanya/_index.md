@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tanya Berger-Wolf
+title: Tanya Berger-Wolf
 
 # Username (this should match the folder name)
 authors:
