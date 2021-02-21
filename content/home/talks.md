@@ -30,6 +30,10 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive:
+    enable: true
+    text: See all talks
+    link: event/
 
 design:
   # Choose a view for the listings:
@@ -38,4 +42,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+
 ---
