@@ -5,6 +5,13 @@ title: "SOS11 Invited Talk: Petascale Science and Engineering: Georgia Tech’s 
 event: "SOS11 Conference"
 event_url: "https://www.csm.ornl.gov/workshops/SOS11/index.html"
 location: "Key West, FL"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+
 summary: 
 abstract:
 

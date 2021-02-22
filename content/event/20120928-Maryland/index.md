@@ -5,6 +5,13 @@ title: "Booz Allen Hamilton Distinguished Colloquium in Electrical and Computer 
 event: "Booz-Allen-Hamilton Distinguished Colloquium in Electrical and Computer Engineering"
 event_url: "https://isr.umd.edu/event/7533/booz-allen-hamilton-colloquium-opportunities--challenges-in-massive-data-intensive-computing"
 location: "University of Maryland, College Park, MD"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+
 summary:
 abstract: "Emerging real-world graph problems include detecting community structure in large social networks, improving the resilience of the electric power grid, and detecting and preventing disease in human populations. Unlike traditional applications in computational science and engineering, solving these problems at scale often raises new challenges because of sparsity and the lack of locality in the data, the need for additional research on scalable algorithms and development of frameworks for solving these problems on high performance computers, and the need for improved models that also capture the noise and bias inherent in the torrential data streams. In this talk, the speaker will discuss the opportunities and challenges in massive data-intensive computing for applications in computational biology, genomics, and security."
 

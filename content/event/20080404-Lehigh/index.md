@@ -5,6 +5,13 @@ title: "3rd HPC Day at Lehigh University, Keynote Talk: Petascale Phylogenetic R
 event: "3rd Annual High Performance Computing Day at Lehigh"
 event_url: "https://webapps.lehigh.edu/hpc/2008/"
 location: "Lehigh University, Bethlehem, PA"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+
 summary:
 abstract: "Computational science enables us to investigate phenomena where economics or constraints preclude experimentation, evaluate complex models and manage massive data volumes, model processes across interdisciplinary boundaries, and transform business and engineering practices. Increasingly, cyberinfrastructure including petascale computers is required to address our national and global priorities, such as sustainability of our natural environment by reducing our carbon footprint and by decreasing our dependencies on fossil fuels, improving human health and living conditions, understanding the mechanisms of life from molecules and systems to organisms and populations, preventing the spread of disease, predicting and tracking severe weather, recovering from natural and human-caused disasters, maintaining national security, and mastering nanotechnologies. Several of our most fundamental intellectual questions also require computation, such as the formation of the universe, the the evolution of life, and the properties of matter. 
 
