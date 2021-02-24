@@ -5,6 +5,13 @@ title: "WMPP 2002 Keynote Talk: Massively Parallel Processing for Computational 
 event: "2nd Workshop on Massively Parallel Processing"
 event_url: "http://www.cs.kent.edu/~parallel/workshops/ipdps02-mpp/index.html"
 location: "Fort Lauderdale, FL"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+
 summary:
 abstract: "Phylogenies derived from gene order data may prove crucial in answering some fundamental questions in biomolecular evolution. Yet very few techniques are available for phylogenetic reconstruction based upon gene order and content, and these are (for the most part) computationally expensive. High-performance algorithm engineering offers a battery of tools that can reduce, sometimes spectacularly, the running time of existing approaches. We discuss one such such application, in which we started with the method known as ``breakpoint analysis'' (developed by Sankoff and his colleagues) and produced a software suite, GRAPPA, that demonstrated a million-fold speedup in running time (on a variety of real and simulated datasets), by combining low-level algorithmic improvements, cache-aware programming, careful performance tuning, and massive parallelism. The phylogeny reconstruction now can be performed in parallel and attain a linear speedup with the number of processors. We show how these techniques are directly applicable to a large variety of problems in computational biology. (Supported in part by NSF Grants CAREER 00-93039, ITR 00-81404 and DEB 99-10123.)"
 
