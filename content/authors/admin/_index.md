@@ -52,9 +52,15 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ProfDavidBader
+  label: Follow me on Facebook
+  display:
+    header: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Prof_DavidBader
+  label: Follow me on Twitter
+  display:
+    header: true
 - icon: ieee
   icon_pack: ai
   link: https://ieeexplore.ieee.org/author/37283801600
