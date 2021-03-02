@@ -5,6 +5,12 @@ title: "STI Cell Keynote Talk: Accelerating Scientific Computing with the Cell B
 event: "The 2nd Annual Carleton Cell BE Programming Workshop"
 event_url: "http://cu-bic.ca/cell/"
 location: "Carleton University, Ottawa, Canada"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "The STI Cell Broadband Engine (Cell BE) has shown the potential to provide outstanding performance, scalability, and flexibility in applications with high data parallelism, such as dense and sparse matrix operations, image processing, and encryption. The Cell BE processor is based on a novel heterogeneous multi-core architecture that consists of nine independent on-chip processing units, including a dual-threaded Power Processor Element (PPE) and eight Synergistic Processor Elements (SPEs). This unconventional design of heterogeneous cores along with the explicit and special memory arrangement require careful consideration of data partitioning and task scheduling at the application level to attain maximum execution efficiency. On the other hand, the Cell BE processor offers a vast number of parallelization options to application developers and presents a unique opportunity to study new parallel programming paradigms for the multi-core/many-core era."
 
