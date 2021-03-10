@@ -5,6 +5,12 @@ title: "MuCoCoS 2008 Keynote Talk: Petascale Computing for Large-Scale Graph Pro
 event: "2008 International Workshop on Multi-Core Computing Systems (MuCoCoS'08)"
 event_url: "https://web.archive.org/web/20080321155344/http://www.par.univie.ac.at/~pllana/mucocos08/"
 location: "Barcelona, Spain"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "Graph theoretic problems are representative of fundamental kernels in
 traditional and emerging computational sciences such as chemistry,
