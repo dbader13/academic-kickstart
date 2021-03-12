@@ -33,4 +33,4 @@ Today we’re delving into the world of high performance data analytics with **D
 {{< youtube ZBOfUCphhHs>}}
 
 
-
+https://dataproducts.io/2021/03/data-simplified-interview-with-professor-david-bader/
