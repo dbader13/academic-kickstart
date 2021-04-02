@@ -18,7 +18,7 @@ organizations:
   url: "http://www.njit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+# bio:
 
 # interests:
 
@@ -74,3 +74,4 @@ user_groups:
 
 ---
 
+Oliver Alvarado Rodriguez is currently a computer science Ph.D. student at NJIT in Newark, NJ. He performs research under the supervision of Dr. David Bader. He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, machine learning, and graph theory.  He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was recently awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su.
