@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Advisory Council Member
+    company: EdgeDiscovery, NJEdge Inc. 
+    company_url: 'https://njedge.net/research/'
+    location: Newark, NJ
+    date_start: '2020-08-01'
+    date_end: ''
+
   - title: Steering Committee Chair, Seed Fund
     company: Northeat Big Data Innovation Hub
     company_url: 'http://nebigdatahub.org/'
