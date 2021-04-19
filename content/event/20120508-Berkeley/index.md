@@ -5,6 +5,12 @@ title: "UC Berkeley, Invited Talk: Opportunities and Challenges in Massive Data-
 event: "From Data to Knowledge: Machine-Learning with Real-time and Streaming Applications"
 event_url: "https://lyra.berkeley.edu/CDIConf/"
 location: "Berkeley, CA"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "Emerging real-world graph problems include detecting community structure in large social networks, improving the resilience of the electric power grid, and detecting and preventing disease in human populations. Unlike traditional applications in computational science and engineering, solving these problems at scale often raises new challenges because of sparsity and the lack of locality in the data, the need for additional research on scalable algorithms and development of frameworks for solving these problems on high performance computers, and the need for improved models that also capture the noise and bias inherent in the torrential data streams. In this talk, the speaker will discuss the opportunities and challenges in massive data-intensive computing for applications in computational biology, genomics, and security. The explosion of real-world graph data poses a substantial challenge: How can we analyze constantly changing streaming graphs with billions of vertices? Our approach leverages fine-grained parallelism, lightweight synchronization, and shared memory, to scale to massive graphs."
 

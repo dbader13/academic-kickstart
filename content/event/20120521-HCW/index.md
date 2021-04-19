@@ -5,6 +5,12 @@ title: "HCW 2012 Keynote Talk: Analyzing Massive Data on Heterogeneous Computing
 event: "21st International Heterogeneity in Computing Workshop (HCW)"
 event_url: "http://hcw-xyz.eecs.wsu.edu/archive/2012/"
 location: "Shanghai, China"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract:
 
