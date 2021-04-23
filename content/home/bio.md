@@ -27,7 +27,7 @@ in science, engineering, computing, and data science. His interests
 are at the intersection of high-performance computing and real-world
 applications, including cybersecurity, massive-scale analytics, and
 computational genomics, and he has co-authored over 300 scholarly
-papers and has best papers awards from ISC, IEEE HPEC, and IEEE/ACM
+papers and has best paper awards from ISC, IEEE HPEC, and IEEE/ACM
 SC.  Dr. Bader has served as a lead scientist in several DARPA
 programs including High Productivity Computing Systems (HPCS) with
 IBM, Ubiquitous High Performance Computing (UHPC) with NVIDIA, Anomaly
