@@ -47,8 +47,9 @@ Electrical and Computer Engineering Distinguished Alumni Award.  In
 2014, Bader received the Outstanding Senior Faculty Research Award
 from Georgia Tech. Bader has also served as Director of the
 Sony-Toshiba-IBM Center of Competence for the Cell Broadband Engine
-Processor and an NVDIA GPU Center of Excellence. Bader is a cofounder
-of the Graph500 List for benchmarking "Big Data" computing
-platforms. He is recognized as a "RockStar" of High Performance
-Computing by InsideHPC and as HPCwire's People to Watch in 2012 and
-2014.
+Processor and Director of an NVDIA GPU Center of Excellence. In 1998,
+Bader built the first Linux supercomputer that led to a
+high-performance computing (HPC) revolution. He is a cofounder of the
+Graph500 List for benchmarking "Big Data" computing platforms. He is
+recognized as a "RockStar" of High Performance Computing by InsideHPC
+and as HPCwire's People to Watch in 2012 and 2014.
