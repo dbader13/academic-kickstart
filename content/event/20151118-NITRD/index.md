@@ -4,7 +4,7 @@
 title: "NITRD 2015 Invited Panelist: Supercomputing and Big Data: From Collision to Convergence"
 event: "NITRD High End Computing (HEC) Interagency Working Group (IWG) and Big Data Senior Steering Group (SSG) Panel, The 27th IEEE and ACM Supercomputing Conference (SC15)"
 event_url: "http://www.sc15.supercomputing.org/schedule/event_detail-evid=pan105.html"
-location:
+location: "Austin, TX"
 address:
   street:
   city:
