@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: "GMT20210510-163917_Recording_1280x720.mp4"
+url_video: "https://aiweek.com/live/streaming-analytics"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+https://aiweek.com/live/streaming-analytics
