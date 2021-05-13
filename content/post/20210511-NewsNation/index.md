@@ -103,3 +103,7 @@ DeMillo said there’s a lesson to take away from the Exchange hack and latest r
 > - GEORGIA TECH SCHOOL OF CYBERSECURITY AND PRIVACY CHAIR RICHARD DEMILLO
 
 https://www.newsnationnow.com/cybersecurity/why-have-ransomware-attacks-increased-and-the-fbis-unprecedented-step-to-prevent-them/
+
+https://kfor.com/news/why-have-ransomware-attacks-increased-and-the-fbis-unprecedented-step-to-prevent-them/
+
+https://www.wdtn.com/news/why-have-ransomware-attacks-increased-and-the-fbis-unprecedented-step-to-prevent-them/
