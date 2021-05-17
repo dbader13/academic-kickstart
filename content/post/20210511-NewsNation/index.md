@@ -107,3 +107,5 @@ https://www.newsnationnow.com/cybersecurity/why-have-ransomware-attacks-increase
 https://kfor.com/news/why-have-ransomware-attacks-increased-and-the-fbis-unprecedented-step-to-prevent-them/
 
 https://www.wdtn.com/news/why-have-ransomware-attacks-increased-and-the-fbis-unprecedented-step-to-prevent-them/
+
+https://myfox8.com/news/why-have-ransomware-attacks-increased-and-the-fbis-unprecedented-step-to-prevent-them/

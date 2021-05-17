@@ -59,3 +59,5 @@ https://fox2now.com/news/national/biden-signs-cybersecurity-executive-order-afte
 https://www.wkrn.com/news/biden-signs-cybersecurity-executive-order-after-ransomware-attack-on-fuel-pipeline/
 
 https://pennsylvanianewstoday.com/biden-signs-cybersecurity-executive-order-after-ransomware-attack-on-fuel-pipeline/138139/
+
+https://www.kxan.com/news/biden-signs-cybersecurity-executive-order-after-ransomware-attack-on-fuel-pipeline/
