@@ -25,6 +25,7 @@ experience:
   - title: Distinguished Professor
     company: New Jersey Institute of Technology
     company_url: 'http://www.njit.edu/'
+    company_logo: org-njit
     location: Newark, NJ
     date_start: '2019-07-01'
     date_end:
@@ -33,6 +34,7 @@ experience:
   - title: Professor
     company: Georgia Institute of Technology
     company_url: 'http://www.gatech.edu/'
+    company_logo: org-gatech
     location: Atlanta, GA
     date_start: '2005-08-01'
     date_end: '2019-06-30'
@@ -41,6 +43,7 @@ experience:
   - title: Associate Professor and Regents' Lecturer
     company: University of New Mexico
     company_url: 'http://www.unm.edu/'
+    company_logo: org-unm
     location: Albuquerque, NM
     date_start: '1998-01-01'
     date_end: '2005-07-30'
