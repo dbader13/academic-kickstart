@@ -46,3 +46,5 @@ Florence Hudson
 Interim Executive Director
 
 http://nebigdatahub.org/leadership/
+
+https://us13.campaign-archive.com/?u=c1cdd0f77f3dbff8b6c8ec5ef&id=177dfd6903
