@@ -143,3 +143,11 @@ computing and the arts.
 
 
 https://list.uvm.edu/cgi-bin/wa?A2=ind9908&L=I2-TEAM&P=63
+
+### Chautauqua Agenda, August 9-10, 1999, Albuquerque, NM ###
+
+[Agenda](https://web.archive.org/web/20000203101440/http://chautauqua.ahpcc.unm.edu/agenda.html)
+
+1:30PM - CLUSTERS - The Most Rapidly Growing Architecture of High-End Computing  
+**Dr. David A. Bader**, University of New Mexico, and lead for the UNM Roadrunner Linux-based Supercluster, will talk about the "next wave" in high performance computing.
+
