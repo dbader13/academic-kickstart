@@ -32,7 +32,7 @@ experience:
     date_end: ''
 
   - title: Steering Committee Chair, Seed Fund
-    company: Northeat Big Data Innovation Hub
+    company: Northeast Big Data Innovation Hub
     company_url: 'http://nebigdatahub.org/'
     company_logo: org-nebdih
     location: New York, NY
