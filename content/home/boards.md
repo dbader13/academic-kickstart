@@ -31,6 +31,14 @@ experience:
     date_start: '2020-08-01'
     date_end: ''
 
+  - title: Advisory Board Member
+    company: ARLIS, University of Maryland
+    company_url: 'https://www.arlis.umd.edu/'
+    company_logo: org-maryland
+    location: College Park, MD
+    date_start: '2020-07-01'
+    date_end: ''
+
   - title: Steering Committee Chair, Seed Fund
     company: Northeast Big Data Innovation Hub
     company_url: 'http://nebigdatahub.org/'
