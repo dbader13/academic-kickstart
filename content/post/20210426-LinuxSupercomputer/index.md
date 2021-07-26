@@ -134,6 +134,8 @@ Exascale supercomputers will provide unprecedented capability to integrate data 
 [^12]: Georgia Tech ‘CellBuzz’ Cluster in Production Use. July 11, 2007, HPCWire, https://web.archive.org/web/20070715054621/https://www.hpcwire.com/hpc/1657877.html
 
 
+© 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+
 ### About the Author: ###
 
 ***David A. Bader** is a distinguished professor in the department of computer science in the Ying Wu College of Computing and Director of the Institute for Data Science at the New Jersey Institute of Technology. Prior to this, he served as founding professor and chair of the School of Computational Science and Engineering, College of Computing, at the Georgia Institute of Technology. He is a Fellow of the IEEE, AAAS, and SIAM.*
