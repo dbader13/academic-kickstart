@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="clip_82931138.jpg" >}}
+
 **David Albert Bader**, son of Dr. and Mrs. Morris Bader of Bethlehem, was elevated to the rank of **Eagle Scout** during ceremonies held recently in the Haupert Union Building at Moravian College. David is a member of Boy Scout Troop 346 of St. Mark's Lutheran Church, Bethlehem.
 
 His Eagle project consisted of making a complete inventory of the Brith Sholom Community Center library, to be used by center members and the general public. He made a check of the shelf and catalog file listings and made sure all library materials were in their proper places. Cards were made for books on the shelves, not already in the files, and missing books were noted. As each shelf was completed, the books were boxed and the contents labeled in preparation for Brith Sholom's future move to its newly constructed building. The project took 128 hours.
