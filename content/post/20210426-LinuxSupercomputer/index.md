@@ -28,6 +28,9 @@ image:
 projects: []
 ---
 
+{{<figure src="Annals.png">}}
+
+> D.A. Bader, "Linux and Supercomputing: How my passion for building COTS systems led to an HPC revolution," IEEE Annals of the History of Computing, 2021. doi:10.1109/MAHC.2021.3101415 (*in press*)
 
 Back in the early 1990s when I was a graduate student in electrical and computer engineering at the University of Maryland, the term “supercomputer” meant Single Instruction, Multiple Data (SIMD) vector processor machines (the Cray-1 was the most popular), or massively parallel multiprocessor systems, such as the Thinking Machine CM-5. These systems were bulky—a Cray-1 occupied 2.7m by 2m of floor area and contained 60 miles of wires[^1]; expensive, selling for several million dollars; and required significant expertise to program and operate. Supercomputing was mainly a function of the U.S. Department of Defense and its Soviet counterpart, large government and academic labs, and large industrial users. Each system used its own proprietary software and none was compatible with any other.
 
