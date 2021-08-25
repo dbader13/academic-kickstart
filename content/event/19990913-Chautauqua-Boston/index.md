@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SuperClusters: A New Approach for High-Performance Computing"
+title: "NCSA Chautauqua Talk 3: SuperClusters: A New Approach for High-Performance Computing"
 event: "National Computational Science Alliance Chautauqua"
 event_url: https://davidbader.net/post/19990804-internet2/
 location: "Boston University"
@@ -72,3 +72,5 @@ https://web.archive.org/web/19991126010709/http://chautauqua.bu.edu/
 
 https://web.archive.org/web/20000206063025/http://www.ncsa.uiuc.edu/alliance/chautauqua/1999Presentations.html
 
+{{< figure src="19990913-Chautauqua-Boston-1.jpg" >}}
+{{< figure src="19990913-Chautauqua-Boston-2.jpg" >}}

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Using Streaming Analytics to Change Industry"
+title: "AI Week Invited Talk: Using Streaming Analytics to Change Industry"
 event: "AI Week Presented by Scoop News Group"
 event_url: "https://aiweek.com/live/"
 location: "virtual"

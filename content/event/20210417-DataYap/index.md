@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Solving Global Grand Challenges with High Performance Data Analytics"
+title: "DataYap Invited Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "DataYap Conference"
 event_url: "https://conference.datayap.com/"
 location:

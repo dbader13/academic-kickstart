@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SuperClusters: A New Approach for High-Performance Computing"
+title: "NCSA Chautauqua Talk 1: SuperClusters: A New Approach for High-Performance Computing"
 event: "National Computational Science Alliance Chautauqua"
-event_url: https://davidbader.net/post/19990804-internet2/
+event_url: https://web.archive.org/web/19991126000736/http://chautauqua.ahpcc.unm.edu/
 location: "University of New Mexico"
 address:
   street:
@@ -74,3 +74,6 @@ CLUSTERS - The Most Rapidly Growing Architecture of High-End Computing
 **Dr. David A. Bader**, University of New Mexico, and lead for the UNM Roadrunner Linux-based Supercluster, will talk about the "next wave" in high performance computing.
 
 https://web.archive.org/web/20000203101440/http://chautauqua.ahpcc.unm.edu/agenda.html
+
+{{< figure src="19990809-Chautauqua-NewMexico-1.jpg" >}}
+{{< figure src="19990809-Chautauqua-NewMexico-2.jpg" >}}

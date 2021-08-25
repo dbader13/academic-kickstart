@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Large-Scale Graph Analytics in Arkouda"
+title: "NJBDA Talk: Large-Scale Graph Analytics in Arkouda"
 event: "New Jersey Big Data Alliance 2021 Symposium: Smart State: Big Data for Community Impact"
 event_url: "https://njbda.org/2021-symposium/"
 location: "VIRTUAL"
