@@ -196,3 +196,8 @@ NCSA/Alliance Access, Ceremony Dedicates Linux Supercluster. Bader is pictured i
 Alliance / UNM Roadrunner Linux Cluster, David A. Bader. (10 May 1999): {{<figure src="clustertalk9905.png" width="300">}}
 {{% /staticref %}}
 
+
+<a name="gal_Dinner19980408"></a>
+Invitation to RoadRunner Dedication, Reception, and Dinner (8 April 1999): {{<figure src="19990408-dinner1.jpg" width="300">}}
+{{<figure src="19990408-dinner2.jpg" width="300">}}
+
