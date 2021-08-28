@@ -172,6 +172,14 @@ Exascale supercomputers will provide unprecedented capability to integrate data 
 
 ### Additional Documents ###
 
+<a name="gal_19920221-NASA"></a>
+NASA Graduate Student Researchers Program (GSRP) Letter from Dr. Gerald A. Soffen, Director of University Programs, NASA Goddard Space Flight Center (21 February 1992): {{<figure src="19920221-NASA.jpg" width="300">}}
+
+<a name="gal_19920330-NASA"></a>
+NASA Award Letter from Dr. Gerald A. Soffen (30 March 1992): {{<figure src="19920330-NASA-1.jpg" width="300">}}
+{{<figure src="19920330-NASA-2.jpg" width="300">}}
+
+
 <a name="gal_FreeBSD19970720"></a>
 FreeBSD MPI port (20 July 1997): {{<figure src="FreeBSD19970720.jpg" width="300">}}
 
@@ -186,6 +194,10 @@ using SMP Clusters (8 April 1998): {{<figure src="prop9804.png" width="300">}}
 Proposal for Developing Algorithms and Applications for High Performance SMP Clusters (10 June 1998): {{<figure src="HPCERC9806.png" width="300">}}
 {{% /staticref %}}
 
+<a name="gal_Dinner19990408"></a>
+Invitation to RoadRunner Dedication, Reception, and Dinner (8 April 1999): {{<figure src="19990408-dinner1.jpg" width="300">}}
+{{<figure src="19990408-dinner2.jpg" width="300">}}
+
 <a name="gal_Access19990420"></a>
 {{% staticref "files/LinuxSupercomputer/Access19990420.pdf" "newtab" %}}
 NCSA/Alliance Access, Ceremony Dedicates Linux Supercluster. Bader is pictured in the top-left photo. (20 April 1999): {{<figure src="Access19990420.png" width="300">}}
@@ -197,7 +209,4 @@ Alliance / UNM Roadrunner Linux Cluster, David A. Bader. (10 May 1999): {{<figur
 {{% /staticref %}}
 
 
-<a name="gal_Dinner19980408"></a>
-Invitation to RoadRunner Dedication, Reception, and Dinner (8 April 1999): {{<figure src="19990408-dinner1.jpg" width="300">}}
-{{<figure src="19990408-dinner2.jpg" width="300">}}
 
