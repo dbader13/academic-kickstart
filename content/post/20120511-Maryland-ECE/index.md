@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2012-01-01T08:18:42-04:00
-lastmod: 2012-01-01T08:18:42-04:00
+date: 2012-05-11T08:18:42-04:00
+lastmod: 2012-05-11T08:18:42-04:00
 featured: false
 draft: false
 
@@ -35,3 +35,8 @@ In 2011, [The University of Maryland](https://www.umd.edu/)'s Department of Elec
 2012: **Dr. David Bader**, Professor
 
 https://ece.umd.edu/alumni/award
+
+{{<figure src="ECE1.jpg">}}
+{{<figure src="ECE2.jpg">}}
+{{<figure src="ECE3.jpg">}}
+
