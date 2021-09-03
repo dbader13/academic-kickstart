@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "David Bader's Eagle Scout Court of Honor"
+title: "David Bader Earns the Rank of Eagle Scout"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{<figure src="NESA1.jpg">}}
+{{<figure src="NESA2.jpg">}}
 
 {{<figure src="EagleScout1.jpg">}}
 {{<figure src="EagleScout2.jpg">}}

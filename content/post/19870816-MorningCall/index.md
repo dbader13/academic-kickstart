@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< figure src="award.jpg" >}}
+
 {{< figure src="clip_82931488.jpg" >}}
 
 **David A. Bader**, son of Morris and Karen Bader, of 1402 Lorain Ave., Bethlehem. Liberty High School graduate Bader has been a carrier for five years. He will attend Lehigh University and major in computer engineering.

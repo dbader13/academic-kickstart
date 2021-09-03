@@ -31,6 +31,8 @@ projects: []
 {{<figure src="letter.jpg">}}
 {{<figure src="letter2.jpg">}}
 
+{{<figure src="photo.jpg">}}
+
 We are happy to announce that you have been chosen to participate in the 1998 EESP program at the UW-Madison!  The program will take place on July 12-18 on the Engineering campus at the University of Wisconsin-Madison.
 
 Congratulations on your acceptance & we will be in touch soon !
