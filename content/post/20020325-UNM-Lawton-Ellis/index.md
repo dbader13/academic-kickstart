@@ -27,3 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{<figure src="award.jpg">}}
+
+Presented to **Dr. David A. Bader** From the Chair and Faculty of the Department of Electrical and Computing Engineering, University of New Mexico, as a recipient of the 2002 Lawton-Ellis Award
+
+

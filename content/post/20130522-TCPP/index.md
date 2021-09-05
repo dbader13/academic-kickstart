@@ -28,6 +28,18 @@ image:
 projects: []
 ---
 
+{{<figure src="award.jpg">}}
+
+IEEE Computer Society Technical Committee on Parallel Processing (TCPP) presents the 2013 TCPP Outstanding Service Award to **Dr. David A. Bader**
+
+Jose Rolim  
+Chair, Award Committee
+
+Ajay Gupta  
+Chair, IEEE-CS TCPP
+
+---
+
 This is to recognize those individuals in the broader community who have had major professional service roles in conferences (TCPP and others), journals, various committees, major events, community resources, and international outreach, and those who have had a major impact on the community at large in possibly other ways.
 
 2013 Winner: **David A. Bader**, Georgia Institute of Technology

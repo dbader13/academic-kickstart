@@ -1,14 +1,14 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "IEEE Computer Society Meritorious Service Award"
+title: "Bader Awarded Georgia Tech College of Computing Dean's Award"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2010-01-01T12:00:16-04:00
-lastmod: 2010-01-01T12:00:16-04:00
+date: 2007-04-17T16:08:23-04:00
+lastmod: 2007-04-17T16:08:23-04:00
 featured: false
 draft: false
 
@@ -28,4 +28,16 @@ image:
 projects: []
 ---
 
-In 2010, **David A. Bader** received the [IEEE Computer Society](https://www.computer.org/) [Meritorious Service Award](https://www.computer.org/volunteering/awards/meritorious-service) for service as General Chair for the 2010 [International Parallel and Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/).
+{{<figure src="certificate.jpg">}}
+
+Georgia Tech College of Computing
+
+## The Dean's Award ##
+
+Presented to **David Bader** on Tuesday, April 17, 2007
+
+Richard A. DeMillo  
+The John P. Imlay, Jr. Dean of Computing
+
+Merrick L. Furst  
+Distinguished Professor, Associate Dean

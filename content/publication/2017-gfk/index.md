@@ -11,3 +11,4 @@ url_pdf: "https://doi.org/10.1109/HPEC.2017.8091038"
 doi: "10.1109/HPEC.2017.8091038"
 ---
 
+{{<figure src="certificate.jpg">}}

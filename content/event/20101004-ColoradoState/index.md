@@ -80,6 +80,8 @@ slides: ""
 projects: []
 ---
 
+{{<figure src="award.jpg">}}
+
 ## Speaker Biography ##
 
 **David A. Bader** is a Full Professor in the School of Computational

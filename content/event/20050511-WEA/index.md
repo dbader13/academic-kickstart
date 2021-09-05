@@ -61,4 +61,5 @@ slides: ""
 projects: []
 ---
 
+{{< figure src="award.jpg" >}}
 {{< figure src="WEA2005.jpg" >}}
