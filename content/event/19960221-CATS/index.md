@@ -61,6 +61,8 @@ slides: ""
 projects: []
 ---
 
+{{<figure src="flyer.jpg">}}
+
 The Capital Area Theory Symposia is an NSF sponsored series of symposia in theoretical computer science bringing computer scientists from around the world to the Capital area. The Symposia are given at the University of Maryland in cooperation with the Computer Science Department and UMIACS. NSF support under grant CCR-9401842 is gratefully acknowledged.
 
 [http://www.cs.umd.edu/users/samir/catss96.html](https://web.archive.org/web/19990417181952/http://www.cs.umd.edu/users/samir/catss96.html)

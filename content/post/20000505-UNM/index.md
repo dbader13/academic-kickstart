@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+{{<figure src="letter.jpg">}}
 {{<figure src="award.jpg">}}
 
 University of New Mexico

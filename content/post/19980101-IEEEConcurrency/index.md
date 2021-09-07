@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{<figure src="magazine.jpg">}}
+
 *IEEE Concurrency* ’s home page
 (http://computer.org/concurrency/) now
 includes a link to ParaScope, a comprehensive
