@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+{{<figure src="letter.jpg">}}
 {{<figure src="award.jpg">}}
 
 The Institute of Electrical and Electronics Engineers, Inc., (IEEE)

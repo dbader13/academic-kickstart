@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+{{<figure src="certificate.jpg">}}
 {{<figure src="letter.jpg">}}
 
 Dear **Dr. Bader**,
