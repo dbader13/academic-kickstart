@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Eagle Scout Court of Honor"
+title: "David Bader Earns Rank of Eagle Scout, Boy Scouts of America"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 1985-05-19T18:24:45-04:00
-lastmod: 1985-05-19T18:24:45-04:00
+date: 1985-03-07T13:05:28-04:00
+lastmod: 1985-03-07T13:05:28-04:00
 featured: false
 draft: false
 
@@ -28,12 +28,4 @@ image:
 projects: []
 ---
 
-{{<figure src="NESA1.jpg">}}
-{{<figure src="NESA2.jpg">}}
-
-{{<figure src="EagleScout1.jpg">}}
-{{<figure src="EagleScout2.jpg">}}
-{{<figure src="EagleScout3.jpg">}}
-{{<figure src="EagleScout4.jpg">}}
-{{<figure src="EagleScout5.jpg">}}
-{{<figure src="EagleScout6.jpg">}}
+{{<figure src="eaglecard.jpg">}}
