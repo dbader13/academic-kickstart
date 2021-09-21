@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bader Awarded EECE Outstanding Researcher of the Year"
+title: "Bader Awarded EECE Outstanding Researcher of the Year (First Recipient of this Award)"
 subtitle: ""
 summary: ""
 authors: []
