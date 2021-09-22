@@ -78,3 +78,4 @@ user_groups:
 ---
 
 
+Fuhuan Li received his B.S. degree in statistics from Zhejiang University in 2017, and the M.S. degree in data science in Rutgers University, New Brunswick, in 2019. He is currently a computer science Ph.D. student at New Jersey Institute of Technology in Newark under the supervision of Dr. David Bader. His research interests include but not limited to design and implement algorithms in the area of graph theory and machine learning. In his free time, Fuhuan enjoys hiking and cooking.
