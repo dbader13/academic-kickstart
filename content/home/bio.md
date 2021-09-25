@@ -19,18 +19,19 @@ Institute of Technology.  Prior to this, he served as founding
 Professor and Chair of the School of Computational Science and
 Engineering, College of Computing, at Georgia Institute of Technology.
 
-Dr. Bader is a Fellow of the IEEE, AAAS, and SIAM, and advises the
-White House, most recently on the National Strategic Computing
-Initiative (NSCI) and Future Advanced Computing Ecosystem
-(FACE). Bader is a leading expert in solving global grand challenges
-in science, engineering, computing, and data science. His interests
-are at the intersection of high-performance computing and real-world
+Dr. Bader is a Fellow of the IEEE, AAAS, and SIAM, and a recipient of
+the IEEE Computer Society Sidney Fernbach Award. He advises the White
+House, most recently on the National Strategic Computing Initiative
+(NSCI) and Future Advanced Computing Ecosystem (FACE). Bader is a
+leading expert in solving global grand challenges in science,
+engineering, computing, and data science. His interests are at the
+intersection of high-performance computing and real-world
 applications, including cybersecurity, massive-scale analytics, and
 computational genomics, and he has co-authored over 300 scholarly
-papers and has best paper awards from ISC, IEEE HPEC, and IEEE/ACM
-SC.  Dr. Bader has served as a lead scientist in several DARPA
-programs including High Productivity Computing Systems (HPCS) with
-IBM, Ubiquitous High Performance Computing (UHPC) with NVIDIA, Anomaly
+papers and has best paper awards from ISC, IEEE HPEC, and IEEE/ACM SC.
+Dr. Bader has served as a lead scientist in several DARPA programs
+including High Productivity Computing Systems (HPCS) with IBM,
+Ubiquitous High Performance Computing (UHPC) with NVIDIA, Anomaly
 Detection at Multiple Scales (ADAMS), Power Efficiency Revolution For
 Embedded Computing Technologies (PERFECT), Hierarchical Identify
 Verify Exploit (HIVE), and Software-Defined Hardware (SDH). Recently,
