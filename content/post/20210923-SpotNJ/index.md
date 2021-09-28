@@ -30,6 +30,6 @@ projects: []
 
 The IEEE Computer Society (IEEE CS) has named **David Bader** as the recipient of the 2021 Sidney Fernbach Award. Bader is a distinguished professor and founder of the Department of Data Science, and inaugural Director of the Institute for Data Science, at New Jersey Institute of Technology....
 
-[Read furhter at news source](https://news.njit.edu/njits-david-bader-selected-receive-2021-ieee-computer-society-sidney-fernbach-award)
+[Read further at news source](https://news.njit.edu/njits-david-bader-selected-receive-2021-ieee-computer-society-sidney-fernbach-award)
 
 https://spotonnewjersey.com/gateway/823764/njits-david-bader-selected-to-receive.html
