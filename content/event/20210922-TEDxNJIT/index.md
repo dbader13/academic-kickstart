@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: "https://www.ted.com/talks/david_bader_solving_global_grand_challenges_with_high_performance_data_analytics"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -66,5 +66,8 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+{{<youtube 7KJf_PSeWGs>}}
 
 
