@@ -4,7 +4,7 @@
 title: "IEEE Computer Society Distinguished Lecturer Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "IEEE Computer Society Distinguished Lecturer Webinar"
 event_url: "https://www.computer.org/communities/distinguished-lecturer-webinar"
-location:
+location: "Virtual"
 address:
   street:
   city:

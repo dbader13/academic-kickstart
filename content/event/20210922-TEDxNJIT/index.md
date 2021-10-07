@@ -4,7 +4,7 @@
 title: "Solving Global Grand Challenges with High Performance Data Analytics"
 event: "TEDxNJIT: Resurgence"
 event_url: http://tedxnjit.com/
-location:
+location: "Virtual"
 address:
   street:
   city:

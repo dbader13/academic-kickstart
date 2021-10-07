@@ -4,7 +4,7 @@
 title: "APL Colloquium Talk: The International Race to Exascale Supercomputing"
 event: "Johns Hopkins University, Applied Physics Laboratory Colloquium"
 event_url: https://www.jhuapl.edu/colloquium
-location:
+location: "Laurel, MD"
 address:
   street:
   city:
