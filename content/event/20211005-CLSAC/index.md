@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+This talk presents graph analytics designed and implemented for Arkouda, an open-source framework for providing NumPy-like Python functionality on large datasets.
