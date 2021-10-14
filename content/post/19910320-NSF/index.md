@@ -34,7 +34,7 @@ Dear **Mr. Bader**:
 
 Your application for a National Science Foundation Graduate Fellowship for the 1991-1992 award period has been carefully evaluated. Although the Foundation is unable to offer you a fellowship in this competition, it is a pleasure to inform you that on the basis of your application, which was highly meritorious, you have been accorded Honorable Mention.  Unless you have previously requested otherwise, your name will appear on the Honorable Mention List, which is scheduled for public release today.
 
-We are pleased to remind you that, as an Honorable Mention Recipient, you will be eligible to request through this office up to 10 CPU hours of superocmputer use during your graduate work, if appropriate.
+We are pleased to remind you that, as an Honorable Mention Recipient, you will be eligible to request through this office up to 10 CPU hours of supercomputer use during your graduate work, if appropriate.
 
 ...
 

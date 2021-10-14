@@ -76,6 +76,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/David_Bader2
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=7102450485
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1698005/david-bader/
