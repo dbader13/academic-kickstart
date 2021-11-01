@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist
+role: Senior Applied Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Ionic Security, Inc.
-  url: "http://www.ionic.com/"
+- name: JPMorgan Chase & Co.
+  url: "https://www.jpmorganchase.com/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -79,3 +79,4 @@ user_groups:
 
 ---
 
+Mi Yan is a Senior Applied Research Engineer at JPMorgan Chase & Co. Previously, she was a data scientist at Ionic Security, Inc., a high performance computing (HPC) specialist for IBM, and a senior software engineer for Linux Networx Inc.

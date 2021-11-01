@@ -66,3 +66,8 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+## DESCRIPTION ##
+
+**David Bader**, School of Computational Science and Engineering Georgia Institute of Technology
+

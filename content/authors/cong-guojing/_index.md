@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Staff Member and Manager of Machine Learning and Workflow
+role: Senior Staff
 
 # Organizations/Affiliations
 organizations:
-- name: IBM Research
-  url: "http://www.ibm.com/"
+- name: Oak Ridge National Laboratory
+  url: "http://www.ornl.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -73,3 +73,4 @@ user_groups:
 
 ---
 
+Guojing Cong is a computer scientist in the Learning Systems group at ORNL.  Previously he was a research staff member at IBM T.J. Watson research center.  His past research projects include graph analytics, performance analysis of HPC systems and applications,  large-scale mixed integer linear programming with application to unit commitment problems, financial risk analytics, and large-scale distributed training algorithms.  Currently he works towards a framework for intelligent simulation workflows to accelerate scientific discovery. Specifically, this framework provides learning that tailors for scientific problems, and efficient management of the workflows on emerging platforms aided by learning.
