@@ -67,7 +67,7 @@ slides: ""
 projects: []
 ---
 
-
+{{<figure src="certificate.jpg">}}
 
 ## Biography: ##
 
