@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-10-19T11:51:14-04:00
-date_end: 2021-10-19T11:51:14-04:00
+date: 2021-10-24T12:00:00-04:00
+date_end: 2021-10-24T13:00:00-04:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -74,3 +74,4 @@ Meet the speaker for the event, 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝗚𝗹𝗼𝗯�
 Register for IEEE CS CYP Global Congress 2021: https://lnkd.in/dbicJuXi
 #IEEE #IEEECS #IEEECSSYPCongress21
 
+{{<figure src="certificate.jpg">}}
