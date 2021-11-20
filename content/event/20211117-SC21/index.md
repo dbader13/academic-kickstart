@@ -67,7 +67,15 @@ slides: ""
 projects: []
 ---
 
+{{<youtube mvRSPh9pj0c>}}
+
 Supercomputers enable us to tackle some of the most challenging computational and data-intensive real-world problems facing our societies and the planet. In this talk, David A. Bader, the 2021 IEEE Computer Society Sidney Fernbach Award recipient, will share his passion for solving these global grand challenges. Bader revolutionized the computing industry by architecting the first Linux Supercomputer. Today, all the Top 500 supercomputers in the world are Linux HPC systems. His seminal contributions include the first general-purpose programming methodology for multicore clusters and accelerator technologies, such as his pioneering use of the Cell processor and GPUs. Bader is also recognized for his long-standing research efforts on novel parallel and streaming algorithms that have produced multiple “firsts” for graph traversal, search, centrality, and community detection, and many of the best-performing graph algorithms for GPUs. Bader is an innovator in academia as well. In 2005, Bader founded Computational Science and Engineering at Georgia Tech, created MS and PhD academic programs, and launched a successful new school. In 2019, Bader moved to New Jersey Institute of Technology as inaugural director of the Institute of Data Science, founded the Department of Data Science, and created one of the first B.S. degrees in Data Science.
+
+{{<figure src="certificate.jpg">}}
+
+{{<figure src="pic2.jpg" caption="Bill Gropp presents IEEE Sidney Fernbach Award to David Bader at SC21.">}}
+
+{{<figure src="pic3.jpg">}}
 
 
 
