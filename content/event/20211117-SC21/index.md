@@ -77,5 +77,7 @@ Supercomputers enable us to tackle some of the most challenging computational an
 
 {{<figure src="pic3.jpg">}}
 
+{{<figure src="pic4.jpg">}}
+
 
 
