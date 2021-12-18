@@ -4,7 +4,7 @@
 title: "Large Scale String Analytics In Arkouda"
 authors: ["Zhihui Du", "Oliver Alvarado Rodriguez", "David Bader"]
 date: 2021-09-21T11:38:01-04:00
-doi: ""
+doi: "10.1109/HPEC49654.2021.9622810"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-21T11:38:01-04:00

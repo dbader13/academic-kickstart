@@ -1,0 +1,33 @@
+@inproceedings{2021-DRB,
+ author = {Oded Green and Zhihui Du and Sanyamee Patel and Zehui Xie and Hang Liu and David A. Bader},
+ booktitle = {The 28th IEEE International Conference on  High Performance Computing, Data, and Analytics (HiPC), India, December 17-18, 2021.},
+ groups = {Edited},
+ title = {Anti-Section Transitive Closure},
+ year = {2021},
+ url       = {},
+ doi={10.1109/HiPC53243.2021.00033},
+ abstract = {The transitive closure of a graph is a new graph where
+every vertex is directly connected to all vertices to which it had a
+path in the original graph. Transitive closures are useful for
+reachability and relationship querying. Finding the transitive closure
+can be computationally expensive and requires a large memory footprint
+as the output is typically larger than the input.  Some of the
+original research on transitive closures assumed that graphs were
+dense and used dense adjacency matrices. We have since learned that
+many real-world networks are extremely sparse, and the existing
+methods do not scale. In this work, we introduce a new algorithm
+called Anti-section Transitive Closure (ATC) for finding the
+transitive closure of a graph. We present a new parallel edges
+operation – anti-sections – for finding new edges to reachable
+vertices. ATC scales to massively multithreaded systems such as
+NVIDIA’s GPU with tens of thousands of threads. We show that the
+anti-section operation shares some traits with the triangle counting
+intersection operation in graph analysis. Lastly, we view the
+transitive closure problem as a dynamic graph problem requiring edge
+insertions. By doing this, our memory footprint is smaller. We also
+show a method for creating the batches in parallel using two different
+techniques: dual-round and hash. Using these techniques and the Hornet
+dynamic graph data structure, we show our new algorithm on an NVIDIA
+Titan V GPU. We compare with other packages such as NetworkX,
+SEI-GBTL, SuiteSparse, and cuSparse.}
+}

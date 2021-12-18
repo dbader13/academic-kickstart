@@ -4,7 +4,7 @@
 title: "Linux and Supercomputing: How my passion for building COTS systems led to an HPC revolution"
 authors: ["David Bader"]
 date: 2021-08-23T12:41:26-04:00
-doi: "https://doi.org/10.1109/MAHC.2021.3101415"
+doi: "10.1109/MAHC.2021.3101415"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-23T12:41:26-04:00

@@ -4,7 +4,7 @@
 title: "A GraphBLAS implementation of Triangle Centrality"
 authors: ["Fuhuan Li", "David Bader"]
 date: 2021-09-21T11:37:31-04:00
-doi: ""
+doi: "10.1109/HPEC49654.2021.9622806"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-21T11:37:31-04:00

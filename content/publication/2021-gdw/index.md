@@ -4,7 +4,7 @@
 title: "Dynamics signature based anomaly detection"
 authors: ["Ivan Hendy Goenawan", "Zhihui Du", "Chao Wu", "Yankui Sun", "Jianyan Wei", "David Bader"]
 date: 2021-11-15T12:34:23-05:00
-doi: "http://doi.org/10.1002/spe.3052"
+doi: "10.1002/spe.3052"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-11-15T12:34:23-05:00

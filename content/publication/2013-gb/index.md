@@ -9,6 +9,6 @@ featured: false
 publication: "*Procedia Computer Science*"
 tags: ["Parallel algorithms", "Graph algorithms", "Betweenness Centrality", "Optimizations", "Experimental algorithms"]
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S1877050913003463"
-doi: "https://doi.org/10.1016/j.procs.2013.05.203"
+doi: "10.1016/j.procs.2013.05.203"
 ---
 

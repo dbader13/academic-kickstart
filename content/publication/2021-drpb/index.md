@@ -4,7 +4,7 @@
 title: "Interactive Graph Stream Analytics in Arkouda"
 authors: ["Zhihui Du", "Oliver Alvarado Rodriguez", "Joseph Patchett", "David Bader"]
 date: 2021-07-21T11:50:49-04:00
-doi: "https://doi.org/10.3390/a14080221"
+doi: "10.3390/a14080221"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-07-21T11:50:49-04:00

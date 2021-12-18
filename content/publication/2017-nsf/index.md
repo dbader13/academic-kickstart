@@ -9,6 +9,6 @@ featured: false
 publication: "*Procedia Computer Science*"
 tags: ["graphs", "data analysis", "numerical accuracy", "katz centrality", "ranking"]
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S1877050917305227"
-doi: "https://doi.org/10.1016/j.procs.2017.05.021"
+doi: "10.1016/j.procs.2017.05.021"
 ---
 

@@ -8,6 +8,6 @@ abstract: "Parallel Alternating Criteria Search (PACS) relies on the combination
 featured: false
 publication: "*Computers & Operations Research*"
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S0305054819301522"
-doi: "https://doi.org/10.1016/j.cor.2019.05.031"
+doi: "10.1016/j.cor.2019.05.031"
 ---
 
