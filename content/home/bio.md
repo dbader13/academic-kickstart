@@ -19,7 +19,7 @@ Institute of Technology.  Prior to this, he served as founding
 Professor and Chair of the School of Computational Science and
 Engineering, College of Computing, at Georgia Institute of Technology.
 
-Dr. Bader is a Fellow of the IEEE, AAAS, and SIAM, and a recipient of
+Dr. Bader is a Fellow of the IEEE, ACM, AAAS, and SIAM, and a recipient of
 the IEEE Computer Society Sidney Fernbach Award. He advises the White
 House, most recently on the National Strategic Computing Initiative
 (NSCI) and Future Advanced Computing Ecosystem (FACE). Bader is a
