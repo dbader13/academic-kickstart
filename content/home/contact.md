@@ -22,7 +22,8 @@ content:
     formspree:
       id: xnqoylgb
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
+      captcha_key: 6Lel-uIdAAAAAFxCgi3qQgszGtibPnS9Eoc8YGMF
   
 design:
   columns: '2'
