@@ -1,5 +1,5 @@
 ---
-title: "High performance MPEG-2 software decoder on the cell broadband engine"
+title: "High performance MPEG-2 software decoder on the Cell Broadband Engine"
 date: 2008-01-01
 publishDate: 2019-09-10T12:18:35.512634Z
 authors: ["David A. Bader", "Sulabh Patel"]

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A. James Clark School of Enigneering, Silver Terps Renion, Celebrating the Classes of 1996 to 1981"
+title: "A. James Clark School of Engineering, Silver Terps Reunion, Celebrating the Classes of 1996 to 1981"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,5 +1,5 @@
 ---
-title: "Financial modeling on the cell broadband engine"
+title: "Financial modeling on the Cell Broadband Engine"
 date: 2008-01-01
 publishDate: 2019-09-10T12:18:35.451712Z
 authors: ["Virat Agarwal", "Lurng-Kuo Liu", "David A. Bader"]
