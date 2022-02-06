@@ -4,7 +4,7 @@
 title: "IEEE Invited Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "IEEE Mysore Subsection Webinar"
 event_url:
-location:
+location: "Mysore, India"
 address:
   street:
   city:
