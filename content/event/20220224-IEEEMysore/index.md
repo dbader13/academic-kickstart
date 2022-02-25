@@ -68,6 +68,7 @@ projects: []
 ---
 
 {{<figure src="Poster.png">}}
+{{<figure src="certificate.jpg">}}
 
 ## Abstract ##
 
