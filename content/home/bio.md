@@ -12,12 +12,12 @@ columns: 1
 
 ---
 
-David A. Bader is a Distinguished Professor in the Department of
-Computer Science and founder of the Department of Data Science and
-inaugural Director of the Institute for Data Science at New Jersey
-Institute of Technology.  Prior to this, he served as founding
-Professor and Chair of the School of Computational Science and
-Engineering, College of Computing, at Georgia Institute of Technology.
+David A. Bader is a Distinguished Professor and founder of the
+Department of Data Science and inaugural Director of the Institute for
+Data Science at New Jersey Institute of Technology.  Prior to this, he
+served as founding Professor and Chair of the School of Computational
+Science and Engineering, College of Computing, at Georgia Institute of
+Technology.
 
 Dr. Bader is a Fellow of the IEEE, ACM, AAAS, and SIAM, and a recipient of
 the IEEE Computer Society Sidney Fernbach Award. He advises the White

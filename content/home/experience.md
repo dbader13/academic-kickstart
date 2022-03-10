@@ -29,7 +29,7 @@ experience:
     location: Newark, NJ
     date_start: '2019-07-01'
     date_end:
-    description: Department of Computer Science, Ying Wu College of Computing
+    description: Department of Data Science, Ying Wu College of Computing
 
   - title: Professor
     company: Georgia Institute of Technology
