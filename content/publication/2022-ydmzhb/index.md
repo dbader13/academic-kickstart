@@ -4,7 +4,7 @@
 title: "Anomaly Detection in Catalog Streams"
 authors: ["Chen Yang", "Zhihui Du", "Xiaofeng Meng", "Xukang Zhang", "Xinli Hao", "David Bader"]
 date: 2022-03-23T10:37:37-04:00
-doi: ""
+doi: "10.1109/TBDATA.2022.3161925"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-23T10:37:37-04:00
