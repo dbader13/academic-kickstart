@@ -1,0 +1,15 @@
+@article{10.1145/3524615,
+author = {Grinten, Alexander van der and Bergamini, Elisabetta and Green, Oded and Bader, David A. and Meyerhenke, Henning},
+title = {Scalable Katz Ranking Computation in Large Static and Dynamic Graphs},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1084-6654},
+url = {https://doi.org/10.1145/3524615},
+doi = {10.1145/3524615},
+abstract = {Network analysis defines a number of centrality measures to identify the most central nodes in a network. Fast computation of those measures is a major challenge in algorithmic network analysis. Aside from closeness and betweenness, Katz centrality is one of the established centrality measures. In this paper, we consider the problem of computing rankings for Katz centrality. In particular, we propose upper and lower bounds on the Katz score of a given node. While previous approaches relied on numerical approximation or heuristics to compute Katz centrality rankings, we construct an algorithm that iteratively improves those upper and lower bounds until a correct Katz ranking is obtained. We extend our algorithm to dynamic graphs while maintaining its correctness guarantees. Experiments demonstrate that our static graph algorithm outperforms both numerical approaches and heuristics with speedups between 1.5 \texttimes{} and 3.5 \texttimes{}, depending on the desired quality guarantees. Our dynamic graph algorithm improves upon the static algorithm for update batches of less than 10000 edges. We provide efficient parallel CPU and GPU implementations of our algorithms that enable near real-time Katz centrality computation for graphs with hundreds of millions of edges in fractions of seconds.},
+note = {Just Accepted},
+journal = {ACM J. Exp. Algorithmics},
+month = {mar},
+keywords = {network analysis; Katz centrality; top-k ranking; dynamic graphs; parallel algorithms}
+}

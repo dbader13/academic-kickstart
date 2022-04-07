@@ -4,7 +4,7 @@
 title: "Scalable Katz Ranking Computation in Large Static and Dynamic Graphs"
 authors: ["Alexander van der Grinten", "Elisabetta Bergamini", "Oded Green", "David Bader", "Henning Meyerhenke"]
 date: 2022-03-23T10:42:09-04:00
-doi: ""
+doi: "10.1145/3524615"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-03-23T10:42:09-04:00
