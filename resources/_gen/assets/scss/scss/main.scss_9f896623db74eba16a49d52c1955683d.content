@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* Set Bootstrap variables */
 /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
@@ -4564,7 +4565,7 @@ a.close.disabled {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 15%;
+  width: 6rem;
   color: #fff;
   text-align: center;
   opacity: 0.5;
@@ -4590,8 +4591,8 @@ a.close.disabled {
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 4rem;
+  height: 4rem;
   background: 50% / 100% 100% no-repeat; }
 
 .carousel-control-prev-icon {
@@ -4609,8 +4610,8 @@ a.close.disabled {
   display: flex;
   justify-content: center;
   padding-left: 0;
-  margin-right: 15%;
-  margin-left: 15%;
+  margin-right: 6rem;
+  margin-left: 6rem;
   list-style: none; }
   .carousel-indicators li {
     box-sizing: content-box;
@@ -7188,14 +7189,14 @@ a.text-dark:hover, a.text-dark:focus {
  *  Wowchemy: The Website Builder for Hugo
  *  Designed by @GeorgeCushen
  *  https://wowchemy.com/
- *  License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md
+ *  License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md
  **************************************************/
 /* Wowchemy Helpers */
 /*************************************************
  *  Wowchemy's Core Style
  **************************************************/
 html {
-  font-family: "", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
@@ -7259,6 +7260,9 @@ p {
   margin-top: 0;
   margin-bottom: 1rem; }
 
+p:last-child {
+  margin-bottom: 0; }
+
 /* Lists */
 ul,
 ol,
@@ -7280,7 +7284,7 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -7292,7 +7296,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -7347,7 +7351,10 @@ a:focus {
 
 pre,
 code {
-  font-family: "", monospace;
+  font-family: "Roboto Mono", monospace; }
+
+pre,
+code:not(.hljs) {
   color: #c7254e;
   /* Match bg of default highlight theme. */
   background-color: #f8f8f8; }
@@ -7612,6 +7619,9 @@ div.alert a {
     margin-top: 0;
     margin-bottom: 0; }
 
+.dark .article-style a {
+  text-decoration: inherit; }
+
 .article-metadata {
   margin-bottom: 15px;
   overflow: hidden;
@@ -7649,6 +7659,12 @@ article .article-metadata {
 
 .middot-divider::after {
   content: '\00B7'; }
+
+caption {
+  text-align: center; }
+
+.dark caption {
+  color: rgba(255, 255, 255, 0.8); }
 
 /*************************************************
  *  Content widgets
@@ -7699,6 +7715,21 @@ article .article-metadata {
   bottom: 0.1em;
   line-height: 1;
   position: relative; }
+
+.task-list input[type='checkbox']:checked {
+  appearance: initial;
+  width: 1em;
+  height: 1em;
+  border: none;
+  background: initial;
+  position: relative; }
+
+.task-list input[type='checkbox']:not(:checked) {
+  width: 0.9em;
+  height: 0.9em; }
+
+.task-list input[type='checkbox']:checked::after {
+  content: '✅'; }
 
 img,
 video {
@@ -7808,8 +7839,6 @@ a[data-fancybox] {
  **************************************************/
 /* Based on Bootstrap's `table-responsive` style. */
 table {
-  display: block;
-  width: 100%;
   overflow-x: scroll;
   margin-bottom: 1rem;
   font-size: 0.8rem;
@@ -7817,44 +7846,8 @@ table {
   word-wrap: normal;
   word-break: normal; }
 
-table > thead > tr > th,
-table > tbody > tr > th,
-table > tfoot > tr > th,
-table > thead > tr > td,
-table > tbody > tr > td,
-table > tfoot > tr > td {
-  padding: 8px;
-  line-height: 1.43;
-  vertical-align: top;
-  border-top: 1px solid #ddd; }
-
-table > thead > tr > th {
-  vertical-align: bottom;
-  border-bottom: 2px solid #ddd; }
-
-table > caption + thead > tr:first-child > th,
-table > colgroup + thead > tr:first-child > th,
-table > thead:first-child > tr:first-child > th,
-table > caption + thead > tr:first-child > td,
-table > colgroup + thead > tr:first-child > td,
-table > thead:first-child > tr:first-child > td {
-  border-top: 0; }
-
-table > tbody + tbody {
-  border-top: 2px solid #ddd; }
-
-table table {
-  background-color: #fff; }
-
-/* Table Striped */
-table > tbody > tr:nth-child(odd) > td,
-table > tbody > tr:nth-child(odd) > th {
-  background-color: #f9f9f9; }
-
-/* Table Hover */
-table > tbody > tr:hover > td,
-table > tbody > tr:hover > th {
-  background-color: #e5e5e5; }
+.dark .table {
+  color: white; }
 
 /**************************************************
  *  Tags/Labels
@@ -8088,6 +8081,23 @@ a.summary-link {
 /*************************************************
  *  Navigation bar
  **************************************************/
+.headroom {
+  will-change: transform;
+  transition: transform 200ms linear; }
+
+.headroom--pinned {
+  transform: translateY(0%); }
+
+.headroom--unpinned {
+  transform: translateY(-100%); }
+
+.header--fixed {
+  position: fixed;
+  z-index: 10;
+  right: 0;
+  left: 0;
+  top: 0; }
+
 .dropdown-menu {
   background-color: #fff !important;
   color: #34495e !important;
@@ -8098,11 +8108,6 @@ a.summary-link {
   background: #fff;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: 16.17px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 1030;
   padding: 0 1rem; }
   .navbar .nav-item {
     position: relative; }
@@ -8353,6 +8358,14 @@ details {
 summary:focus {
   outline: none; }
 
+details p {
+  margin-left: 0.3rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid rgba(0, 0, 0, 0.8); }
+
+.dark details p {
+  border-left: 1px solid rgba(255, 255, 255, 0.8); }
+
 /*************************************************
  *  Documentation layout
  **************************************************/
@@ -8534,14 +8547,16 @@ ul.toc-top {
   padding-left: 0.8rem; }
 
 #TableOfContents li {
-  display: block; }
+  display: block;
+  margin-bottom: 8px; }
 
 #TableOfContents li a,
 .toc-top li a {
   display: block;
-  padding: 0.125rem 1.5rem;
+  padding: 0 1.5rem;
   color: rgba(0, 0, 0, 0.65);
-  font-size: 0.7rem; }
+  line-height: 1.75;
+  font-size: 16px; }
 
 .dark #TableOfContents li a,
 .dark .toc-top li a {
@@ -8753,6 +8768,27 @@ html[dir='rtl'] body {
   top: 0.6rem;
   overflow-x: hidden; }
 
+.ais-Hits-item,
+.ais-InfiniteHits-item {
+  background: unset;
+  box-shadow: unset;
+  padding: unset; }
+
+.ais-SearchBox-form::before {
+  all: unset;
+  height: 1rem;
+  left: 1rem;
+  margin-top: -0.5rem;
+  position: absolute;
+  top: 50%;
+  width: 1rem;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f002';
+  font-size: 100%;
+  opacity: 0.7;
+  line-height: 1; }
+
 .dark #search-query {
   background-color: #23252f; }
 
@@ -8859,14 +8895,17 @@ html[dir='rtl'] body {
   padding: 110px 0 110px 0;
   z-index: 0; }
 
-.home-section.fullscreen {
+.home-section.fullscreen,
+.fullscreen {
   min-height: calc(100vh - 70px); }
 
 @media (max-width: 991.98px) {
-  .home-section.fullscreen {
+  .home-section.fullscreen,
+  .fullscreen {
     min-height: calc(100vh - 50px); } }
 
-.no-navbar .home-section.fullscreen {
+.no-navbar .home-section.fullscreen,
+.no-navbar .fullscreen {
   min-height: 100vh; }
 
 .home-section.light,
@@ -8926,6 +8965,14 @@ html[dir='rtl'] body {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.bg-video {
+  position: absolute;
+  top: 0;
+  max-height: initial; }
+
+.bg-video.flip {
+  transform: rotateY(180deg); }
+
 /* Create a parallax-like scrolling effect on desktop browsers. */
 .parallax {
   background-attachment: fixed; }
@@ -8957,7 +9004,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }
@@ -9106,6 +9153,30 @@ ul.ul-edu li .description p.course {
 ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
   color: rgba(0, 0, 0, 0.6); }
+
+.avatar-wrapper {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto; }
+  .avatar-wrapper .avatar-emoji {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 100%;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    font-size: 20px;
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(0, 0, 0, 0.04); }
+
+.dark .avatar-emoji {
+  background-color: #000;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(255, 255, 255, 0.96); }
 
 /*************************************************
  *  Contact
@@ -9395,7 +9466,7 @@ body.dark,
   color: #fff; }
 
 .dark pre,
-.dark code {
+.dark code:not(.hljs) {
   color: #8be9fd;
   background-color: #44475a; }
 
