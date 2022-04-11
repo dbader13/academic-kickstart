@@ -28,8 +28,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: 'dbader13@gmail.com'
-  phone: '973-596-6340'
+#  email: 'dbader13@gmail.com'
+#  phone: '973-596-6340'
   address:
     street: 'Institute for Data Science, New Jersey Institute of Technology, 101 Hudson St., Suite 3610'
     city: 'Jersey City'
