@@ -39,19 +39,20 @@ Bader received an NVIDIA AI Lab (NVAIL) award, and a Facebook Research
 AI Hardware/Software Co-Design award.
 
 Dr. Bader is Editor-in-Chief of the *ACM Transactions on Parallel
-Computing*, and General Co-Chair of *IPDPS 2021*, and previously served
-as Editor-in-Chief of the *IEEE Transactions on Parallel and
-Distributed Systems*. He serves on the leadership team of Northeast Big
-Data Innovation Hub as the inaugural chair of the Seed Fund Steering
-Committee.  In 2021, ROI-NJ recognized Bader on its inaugural list of
-technology influencers, and in 2012, Bader was the inaugural recipient
-of University of Maryland's Electrical and Computer Engineering
-Distinguished Alumni Award.  In 2014, Bader received the Outstanding
-Senior Faculty Research Award from Georgia Tech. Bader has also served
-as Director of the Sony-Toshiba-IBM Center of Competence for the Cell
-Broadband Engine Processor and Director of an NVIDIA GPU Center of
-Excellence. [In 1998, Bader built the first Linux supercomputer that
-led to a high-performance computing (HPC) revolution.]({{<relref "/post/20210426-linuxsupercomputer">}}) He is a
+Computing*, and General Co-Chair of *IPDPS 2021*, and previously
+served as Editor-in-Chief of the *IEEE Transactions on Parallel and
+Distributed Systems*. He serves on the leadership team of Northeast
+Big Data Innovation Hub as the inaugural chair of the Seed Fund
+Steering Committee.  ROI-NJ recognized Bader as a technology
+influencer on its 2021 inaugural and 2022 lists. In 2012, Bader was
+the inaugural recipient of University of Maryland's Electrical and
+Computer Engineering Distinguished Alumni Award.  In 2014, Bader
+received the Outstanding Senior Faculty Research Award from Georgia
+Tech. Bader has also served as Director of the Sony-Toshiba-IBM Center
+of Competence for the Cell Broadband Engine Processor and Director of
+an NVIDIA GPU Center of Excellence. [In 1998, Bader built the first
+Linux supercomputer that led to a high-performance computing (HPC)
+revolution.]({{<relref "/post/20210426-linuxsupercomputer">}}) He is a
 cofounder of the Graph500 List for benchmarking "Big Data" computing
 platforms. He is recognized as a "RockStar" of High Performance
 Computing by InsideHPC and as HPCwire's People to Watch in 2012 and
