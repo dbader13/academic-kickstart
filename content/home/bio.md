@@ -55,8 +55,11 @@ also served as Director of the Sony-Toshiba-IBM Center of Competence
 for the Cell Broadband Engine Processor and Director of an NVIDIA GPU
 Center of Excellence. [In 1998, Bader built the first Linux
 supercomputer that led to a high-performance computing (HPC)
-revolution.]({{<relref "/post/20210426-linuxsupercomputer">}}) He is a
-cofounder of the Graph500 List for benchmarking "Big Data" computing
-platforms. He is recognized as a "RockStar" of High Performance
-Computing by InsideHPC and as HPCwire's People to Watch in 2012 and
-2014.
+revolution,]({{<relref "/post/20210426-linuxsupercomputer">}})
+and Hyperion Research estimates that [the total economic value of Linux
+supercomputing pioneered by Bader has been over $100 trillion over the
+past 25 years.]({{<relref "/publication/2022-HyperionResearch">}})
+Bader is a cofounder of the Graph500 List for benchmarking "Big Data"
+computing platforms. He is recognized as a "RockStar" of High
+Performance Computing by InsideHPC and as HPCwire's People to Watch in
+2012 and 2014.
