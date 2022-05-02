@@ -20,7 +20,7 @@ Science and Engineering, College of Computing, at Georgia Institute of
 Technology.
 
 Dr. Bader is a Fellow of the IEEE, ACM, AAAS, and SIAM, and a recipient of
-the IEEE Computer Society Sidney Fernbach Award. He advises the White
+the IEEE Sidney Fernbach Award. He advises the White
 House, most recently on the National Strategic Computing Initiative
 (NSCI) and Future Advanced Computing Ecosystem (FACE). Bader is a
 leading expert in solving global grand challenges in science,
