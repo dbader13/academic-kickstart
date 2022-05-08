@@ -4,7 +4,7 @@
 title: "IEEE Computer Society Distinguished Speaker: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "Region 10 IEEE Computer Society Mega DVP Program: May - June 2022"
 event_url: "https://asiapacific.computer.org/r10-cs-mega-dvp-program/"
-location:
+location: "Virtual"
 address:
   street:
   city:
@@ -16,7 +16,7 @@ abstract: "Data science aims to solve grand global challenges such as: detecting
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-05-196T18:00:00+05:30
+date: 2022-05-19T18:00:00+05:30
 date_end: 2022-05-19T19:00:00+05:30
 all_day: false
 
