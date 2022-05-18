@@ -28,4 +28,5 @@ image:
 projects: []
 ---
 
+{{<figure src="19850307-EagleCertificate.jpg">}}
 {{<figure src="eaglecard.jpg">}}
