@@ -48,15 +48,19 @@ influencer on its 2021 inaugural and 2022 lists. In 2012, Bader was
 the inaugural recipient of University of Maryland's Electrical and
 Computer Engineering Distinguished Alumni Award.  In 2014, Bader
 received the Outstanding Senior Faculty Research Award from Georgia
-Tech.  Bader is a member of Tau Beta Pi (National Engineering Honor
-Society), Eta Kappa Nu (Electrical Engineering Honor Society), and
-Omicron Delta Kappa (National Leadership Honor Society).  Bader has
-also served as Director of the Sony-Toshiba-IBM Center of Competence
-for the Cell Broadband Engine Processor and Director of an NVIDIA GPU
-Center of Excellence. [In 1998, Bader built the first Linux
+Tech.  Bader is a member of
+[Tau Beta Pi]({{<relref "/post/19891204-taubetapi">}})
+(National Engineering Honor Society),
+[Eta Kappa Nu]({{<relref "/post/19890410-hkn">}})
+(Electrical Engineering Honor Society), and
+[Omicron Delta Kappa]({{<relref "/post/19950404-odk">}})
+(National Leadership Honor Society).
+Bader has also served as Director of the Sony-Toshiba-IBM Center of
+Competence for the Cell Broadband Engine Processor and Director of an
+NVIDIA GPU Center of Excellence. [In 1998, Bader built the first Linux
 supercomputer that led to a high-performance computing (HPC)
-revolution,]({{<relref "/post/20210426-linuxsupercomputer">}})
-and Hyperion Research estimates that [the total economic value of Linux
+revolution,]({{<relref "/post/20210426-linuxsupercomputer">}}) and
+Hyperion Research estimates that [the total economic value of Linux
 supercomputing pioneered by Bader has been over $100 trillion over the
 past 25 years.]({{<relref "/publication/2022-HyperionResearch">}})
 Bader is a cofounder of the Graph500 List for benchmarking "Big Data"
