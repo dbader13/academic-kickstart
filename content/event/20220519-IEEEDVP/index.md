@@ -67,4 +67,7 @@ slides: ""
 projects: []
 ---
 
+{{<figure src="Certificate-IEEE-CS-R10-MDVP-Prof-DavidBader-19May2022.jpg">}}
+
+
 **David A. Bader** is a Distinguished Professor and founder of the Department of Data Science and inaugural Director of the Institute for Data Science at New Jersey Institute of Technology. Prior to this, he served as founding Professor and Chair of the School of Computational Science and Engineering, College of Computing, at Georgia Institute of Technology. Dr. Bader is a Fellow of the IEEE, ACM, AAAS, and SIAM, and a recipient of the IEEE Computer Society Sidney Fernbach Award. He advises the White House, most recently on the National Strategic Computing Initiative (NSCI) and Future Advanced Computing Ecosystem (FACE). His interests are at the intersection of high-performance computing and real-world applications and has co-authored over 300 scholarly papers and has best paper awards from ISC, IEEE HPEC, and IEEE/ACM SC. Dr. Bader is Editor-in-Chief of the ACM Transactions on Parallel Computing and previously served as Editor-in-Chief of the IEEE Transactions on Parallel and Distributed Systems.
