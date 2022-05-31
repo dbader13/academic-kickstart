@@ -62,7 +62,7 @@ Around this time, I also became a PI with the NCSA, an NSF-supported effort to i
 
 Roadrunner was among the 100 fastest supercomputers in the world when it went online. It provided services that were lacking in the first Linux clusters but are now regarded as essential for supercomputing, such as node-based resource allocation, job monitoring and auditing, and resource reservations.[^10]  At the time, Roadrunner was dubbed a supercluster, combining the low cost and accessibility of Linux clusters with the services, fast networking, and low latency of a supercomputer. It was however one of the Alliance’s first hardware deployments designed to bring supercomputing to the desktop. Roadrunner went on to become a node on the National Technology Grid. 
 
-{{<figure src="Fig2.jpg" caption="Bader's Chautauqua talk on Linux Supercomputers (slides from March 1999). (Image credit: Courtesy of the author.)">}}
+{{<figure src="Fig2.png" caption="Bader's Chautauqua talk on Linux Supercomputers (slides from March 1999). (Image credit: Courtesy of the author.)">}}
 
 {{<figure src="Fig3.jpg" caption="Linux prototype on lower-left, and Roadrunner (right). A Myricom dual 8-port SAN Myrinet switch sits on top of the left-most cabinet of the prototype, and four octal 8-port SAN Myrinet switches (not visible) connect Roadrunner. Above Roadrunner’s console is a 72-port Foundry Fast Ethernet switch with Gigabit uplinks to the vBNS and Internet. (Image credit: Courtesy of the author.)">}}
  
