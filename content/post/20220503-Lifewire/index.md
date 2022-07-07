@@ -77,3 +77,10 @@ Vasili Perebeinos, a professor at The State University of New York Buffalo who w
 However, don’t expect a quantum hard drive in your PC anytime soon. Bader said that "it will take years, and possibly even decades, to build large enough quantum computers with sufficient numbers of qubits for solving real-world applications."
 
 https://www.lifewire.com/your-hard-drive-may-one-day-use-diamonds-for-storage-5270809
+
+https://mobitool.net/en/your-hard-drive-may-one-day-use-diamonds-for-storage/
+
+https://en.viknews.com/your-hard-drive-may-one-day-use-diamonds-for-storage/
+
+https://vozz.vn/en/your-hard-drive-may-one-day-use-diamonds-for-storage/
+
