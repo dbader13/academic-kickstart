@@ -38,3 +38,5 @@ projects: []
 ML Zoomcamp: [https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)  
 Join DataTalks.Club: [https://datatalks.club/slack.html](https://datatalks.club/slack.html)  
 Our events: [https://datatalks.club/events.html](https://datatalks.club/events.html)
+
+https://datatalks.club/podcast/s10e08-leading-data-research.html
