@@ -7214,11 +7214,8 @@ html {
   font-family: "Roboto", sans-serif;
   font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
-  line-height: 1.65;
-  scroll-padding-top: 70px; }
-  @media (max-width: 991.98px) {
-    html {
-      scroll-padding-top: 50px; } }
+  line-height: 1.65; }
+
 @media screen and (min-width: 58em) {
   html {
     font-size: 21px; } }
@@ -7231,11 +7228,8 @@ body {
   background-color: white;
   padding-top: 0;
   counter-reset: captions;
-  overflow-x: hidden;
-  margin-top: 70px; }
-  @media (max-width: 991.98px) {
-    body {
-      margin-top: 50px; } }
+  overflow-x: hidden; }
+
 body.no-navbar {
   margin-top: 0 !important;
   scroll-padding-top: 0 !important; }
@@ -8154,7 +8148,7 @@ a.summary-link {
   transform: translateY(-100%); }
 
 .header--fixed {
-  position: fixed;
+  position: sticky;
   z-index: 10;
   right: 0;
   left: 0;
@@ -8427,6 +8421,22 @@ details p {
 
 .dark details p {
   border-left: 1px solid rgba(255, 255, 255, 0.8); }
+
+#announcement {
+  font-size: 16px; }
+
+#announcement.alert, .article-style aside#announcement {
+  padding: 0.1rem 1.25rem; }
+
+.alert-dismissible .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  padding: 0.1rem 1.25rem; }
+
+[data-wc-announcement-status="dismissed"] #announcement {
+  display: none; }
 
 /*************************************************
  *  Documentation layout
