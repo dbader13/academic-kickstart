@@ -76,9 +76,11 @@ social:
 - icon: scopus
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=7102450485
+# Publons is now Web of Science  
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/1698005/david-bader/
+#  link: https://publons.com/researcher/1698005/david-bader/
+  link: https://www.webofscience.com/wos/author/record/AAI-4029-2021
 - icon: github
   icon_pack: fab
   link: https://github.com/dbader13
