@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -34,35 +34,35 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:oaa9@njit.edu"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/oliver-alvarado-rod/
 #- icon: facebook
 #  icon_pack: fab
 #  link: 
-#- icon: twitter
-#  icon_pack: fab
-#  link: 
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/OliverAlvaRod
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
 #- icon: orcid
 #  icon_pack: ai
 #  link: 
-#- icon: researchgate
-#  icon_pack: fab
-#  link: 
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Oliver-Alvarado-Rodriguez
 - icon: github
   icon_pack: fab
   link: https://github.com/alvaradoo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#- icon: cv
-#  icon_pack: ai
-#  link: files/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://www.oliveralvaradorodriguez.net/uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "oaa9@njit.edu"
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Oliver Alvarado Rodriguez is currently a computer science Ph.D. student at NJIT in Newark, NJ. He performs research under the supervision of Dr. David Bader. He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, machine learning, and graph theory.  He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was recently awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su. Oliver recently served as the student keynote speaker at the Spring 2022 meeting of the Academic Data Science Alliance, where he presented the keynote talk: "Enabling Exploratory Large Scale Graph Analytics through Arkouda."
+[Oliver Alvarado Rodriguez](https://www.oliveralvaradorodriguez.net/) is currently a computer science Ph.D. candidate at NJIT in Newark, NJ. He performs research under the supervision of Dr. David Bader. He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, data science, and graph analytics. He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su. Oliver recently served as the student keynote speaker at the Spring 2022 meeting of the Academic Data Science Alliance, where he presented the keynote talk: “Enabling Exploratory Large Scale Graph Analytics through Arkouda.
