@@ -1,0 +1,34 @@
+@inproceedings{2022-DPRB,
+ author = {Zhihui Du and Joseph Patchett and Oliver Alvarado Rodriguez and David A. Bader},
+ booktitle = {The 29th IEEE International Conference on  High Performance Computing, Data, and Analytics (HiPC), India, December 18-21, 2022.},
+ groups = {Edited},
+ title = {High-Performance Truss Analysis in {Arkouda}},
+ year = {2022},
+ url       = {},
+ doi={},
+ abstract = {In graph analytics, a truss is a cohesive subgraph
+based on the number of triangles supporting each edge. It
+is widely used for community detection applications such as
+social networks and security analysis, and the performance of
+truss analytics highly depends on its triangle counting method.
+This paper proposes a novel triangle counting kernel named
+Minimum Search (MS). Minimum Search can select two smaller
+adjacency lists out of three and uses fine-grained parallelism to
+improve the performance of triangle counting. Then, two basic
+algorithms, MS-based triangle counting, and MS-based support
+updating are developed. Based on the novel triangle counting
+kernel and the two basic algorithms above, three fundamental
+parallel truss analytics algorithms are designed and implemented
+to enable different kinds of graph truss analysis. These truss
+algorithms include an optimized K-Truss algorithm, a Max-Truss
+algorithm, and a Truss Decomposition algorithm. Moreover, all
+proposed algorithms have been implemented in the parallel
+language Chapel and integrated into an open-source framework,
+Arkouda. Through Arkouda, data scientists can efficiently conduct graph analysis through an easy-to-use Python interface and
+handle large-scale graph data in powerful back-end computing
+resources. Experimental results show that the proposed methods
+can significantly improve the performance of truss analysis on
+real-world graphs compared with the existing and widely adopted
+list intersection-based method. The implemented code is publicly
+available from GitHub (https://github.com/Bears-R-Us/arkoudanjit).}
+}
