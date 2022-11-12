@@ -67,6 +67,9 @@ slides: ""
 projects: []
 ---
 
+{{<figure src="flyer.jpg">}}
+
+{{<figure src="award.jpg">}}
 
 ## Brief Biography: ##
 
