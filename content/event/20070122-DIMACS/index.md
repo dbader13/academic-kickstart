@@ -5,6 +5,12 @@ title: "DIMACS Keynote Talk: Solving Massive Graph Problems using Petascale Comp
 event: "DIMACS - Georgia Tech Workshop on Complex Networks and their Applications"
 event_url: "http://archive.dimacs.rutgers.edu/Workshops/ComplexNetworks/program.html"
 location: "Atlanta, GA"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "Graph theoretic problems are representative of fundamental kernels in traditional and emerging computational sciences such as chemistry, biology, and medicine, as well as applications in national security. Yet they pose serious challenges for parallel machines due to non-contiguous, concurrent accesses to global data structures with low degrees of locality. Few parallel graph algorithms outperform their best sequential implementation due to long memory latencies and high synchronization costs. In this talk, we consider several graph theoretic kernels for connectivity and centrality and discuss how the features of petascale architectures will affect algorithm development, ease of programming, performance, and scalability."
 
