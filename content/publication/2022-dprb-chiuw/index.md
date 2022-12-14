@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Triangle Centrality in Arkouda"
-authors: ["Joseph Patchett", "Zhihui Du", "Fuhuan Li", "David Bader"]
-date: 2022-09-02T15:28:32-04:00
+title: "Truss Analytics Algorithms and Integration in Arkouda"
+authors: ["Zhihui Du", "Joseph Patchett", "Oliver Alvarado Rodriguez", "David Bader"]
+date: 2022-06-10T20:46:27-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-09-02T15:28:32-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,19 +15,26 @@ publishDate: 2022-09-02T15:28:32-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 26th Annual IEEE High Performance Extreme Computing Conference"
-publication_short: "IEEE HPEC"
+publication: "The 9th Annual Chapel Implementers and Users Workshop"
+publication_short: "CHIUW"
 
-abstract: "There are a wide number of graph centrality metrics.
-Further, the performance of each can vary widely depending
-on the type of implementation. In this work we present our
-implementation of triangle centrality in Arkouda with several
-different triangle counting methods. Triangle Centrality is a
-robust metric that captures the centrality of a vertex through
-both a vertex’s own connectedness and that of its neighbors.
-Arkouda is an open-source framework for data science at the
-scale of terabytes and beyond. These methods are compared
-against each other and another shared memory implementation."
+abstract: "The K-Truss of a graph is a cohesive subgraph that has been
+widely used for community detection in applications such as social
+networks and security analysis. In this paper, we first propose one
+optimized triangle search kernel with a few operations that can be
+used in both triangle counting and triangle search to replace the
+existing list intersection method. Based on the optimized kernel,
+three truss analytics algorithms, an optimized K-Truss parallel
+algorithm, a maximal K-Truss parallel algorithm, and a Truss
+decomposition parallel algorithm, are developed to enable different
+kinds of graph analysis efficiently. Moreover, all proposed parallel
+algorithms have been implemented in the highly-productive parallel
+language Chapel and integrated into the opensource framework
+Arkouda. Experimental results compared with the existing list
+intersection-based method show that for both synthetic and real-world
+graphs, the proposed method can significantly improve the performance
+of truss analysis on large graphs. The implemented method is publicly
+available from GitHub (https://github.com/Bears-R-Us/arkouda-njit)."
 
 # Summary. An optional shortened abstract.
 summary: ""
