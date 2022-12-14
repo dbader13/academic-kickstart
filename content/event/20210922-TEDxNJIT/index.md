@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Solving Global Grand Challenges with High Performance Data Analytics"
+title: "TEDx Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "TEDxNJIT: Resurgence"
 event_url: http://tedxnjit.com/
 location: "Virtual"

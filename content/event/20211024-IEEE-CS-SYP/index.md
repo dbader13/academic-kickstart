@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Solving Global Grand Challenges with High Performance Data Analytics"
+title: "IEEE CS SYP Talk: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "IEEE CS Student & Young Professional (SYP) Global Congress"
 event_url: "https://www.eventbrite.com/e/ieee-cs-student-young-professional-global-congress-tickets-179593076727"
 location: "Virtual"
