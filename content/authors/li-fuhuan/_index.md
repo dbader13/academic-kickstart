@@ -68,7 +68,7 @@ social:
 #  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "oaa9@njit.edu"
+email: "fl28@njit.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
