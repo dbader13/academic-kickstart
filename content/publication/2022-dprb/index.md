@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "High-Performance Truss Analysis in Arkouda"
-authors: ["Zhihui Du", "Joseph Patchett", "Oliver Alvarado Rodriguez", "David Bader"]
+authors: ["Zhihui Du", "Joseph Patchett", "Oliver Alvarado Rodriguez", "Fuhuan Li", "David Bader"]
 date: 2022-10-29T17:14:31-04:00
 doi: ""
 
