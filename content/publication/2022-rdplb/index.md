@@ -4,7 +4,7 @@
 title: "Arachne: An Arkouda Package for Large-Scale Graph Analytics"
 authors: ["Oliver Alvarado Rodriguez", "Zhihui Du", "Joseph Patchett", "Fuhuan Li", "David Bader"]
 date: 2022-09-02T15:15:56-04:00
-doi: ""
+doi: "10.1109/HPEC55821.2022.9991947"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-02T15:15:56-04:00
