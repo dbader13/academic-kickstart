@@ -4,7 +4,7 @@
 title: "A Simple and Efficient Algorithm for Finding Minimum Spanning Tree Replacement Edges"
 authors: ["David Bader", "Paul Burkhardt"]
 date: 2022-12-20T10:51:51+05:30
-doi: ""
+doi: "10.7155/jgaa.00609"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-12-20T10:51:51+05:30
