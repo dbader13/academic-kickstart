@@ -67,10 +67,10 @@ slides: ""
 projects: []
 ---
 
+{{<youtube "Z5IqES8A6N0">}}
+
 {{<figure src="Poster.png">}}
 {{<figure src="certificate.jpg">}}
-
-{{<youtube "Z5IqES8A6N0">}}
 
 ## Abstract ##
 
