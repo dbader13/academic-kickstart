@@ -60,7 +60,7 @@ social:
     header: true
 - icon: ieee
   icon_pack: ai
-  link: https://ieeexplore.ieee.org/author/37283801600
+  link: https://ieeexplore.ieee.org/author/37089403015
 - icon: acmdl
   icon_pack: ai
   link: https://dl.acm.org/profile/81100165442
