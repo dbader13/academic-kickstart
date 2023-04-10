@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: " "
+abstract: "Bader will present a keynote talk on massive-scale analytics for real-world applications."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
