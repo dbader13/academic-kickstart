@@ -27,10 +27,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
+# {{< video src="bader.mp4" >}}
+
 ---
 
-{{< video src="bader.mp4" >}}
 
+{{< youtube hd1APIbv8c0 >}}
 
 ***Why did you decide to pursue a career in computer engineering, and specifically in parallel computing?***
 
