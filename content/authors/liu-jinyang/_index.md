@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Senior Software Engineer
 
 # Organizations/Affiliations
 organizations:

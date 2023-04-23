@@ -71,5 +71,6 @@ Through the desire to combine music with deep learning, Georgia Tech researchers
 
 “What we are most excited about is the ability to synthesize various attributes of music, language, and movement through deep learning, and project music as the core element of a robotic communication to show that our robots can understand and convey human emotion,” Weinberg said.
 
-https://www.cc.gatech.edu/news/618422/deep-learning-helps-robot-find-its-voice
+[https://www.cc.gatech.edu/news/618422/deep-learning-helps-robot-find-its-voice](https://web.archive.org/web/20200108084335/https://www.cc.gatech.edu/news/618422/deep-learning-helps-robot-find-its-voice)
+
 
