@@ -16,7 +16,7 @@ publishDate: 2022-09-13T18:48:25-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "14th International Conference on Parallel Processing and Applied Mathematics, Gdansk, Poland"
+publication: "14th International Conference on Parallel Processing and Applied Mathematics, Gdansk, Poland. In R. Wyrzykowski et al. (Eds.): PPAM 2022, LNCS 13826, pp. 71–82, 2023."
 publication_short: "PPAM 2022"
 
 abstract: "The suffix array is a fundamental data structure to support string analysis efficiently. It took about 26 years for the sequential suffix array construction algorithm to achieve O(n) time complexity and inplace sorting. In this paper, we develop the DLP I (D Limited Parallel Induce) algorithm, the first O( n/p ) time parallel suffix array construction algorithm. The basic idea of DLPI includes two aspects: dividing the O(n) size problem into p reduced sub-problems with size O( n/p ) so we can handle them on p processors in parallel; developing an efficient parallel induce sorting method to achieve correct order for all the reduced sub-problems. The complete algorithm description is given to show the implementation method of the proposed idea. The time and space complexity analysis and proof are also given to show the correctness and efficiency of the proposed algorithm. The proposed DLP I algorithm can handle large strings with scalable performance."
