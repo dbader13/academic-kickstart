@@ -4,7 +4,7 @@
 title: "Interactive Graph Analytics at Scale in Arkouda"
 authors: ["Zhihui Du", "Oliver Alvarado Rodriguez", "Joseph Patchett", "David Bader"]
 date: 2022-07-20T10:12:39-05:00
-doi: ""
+doi: "10.1201/9781003033707"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-07-20T10:12:39-05:00

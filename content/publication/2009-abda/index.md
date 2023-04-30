@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*24th International Supercomputing Conference (ISC), Hamburg, Germany, June 23-26, 2009*"
+doi: "10.1007/s00450-009-0093-5"
 ---
 

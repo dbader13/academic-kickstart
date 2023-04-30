@@ -4,7 +4,7 @@
 title: "High-Performance Truss Analysis in Arkouda"
 authors: ["Zhihui Du", "Joseph Patchett", "Oliver Alvarado Rodriguez", "Fuhuan Li", "David Bader"]
 date: 2022-10-29T17:14:31-04:00
-doi: ""
+doi: "10.1109/HiPC56025.2022.00026"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-10-29T17:14:31-04:00

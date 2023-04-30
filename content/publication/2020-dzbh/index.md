@@ -4,7 +4,7 @@
 title: "An Efficient LP Rounding Scheme for Replica Placement"
 authors: ["Zhihui Du", "Sen Zhang", "David Bader", "Jingkun Hu"]
 date: 2020-09-08T15:29:50-04:00
-doi: ""
+doi: "10.1109/HPEC43674.2020.9286163"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-08T15:29:50-04:00

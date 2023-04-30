@@ -4,7 +4,7 @@
 title: "LAGraph: Linear Algebra, Network Analysis Libraries, and the Study of Graph Algorithms"
 authors: ["Gábor Szárnyas", "David A. Bader", "Timothy A. Davis", "James Kitchen", "Timothy G. Mattson", "Scott McMillan", "Erik Welch"]
 date: 2021-04-11T18:58:56-04:00
-doi: ""
+doi: "10.1109/IPDPSW52791.2021.00046"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-04-11T18:58:56-04:00

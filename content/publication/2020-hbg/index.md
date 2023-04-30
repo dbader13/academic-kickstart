@@ -4,7 +4,7 @@
 title: "Using RAPIDS AI to Accelerate Graph Data Science Workflows"
 authors: ["Todd Hricik", "David Bader", "Oded Green"]
 date: 2020-09-08T15:29:20-04:00
-doi: ""
+doi: "10.1109/HPEC43674.2020.9286224"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-08T15:29:20-04:00

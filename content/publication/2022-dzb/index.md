@@ -4,7 +4,7 @@
 title: "Parallel Suffix Sorting for Large String Analytics"
 authors: ["Zhihui Du", "Sen Zhang", "David Bader"]
 date: 2022-09-13T18:48:25-04:00
-doi: ""
+doi: "10.1007/978-3-031-30442-2_6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-09-13T18:48:25-04:00

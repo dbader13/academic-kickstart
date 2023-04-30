@@ -4,7 +4,7 @@
 title: "GPU Accelerated Anomaly Detection of Large Scale Light Curves"
 authors: ["Austin Chase Minor", "Zhihui Du", "Yankui Sun", "David Bader", "Chao Wu", "Jianyan Wei"]
 date: 2020-09-08T15:29:35-04:00
-doi: ""
+doi: "10.1109/HPEC43674.2020.9286242"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-08T15:29:35-04:00
