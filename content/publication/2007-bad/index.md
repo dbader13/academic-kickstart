@@ -1,5 +1,5 @@
 ---
-title: "Petascale Computing for Large-Scale Graph Problems"
+title: "Petascale Computing for Large-Scale Graph Problems (Abstract)"
 date: 2007-01-01
 publishDate: 2019-09-10T12:18:35.622015Z
 authors: ["David A. Bader"]
