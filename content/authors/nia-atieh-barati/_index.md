@@ -37,9 +37,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:atiehbaratinia@gmail.com"
-#- icon: linkedin
-#  icon_pack: fab
-#  link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/atieh-b-5659ab108
 #- icon: facebook
 #  icon_pack: fab
 #  link: 
