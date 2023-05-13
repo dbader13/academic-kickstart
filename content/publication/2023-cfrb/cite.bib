@@ -1,0 +1,23 @@
+@inproceedings{2023-CFRB,
+ author = {Luca Cappelletti and Tommaso Fontana and Justin Reese and David A. Bader},
+ booktitle = {The Workshop on Graphs, Architectures, Programming, and Learning (GrAPL), May 15, 2023},
+ groups = {Edited},
+ title = {Billion-scale Detection of Isomorphic Nodes},
+ year = {2023},
+ pages = {230--233},
+ address = {St. Petersburg, FL}, 
+ url  = {},
+ doi = {10.1109/IPDPSW59300.2023.00046},
+ abstract = {This paper presents an algorithm for detecting attributed
+high-degree node isomorphism. High-degree isomorphic
+nodes seldom happen by chance and often represent duplicated
+entities or data processing errors. By definition, isomorphic nodes
+are topologically indistinguishable and can be problematic in
+graph ML tasks. The algorithm employs a parallel, ``degreebounded''
+approach that fingerprints each node’s local properties
+through a hash, which constrains the search to nodes within hashdefined
+buckets, thus minimising the number of comparisons.
+This method scales on graphs with billions of nodes and edges.
+Finally, we provide isomorphic node oddities identified in realworld
+data.}
+}
