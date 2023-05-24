@@ -1,0 +1,35 @@
+@inproceedings{2023-DRLDB,
+ author = {Zhihui Du and Oliver Alvarado Rodriguez and Fuhuan Li and Mohammad Dindoost and David A. Bader},
+ booktitle = {The 10th Annual {Chapel} Implementers and Users Workshop ({CHIUW})}},
+ groups = {Edited},
+ title = {Minimum-Mapping based Connected Components Algorithm},
+ year = {2023},
+ url       = {},
+ doi={},
+ abstract = {Finding connected components is a fundamental problem in
+                  graph analysis. We develop a novel minimum- mapping
+                  based Contour algorithm to solve the connectivity
+                  problem. The Contour algorithm can identify all
+                  connected components of an undirected graph within O
+                  (log 𝑑𝑚𝑎𝑥 ) iterations on 𝑚 parallel processors,
+                  where 𝑑𝑚𝑎𝑥 is the largest diameter of all components
+                  in a given graph and 𝑚 is the total number of edges
+                  of the given graph. Furthermore, each iteration can
+                  easily be parallelized by employing the highly
+                  efficient minimum-mapping operator on all edges. To
+                  improve performance, the Contour algorithm is
+                  further optimized through asynchronous updates and
+                  simplified atomic operations. Our algorithm has been
+                  integrated into an open-source framework, Arachne,
+                  that extends Arkouda for large-scale interactive
+                  graph analytics with a Python API powered by the
+                  high-productivity parallel language
+                  Chapel. Experimental results on real-world and
+                  synthetic graphs show that the proposed Contour
+                  algorithm needs less number of iterations and can
+                  achieve 5.26 folds of speedup on average compared
+                  with the state-of-the-art connected component method
+                  FastSV implemented in Chapel. All code is publicly
+                  available on GitHub
+                  (https://github.com/Bears-R-Us/arkouda-njit).}
+}
