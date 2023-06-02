@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Scientific Advisory Board Member
+    company: Flatiron Institute, Simons Foundation
+    company_url: 'https://www.simonsfoundation.org/flatiron/'
+    company_logo: org-flatiron
+    location: New York, NY
+    date_start: '2023-07-01'
+    date_end: '2026-06-30'
+
   - title: Committee Member
     company: Information Systems Engineering, Johns Hopkins University
     company_url: 'https://www.jhu.edu/'
