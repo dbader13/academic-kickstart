@@ -232,6 +232,7 @@ sections:
       columns: '2'
 
   - block: people
+    id: people
     content:
       title: People
       user_groups:
