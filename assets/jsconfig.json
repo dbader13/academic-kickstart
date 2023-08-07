@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\hugo_cache\\modules\\filecache\\modules\\pkg\\mod\\github.com\\wowchemy\\wowchemy-hugo-themes\\modules\\wowchemy\\v5@v5.7.0\\assets\\*"
+    "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\hugo_cache\\modules\\filecache\\modules\\pkg\\mod\\github.com\\wowchemy\\wowchemy-hugo-themes\\modules\\wowchemy\\v5@v5.8.1-0.20230806065906-2342b0c39a90\\assets\\*"
    ]
   }
  }

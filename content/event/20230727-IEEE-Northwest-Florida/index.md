@@ -3,7 +3,7 @@
 
 title: "IEEE Computer Society Distinguished Speaker: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "IEEE Computer & Communications Joint Society in Northwest Florida"
-event_url: https://ewh.ieee.org/r3/nwflorida/c2js/
+event_url: https://enotice.vtools.ieee.org/public/126201the
 location: "Virtual"
 address:
   street:

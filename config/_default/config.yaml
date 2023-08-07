@@ -27,6 +27,7 @@ module:
 #    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
@@ -73,10 +74,7 @@ related:
       weight: 70
 security:
   _merge: deep
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_
 sitemap:
   _merge: deep
-  
+minify:
+  _merge: deep
