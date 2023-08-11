@@ -1,0 +1,29 @@
+@article{2023-dzb,
+author = {Zhihui Du and Sen Zhang and David A. Bader},
+title = {Tunnel: Parallel-inducing sort for large string analytics},
+year = {2023},
+volume = {},
+number = {},
+pages = {},
+doi = {10.1016/j.future.2023.08.009},
+abstract = {The suffix array is a crucial data structure for efficient
+ string analysis. Over the course of twenty-six years, sequential
+ suffix array construction algorithms have achieved O(n) time
+ complexity and in-place sorting. In this paper, we present the Tunnel
+ algorithm, the first large-scale parallel suffix array construction
+ algorithm with a time complexity of O(n/p) based on the parallel
+ random access machine (PRAM) model. The Tunnel algorithm is built on
+ three key ideas: dividing the problem of size O(n) into p
+ sub-problems of reduced size O(n/p) by replacing long suffixes with
+ shorter prefixes of size at most a constant D ; introducing a Tunnel
+ mechanism to efficiently induce the order of a set of suffixes with
+ long common prefixes; developing a strategy to transform a partially
+ ordered suffix set into a total order relation by iteratively
+ applying the Tunnel inducing method. We provide a detailed
+ description of the algorithm, along with a thorough analysis of its
+ time and space complexity, to demonstrate its correctness and
+ efficiency. The proposed Tunnel algorithm exhibits scalable
+ performance, making it suitable for large string analytics on
+ large-scale parallel systems.},
+journal = {Future Generation Computer Systems (Elsevier)},
+}
