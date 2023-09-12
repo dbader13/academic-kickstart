@@ -3,7 +3,7 @@
 
 title: "IEEE Computer Society Distinguished Speaker: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "IEEE Southeastern Michigan CS Chapter"
-event_url: https://ewh.ieee.org/r4/se_michigan/cs/
+event_url: https://events.vtools.ieee.org/m/368258
 location: "Virtual"
 address:
   street:
