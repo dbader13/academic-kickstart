@@ -87,7 +87,7 @@ Data to Grow Your Business Exponentially](https://theaifactor.ai/)”
 and the Founder and CEO of [Women Leaders in Data and
 AI](https://wlda.tech/), a global leadership organization brining
 senior leaders together to create a fair digital world with parity and
-equity. Asha is a partner at [CEO Coaching
+equity. Asha was a partner at [CEO Coaching
 International](https://ceocoachinginternational.com/), a company
 focused on founding, building, turning around, and selling successful
 businesses. She is also an adjunct professor at Columbia University,
@@ -103,8 +103,7 @@ Computer Science from Bangalore University in India, an MS in Data
 Science from Southern Methodist University, and underwent management
 training at MIT and the London Business School.
 
-Asha Saxena is a data science Ph.D. student at New Jersey
-Institute of Technology under the supervision of Dr. David Bader. Her
-research interests include artificial intelligence, data science, and
-big data.
-
+Asha Saxena is a data science Ph.D. student at New Jersey Institute of
+Technology under the supervision of Dr. David Bader. Her research
+interests include Artificial Intelligence, High Performance Computing,
+and Computational Science.
