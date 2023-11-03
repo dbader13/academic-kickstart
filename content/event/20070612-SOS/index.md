@@ -17,8 +17,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2011-06-12T10:15:00-04:00
-date_end: 2011-06-12T10:30:00-04:00
+date: 2007-06-12T10:15:00-04:00
+date_end: 2007-06-12T10:30:00-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
