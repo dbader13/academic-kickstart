@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Minimum-Mapping based Connected Components Algorithm"
-authors: ["Zhihui Du", "Oliver Alvarado Rodriguez", "Fuhuan Li", Mohammad Dindoost", "David Bader"]
+authors: ["Zhihui Du", "Oliver Alvarado Rodriguez", "Fuhuan Li", "Mohammad Dindoost", "David Bader"]
 date: 2023-05-24T12:38:41-04:00
 doi: ""
 
