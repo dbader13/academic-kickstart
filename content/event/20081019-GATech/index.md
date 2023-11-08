@@ -1,26 +1,32 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SC08 Workshop Keynote Talk: Accelerating Applications with Cell Broadband Engine, Graphics, and Multithreaded, Processors"
-event: "SC08 Workshop on Bridging Multicore's Programmability Gap"
-event_url: "https://web.archive.org/web/20150930191723/https://sites.google.com/site/sc08mcoregap/"
-location: "Austin, TX"
+title: "IBSI Launch Invited Talk: Petascale Computing for Computational Biology and Genomics"
+event: "Frontiers in Multi-Scale Systems Biology, An International Launch Conference Introducing Georgia Tech’s New Integrative BioSystems Institute"
+event_url: "https://web.archive.org/web/20081020054904/http://www.ibsi.gatech.edu/frontiers/"
+location: "Atlanta, GA"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
-abstract: ""
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2008-11-11T13:30:00-06:00
-date_end: 2008-11-11T14:30:00-06:00
+date: 2008-10-19T10:00:00-05:00
+date_end: 2008-10-19T11:00:00-05:00
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-09-29T07:16:37-04:00
+# Schedule page publish date (NOT event date).
+publishDate: 2023-11-08T09:33:42-05:00
 
 authors: []
 tags: []
 
-# Is this a featured talk? (true/false)
+# Is this a featured event? (true/false)
 featured: false
 
 # Featured image
@@ -39,7 +45,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
+# Optional filename of your slides within your event's folder or a URL.
 url_slides:
 
 url_code:
@@ -47,7 +53,7 @@ url_pdf:
 url_video:
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
+#   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
@@ -60,5 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-[Talk slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYzA4bWNvcmVnYXB8Z3g6N2M2NmMxOGEzN2Q5Mjk0Yw)
