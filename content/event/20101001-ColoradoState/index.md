@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MMDS Invited Talk: Massive-Scale Analytics of Streaming Social Networks"
-event: "Workshop on Algorithms for Modern Massive Data Sets (MMDS)"
-event_url: "https://web.archive.org/web/20140417032816/http://www.stanford.edu/group/mmds/mmds2010.html"
-location: "Stanford University, Palo Alto, CA"
+title: "Colorado State Invited Talk: Massive-scale Analysis of Streaming Social Networks"
+event: "Electrical and Computer Engineering Department and Computer Science Department Special Seminar, Colorado State University"
+event_url:
+location: "Fort Collins, CO"
 address:
   street:
   city:
@@ -16,12 +16,12 @@ abstract: "Emerging real-world graph problems include detecting community struct
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2010-06-15T17:30:00-08:00
-date_end: 2010-06-15T18:00:00-08:00
+date: 2010-10-01T13:30:00-07:00
+date_end: 2010-10-01T14:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-11-10T11:38:05-05:00
+publishDate: 2023-11-11T16:13:16-05:00
 
 authors: []
 tags: []
