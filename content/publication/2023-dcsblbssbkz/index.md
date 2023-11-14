@@ -4,7 +4,7 @@
 title: "End-to-end resource analysis for quantum interior point methods and portfolio optimization"
 authors: ["Alexander M. Dalzell", "B. David Clader", "Grant Salton", "Mario Berta", "Cedric Yen-Yu Lin", "David Bader", "Nikitas Stamatopoulos", "Martin J. A. Schuetz", "Fernando G. S. L. Brandão", "Helmut G. Katzgraber", "William J. Zeng"]
 date: 2023-08-28T13:40:21-05:00
-doi: ""
+doi: "10.1103/PRXQuantum.4.040325"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-08-25T13:40:21-05:00
