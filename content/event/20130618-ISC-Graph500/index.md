@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "HiPC Invited Talk: Massive-scale Graph Analytics"
-event: "Workshop on Massive Data Analytics on Scalable Systems, IEEE International Conference on High Performance Computing (HiPC)"
-event_url: "https://web.archive.org/web/20131218221331/http://ceng.usc.edu/~simmhan/DataMASS2012/"
-location: "Pune, India"
+title: "ISC 2013 Invited Talk: Sixth Graph500 List"
+event: "28th International Supercomputing Conference (ISC)"
+event_url: "https://web.archive.org/web/20150905062049/http://www.isc-events.com/isc13/home.html"
+location: "Leipzig, Germany"
 address:
   street:
   city:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "Emerging real-world graph problems include: detecting community structure in large social networks; improving the resilience of the electric power grid; and detecting and preventing disease in human populations. Unlike traditional applications in computational science and engineering, solving these problems at scale often raises new challenges because of the sparsity and lack of locality in the data, the need for additional research on scalable algorithms and development of frameworks for solving these problems on high performance computers, and the need for improved models that also capture the noise and bias inherent in the torrential data streams. In this talk, the speaker will discuss the opportunities and challenges in massive data-intensive computing for applications in computational science and engineering."
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2012-12-18T09:00:00+05:30
-date_end: 2012-12-18T10:00:00+05:30
+date: 2013-06-18T17:00:00+01:00
+date_end: 2013-06-18T18:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-11-13T14:26:37-05:00
+publishDate: 2023-11-15T15:32:48-07:00
 
 authors: []
 tags: []

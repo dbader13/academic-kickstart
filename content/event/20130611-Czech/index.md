@@ -1,10 +1,10 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "HiPC 2014 Keynote Talk: Massive-scale Streaming Analytics"
-event: "The 21st Annual IEEE International Conference on High Performance Computing (HiPC)"
-event_url: "https://www.hipc.org/hipc2014/"
-location: "Goa, India"
+title: "Czech Academy of Sciences Invited Talk: Massive-scale Graph Analytics"
+event: "Czech Academy of Sciences"
+event_url: "https://www.avcr.cz/en/"
+location: "Prague, Czech Republic"
 address:
   street:
   city:
@@ -16,17 +16,17 @@ abstract: "Emerging real-world graph problems include: detecting community struc
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2014-12-19T08:30:00+05:30
-date_end: 2014-12-19T09:30:00+05:30
+date: 2013-06-11T11:00:00+01:00
+date_end: 2013-06-11T12:00:00+01:00
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-09-21T19:40:20-04:00
+# Schedule page publish date (NOT event date).
+publishDate: 2023-11-15T15:15:04-07:00
 
 authors: []
 tags: []
 
-# Is this a featured talk? (true/false)
+# Is this a featured event? (true/false)
 featured: false
 
 # Featured image
@@ -45,7 +45,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
+# Optional filename of your slides within your event's folder or a URL.
 url_slides:
 
 url_code:
@@ -53,7 +53,7 @@ url_pdf:
 url_video:
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
+#   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
@@ -66,5 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-{{<figure src="award.jpg">}}
