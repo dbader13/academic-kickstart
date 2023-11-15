@@ -67,6 +67,9 @@ slides: ""
 projects: []
 ---
 
+{{<figure src="pic1.jpg">}}
+{{<figure src="pic2.jpg">}}
+
 ## About ##
 
 The HPC Connection Workshop is an international High Performance Computing event organized by the Asia Supercomputer Community. This event takes place three times a year: during ASC in China, ISC in Germany, and SC in the USA. Top researchers and leading professionals from around the world gather at the workshops to discuss the latest developments and disruptive technologies in AI and supercomputing.
