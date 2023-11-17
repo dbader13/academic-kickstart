@@ -1,26 +1,32 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "HPEC 2017 Invited Talk: Massive-Scale Streaming Analytics"
-event: "21st Annual IEEE High Performance Extreme Computing (HPEC) Conference"
-event_url: "http://ieee-hpec.org/2017/"
-location: "Waltham, MA"
+title: "Wayne State University Distinguished Lecture Talk: Massive-scale Streaming Analytics"
+event: "Distinguished Lecuture Series, Wayne State University"
+event_url:
+location: "Detroit, MI"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "Emerging real-world graph problems include: detecting community structure in large social networks; improving the resilience of the electric power grid; and detecting and preventing disease in human populations. Unlike traditional applications in computational science and engineering, solving these problems at scale often raises new challenges because of the sparsity and lack of locality in the data, the need for additional research on scalable algorithms and development of frameworks for solving these problems on high performance computers, and the need for improved models that also capture the noise and bias inherent in the torrential data streams. In this talk, I will discuss opportunities and challenges in massive data-intensive computing for applications in computational science and engineering."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2017-09-13T13:00:00-04:00
-date_end: 2017-09-13T13:20:00-04:00
+date: 2017-02-21T11:00:00-05:00
+date_end: 2017-02-21T12:00:00-05:00
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-08-22T21:04:25-04:00
+# Schedule page publish date (NOT event date).
+publishDate: 2023-11-17T14:56:14-05:00
 
 authors: []
 tags: []
 
-# Is this a featured talk? (true/false)
+# Is this a featured event? (true/false)
 featured: false
 
 # Featured image
@@ -39,7 +45,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-# Optional filename of your slides within your talk's folder or a URL.
+# Optional filename of your slides within your event's folder or a URL.
 url_slides:
 
 url_code:
@@ -47,7 +53,7 @@ url_pdf:
 url_video:
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
+#   Associate this event with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
@@ -60,5 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-*HPEC is the largest computing conference in New England and is the premier conference in the world on the convergence of High Performance and Embedded Computing. We are passionate about performance. Our community is interested in computing hardware, software, systems and applications where performance matters. We welcome experts and people who are new to the field.*
