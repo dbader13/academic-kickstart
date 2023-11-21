@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{<figure src="image104.png">}}
