@@ -3,7 +3,7 @@ title: "Benchmarking for Graph Clustering and Partitioning"
 date: 2014-01-01
 publishDate: 2019-09-10T12:18:37.384181Z
 authors: ["David A. Bader", "Henning Meyerhenke", "Peter Sanders", "Christian Schulz", "Andrea Kappes", "Dorothea Wagner"]
-publication_types: ["6"]
+publication_types: ["chapter"]
 abstract: ""
 featured: false
 publication: "*Encyclopedia of Social Network Analysis and Mining*"

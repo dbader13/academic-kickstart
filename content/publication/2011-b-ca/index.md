@@ -3,7 +3,7 @@ title: "Spanning Tree, Minimum Weight"
 date: 2011-01-01
 publishDate: 2019-09-10T12:18:34.958418Z
 authors: ["David A. Bader", "Guojing Cong"]
-publication_types: ["6"]
+publication_types: ["chapter"]
 abstract: ""
 featured: false
 publication: "*Encyclopedia of Parallel Computing*"

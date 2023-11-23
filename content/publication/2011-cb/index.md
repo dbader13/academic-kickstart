@@ -3,7 +3,7 @@ title: "Hybrid Programming With SIMPLE"
 date: 2011-01-01
 publishDate: 2019-09-10T12:18:34.941969Z
 authors: ["Guojing Cong", "David A. Bader"]
-publication_types: ["6"]
+publication_types: ["chapter"]
 abstract: ""
 featured: false
 publication: "*Encyclopedia of Parallel Computing*"

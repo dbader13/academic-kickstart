@@ -3,7 +3,7 @@ title: "Proceedings of the Fourth IEEE International Workshop on High Performanc
 date: 2005-01-01
 publishDate: 2019-09-18T11:07:24.675607Z
 authors: ["Nancy Amato", "David A. Bader", "Srinivas Aluru"]
-publication_types: ["0"]
+publication_types: ["document"]
 abstract: ""
 featured: false
 publication: ""

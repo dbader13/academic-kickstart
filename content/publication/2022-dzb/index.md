@@ -13,7 +13,7 @@ publishDate: 2022-09-13T18:48:25-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "14th International Conference on Parallel Processing and Applied Mathematics, Gdansk, Poland. In R. Wyrzykowski et al. (Eds.): PPAM 2022, LNCS 13826, pp. 71–82, 2023."

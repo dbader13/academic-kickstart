@@ -3,7 +3,7 @@ title: "Sorting Signed Permutations by Reversal (Reversal Distance)"
 date: 2008-01-01
 publishDate: 2019-09-10T12:18:35.567275Z
 authors: ["David A. Bader"]
-publication_types: ["6"]
+publication_types: ["chapter"]
 abstract: ""
 featured: false
 publication: "*Encyclopedia of Algorithms - 2008 Edition*"

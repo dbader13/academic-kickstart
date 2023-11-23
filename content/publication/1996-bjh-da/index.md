@@ -3,7 +3,7 @@ title: "Parallel algorithms for image enhancement and segmentation by region gro
 date: 1996-01-01
 publishDate: 2019-09-10T12:18:38.262657Z
 authors: ["David A. Bader", "Joseph JáJá", "David Harwood", "Larry S. Davis"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: "This paper presents efficient and portable implementations of a powerful image enhancement process, the Symmetric Neighborhood Filter (SNF), and an image segmentation technique that makes use of the SNF and a variant of the conventional connected components algorithm which we call δ-Connected Components. We use efficient techniques for distributing and coalescing data as well as efficient combinations of task and data parallelism. The image segmentation algorithm makes use of an efficient connected components algorithm based on a novel approach for parallel merging. The algorithms have been coded in Split-C and run on a variety of platforms, including the Thinking Machines CM-5, IBM SP-1 and SP-2, Cray Research T3D, Meiko Scientific CS-2, Intel Paragon, and workstation clusters. Our experimental results are consistent with the theoretical analysis (and provide the best known execution times for segmentation, even when compared with machine-specific implementations). Our test data include difficult images from the Landsat Thematic Mapper (TM) satellite data."
 featured: false
 publication: "*The Journal of Supercomputing*"

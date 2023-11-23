@@ -3,7 +3,7 @@ title: "Proceedings of the Sixth IEEE International Workshop on High Performance
 date: 2007-01-01
 publishDate: 2019-09-18T11:07:24.704981Z
 authors: ["Ananth Grama", "Shankar Subramaniam", "David A. Bader", "Srinivas Aluru"]
-publication_types: ["0"]
+publication_types: ["document"]
 abstract: ""
 featured: false
 publication: ""

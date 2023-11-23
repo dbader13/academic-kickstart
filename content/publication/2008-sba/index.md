@@ -3,7 +3,7 @@ title: "Proceedings of the Seventh IEEE International Workshop on High Performan
 date: 2008-01-01
 publishDate: 2019-09-18T11:07:24.720970Z
 authors: ["Bertil Schmidt", "David A. Bader", "Srinivas Aluru"]
-publication_types: ["0"]
+publication_types: ["document"]
 abstract: ""
 featured: false
 publication: ""

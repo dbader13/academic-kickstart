@@ -3,7 +3,7 @@ title: "Guest editorial: High-performance computational biology"
 date: 2008-01-01
 publishDate: 2019-09-10T12:18:37.690991Z
 authors: ["David A. Bader", "Srinivas Aluru"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: ""
 featured: false
 publication: "*Parallel Computing*"

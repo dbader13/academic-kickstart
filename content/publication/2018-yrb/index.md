@@ -3,7 +3,7 @@ title: "A New Algorithmic Model for Graph Analysis of Streaming Data"
 date: 2018-01-01
 publishDate: 2019-09-18T11:07:24.579892Z
 authors: ["Chunxing Yin", "Jason Riedy", "David A. Bader"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: "The constant and massive influx of new data into analysis systems needs to be addressed without assuming we can pause the onslaught. Here we consider one aspect: non-stop graph analysis of streaming data. We formalize a new and practical algorithm model that includes both single-run analysis as well as efficiently updating analysis results only around changed data. In our model, a massive graph undergoes changes from an input stream of edge insertions and removals. These changes occur concurrently with analysis. Algorithms do not pause or stop the input stream. Assuming basic data access safety, we consider an algorithm valid for our model if the output is correct for a graph consisting of the initial graph and some implicit subset of concurrent changes. Our technical contributions include 1) the first formal model for graph analysis with concurrent changes, 2) properties of the model including how our model is the strongest possible without point-in-time graph views, 3) demonstrations of our model on connected components and PageRank, and 4) an extension to updating computed results incrementally. "
 featured: false
 publication: "*Proceedings of the 14th International Workshop on Mining and Learning with Graphs (MLG), held in conjunction with 24th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*"

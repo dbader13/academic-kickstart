@@ -3,7 +3,7 @@ title: "BioSPLASH: A sample workload from bioinformatics and computational biolo
 date: 2005-01-01
 publishDate: 2019-09-18T11:07:24.915934Z
 authors: ["David A. Bader", "V. Sachdeva", "A. Trehan", "V. Agarwal", "G. Gupta", "A. N. Singh"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: ""
 featured: false
 publication: "13th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB 2005), Detroit, MI, June 25-29, 2005"

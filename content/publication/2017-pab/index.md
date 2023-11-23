@@ -3,7 +3,7 @@ title: "Proceedings of the Sixteenth IEEE International Workshop on High Perform
 date: 2017-01-01
 publishDate: 2019-09-18T11:07:24.752646Z
 authors: ["Alex Pothen", "Srinivas Aluru", "David A. Bader"]
-publication_types: ["0"]
+publication_types: ["document"]
 abstract: ""
 featured: false
 publication: ""

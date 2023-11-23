@@ -3,7 +3,7 @@ title: "HCW 2012 Keynote Talk: Analyzing massive data using heterogeneous comput
 date: 2012-01-01
 publishDate: 2019-09-10T12:18:34.761621Z
 authors: ["David A. Bader"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: ""
 featured: false
 publication: "*26th IEEE International Parallel and Distributed Processing Symposium Workshops & PhD Forum, IPDPS 2012, Shanghai, China, May 21-25, 2012*"
