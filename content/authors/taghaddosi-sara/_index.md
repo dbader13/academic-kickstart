@@ -78,4 +78,4 @@ user_groups:
 ---
 
 
-Sara Taghaddosi received her B.S. degree in information technology (IT) engineering from the Institute for Advanced Basic Sciences, Zanjan, Iran, in 2019, and her M.S. in information technology (IT) engineering from Islamic Azad University, Central Tehran Branch, Iran, in 2023. She is a computer science Ph.D. student at New Jersey Institute of Technology in Newark under the supervision of Dr. David Bader. Her research interests include machine learning & AI, data science, and high-performance computing.
+Sara Taghaddosi received her B.S. degree in information technology (IT) engineering from the Institute for Advanced Basic Sciences, Zanjan, Iran, in 2019, and her M.S. in information technology (IT) engineering from Islamic Azad University, Central Tehran Branch, Iran, in 2023. She is a data science Ph.D. student at New Jersey Institute of Technology in Newark under the supervision of Dr. David Bader. Her research interests include machine learning & AI, data science, and high-performance computing.
