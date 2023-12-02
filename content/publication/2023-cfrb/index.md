@@ -24,12 +24,12 @@ high-degree node isomorphism. High-degree isomorphic
 nodes seldom happen by chance and often represent duplicated
 entities or data processing errors. By definition, isomorphic nodes
 are topologically indistinguishable and can be problematic in
-graph ML tasks. The algorithm employs a parallel, “degreebounded”
+graph ML tasks. The algorithm employs a parallel, “degree-bounded”
 approach that fingerprints each node’s local properties
-through a hash, which constrains the search to nodes within hashdefined
+through a hash, which constrains the search to nodes within hash-defined
 buckets, thus minimising the number of comparisons.
 This method scales on graphs with billions of nodes and edges.
-Finally, we provide isomorphic node oddities identified in realworld
+Finally, we provide isomorphic node oddities identified in real-world
 data."
 
 # Summary. An optional shortened abstract.
