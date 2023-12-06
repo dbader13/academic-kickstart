@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Senior Software Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:llmunguia@google.com"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lluismunguia/
@@ -80,3 +80,4 @@ user_groups:
 
 ---
 
+Lluis-Miquel Munguia is a senior software engineer at Google, Mountain View, California, where he works on codesign for deep learning accelerators. His research interests include the performance analysis of special-purpose computer architectures, power efficiency, and high-performance computing.

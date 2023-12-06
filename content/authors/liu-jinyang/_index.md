@@ -74,3 +74,5 @@ user_groups:
 
 ---
 
+Jinyang Liu received his Ph.D. in electrical and computer engineering from the University of New Mexico in 2005. Before joining HHMI in 2007 as an instrument control software developer, Jinyang developed high resolution control algorithms for the NASA funded earth orbital low-temperature experiment DYNAMX at the University of New Mexico and the California Institute of Technology. He succeeded in achieving the control resolution of 0.1 nano-Kelvin, one of the highest reported around the critical point of liquid helium.  At HHMI, Jinyang has developed software for instrument control and data/image acquisition for more than ten Janelia Labs. He has hand-on experience in developing control systems using PC, commercial and custom-designed embedded systems. He has programming experience in C, MatLAB/Simulink, LabVIEW/TestStand, Python, and Assembly Language.
+
