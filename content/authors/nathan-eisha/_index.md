@@ -37,9 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:nathon4@llnl.gov"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/eisha-n-771a564b/
@@ -77,3 +77,4 @@ user_groups:
 
 ---
 
+Eisha Nathan is a computational scientist at Lawrence Livermore National Laboratory. Her research interests include network analysis, graph algorithms, dynamic graphs, numerical linear algebra, and data mining.
