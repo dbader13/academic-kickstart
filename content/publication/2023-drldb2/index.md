@@ -4,7 +4,7 @@
 title: "Contour Algorithm for Connectivity"
 authors: ["Zhihui Du", "Oliver Alvarado Rodriguez", "Fuhuan Li", "Mohammad Dindoost", "David Bader"]
 date: 2023-11-05T20:06:53-05:00
-doi: ""
+doi: "10.1109/HiPC58850.2023.00022"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-11-05T20:06:53-05:00
