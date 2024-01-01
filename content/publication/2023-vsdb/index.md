@@ -4,7 +4,7 @@
 title: "Parallel Longest Common SubSequence Analysis In Chapel"
 authors: ["Soroush Vahidi", "Baruch Schieber", "Zhihui Du", "David Bader"]
 date: 2023-09-04T13:41:23-04:00
-doi: ""
+doi: "10.1109/HPEC58863.2023.10363472"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-09-04T13:41:23-04:00

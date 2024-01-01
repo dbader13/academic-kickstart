@@ -4,7 +4,7 @@
 title: "Fast Triangle Counting (Graph Challenge Innovation Award)"
 authors: ["David Bader"]
 date: 2023-09-04T13:42:28-04:00
-doi: ""
+doi: "10.1109/HPEC58863.2023.10363539"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-09-04T13:42:28-04:00

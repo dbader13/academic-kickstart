@@ -4,7 +4,7 @@
 title: "Property Graphs in Arachne"
 authors: ["Oliver Alvarado Rodriguez", "Fernando Vera Buschmann", "Zhihui Du", "David Bader"]
 date: 2023-09-04T13:41:35-04:00
-doi: ""
+doi: "10.1109/HPEC58863.2023.10363498"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-09-04T13:41:35-04:00

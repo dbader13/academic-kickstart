@@ -4,7 +4,7 @@
 title: "Triangle Counting Through Cover-Edges (Graph Challenge Student Innovation Award)"
 authors: ["David Bader", "Fuhuan Li", "Anya Ganeshan", "Ahmet Gundogdu", "Jason Lew", "Oliver Alvarado Rodriguez", "Zhihui Du"]
 date: 2023-09-04T13:42:20-04:00
-doi: ""
+doi: "10.1109/HPEC58863.2023.10363465"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-09-04T13:42:20-04:00
