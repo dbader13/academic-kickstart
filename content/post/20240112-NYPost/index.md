@@ -77,12 +77,16 @@ Click to jump to specific classes:
 
 ## [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) ##
 
+{{<figure src="Google-Cybersecurity-Professional-Certificate.jpg">}}
+
 * **Cost**: $49 a month
 “A search for “Cybersecurity” on Coursera yields 241 courses to choose from, including some leading companies such as Google, Microsoft and IBM,” Dr. Bader lists.
 
 Specifically, the Google Cybersecurity Professional Certificate allows you to receive professional-level training from Google and a glossy employer-recognized certificate from Google. More granularly, this course helps better prepare you for careers as a cybersecurity analyst, security analyst and security operations center (SOC) analyst.
 
 ## [University of Michigan Programming for Everybody (Getting Started with Python)](https://www.edx.org/learn/python/the-university-of-michigan-programming-for-everybody-getting-started-with-python) ##
+
+{{<figure src="University-of-Michigan-Programming-for-Everybody-Getting-Started-with-Python.jpg">}}
 
 * **Cost**: Free, or $59 for a shareable certification upon completion
 
@@ -92,6 +96,8 @@ More, this class is self-paced and typically takes two to four hours per week ov
 
 ## [Introduction to Machine Learning on AWS](https://www.futurelearn.com/courses/introduction-to-machine-learning-on-aws) ##
 
+{{<figure src="Introduction-to-Machine-Learning-on-AWS.jpg">}}
+
 * **Cost**: $89
 
 “FutureLearn offers 299 short courses in IT and computer science,” Bader explains. “Typically, a learner would enroll in an annual unlimited subscription to pay for the access to the courseware.”
@@ -100,6 +106,8 @@ FutureLearn also provides premium content – such as Amazon Web Services (AWS)�
 
 ## [University of Maryland Cybersecurity for Everyone](https://www.coursera.org/learn/cybersecurity-for-everyone) ##
 
+{{<figure src="University-of-Maryland-Cybersecurity-for-Everyone.jpg">}}
+
 * **Cost**: $49 a month
 
 “For a beginner, I’d recommend a free course on cyberattacks and computer and network security called ‘Cybersecurity for Everyone’ taught by a University of Maryland College Park expert who has served on the front lines with the NSA,” Bader says. “This course allows a flexible schedule and takes about seven hours a week for three weeks.”
@@ -107,6 +115,8 @@ FutureLearn also provides premium content – such as Amazon Web Services (AWS)�
 With this course, you’ll explore topics like global communications architecture, threat actors and motivations and the hacking process, among other learnings.
 
 ## [Intro to UX: Designing with a User-Centered Approach](https://www.skillshare.com/en/tedx?via=search-layout-grid) ##
+
+{{<figure src="Intro-to-UX-Designing-with-a-User-Centered-Approach.jpg">}}
 
 * **Cost**: $32 a month
 
