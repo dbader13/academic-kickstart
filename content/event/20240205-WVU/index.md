@@ -4,7 +4,7 @@
 title: "IEEE Webinar: Solving Global Grand Challenges with High Performance Data Analytics"
 event: "West Virginia University"
 event_url: "https://community.wvu.edu/~skhushalanisolanki/seminars14.html"
-location:
+location: "virtual"
 address:
   street:
   city:
