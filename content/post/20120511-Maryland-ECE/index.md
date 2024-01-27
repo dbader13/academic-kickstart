@@ -39,4 +39,5 @@ https://ece.umd.edu/alumni/award
 {{<figure src="ECE1.jpg">}}
 {{<figure src="ECE2.jpg">}}
 {{<figure src="ECE3.jpg">}}
+{{<figure src="plaque.jpg">}}
 
