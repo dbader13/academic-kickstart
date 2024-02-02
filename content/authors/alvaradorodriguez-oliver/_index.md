@@ -74,4 +74,37 @@ user_groups:
 
 ---
 
-[Oliver Alvarado Rodriguez](https://www.oliveralvaradorodriguez.net/) is currently a computer science Ph.D. candidate at NJIT in Newark, NJ. He performs research under the supervision of Dr. David Bader. He received his B.S. in computer science with a minor in mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, a part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was also awarded the Omicron Omega award for excellence in computer science. His research interests involve the design and implementation of algorithms in the areas of high-performance analytics, data science, and graph analytics. He has also dabbled with some cryptographical and computer security research during his undergraduate studies. He was awarded a best paper presentation award at the 2020 BDML/ICAIP conference for his presentation on the paper titled “A Study of Machine Learning Inference Benchmarks” done in collaboration with Dev Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su. Oliver recently served as the student keynote speaker at the Spring 2022 meeting of the Academic Data Science Alliance, where he presented the keynote talk: “Enabling Exploratory Large Scale Graph Analytics through Arkouda.
+[Oliver Alvarado Rodriguez](https://www.oliveralvaradorodriguez.net/)
+is currently a computer science Ph.D. candidate at the Ying Wu College
+of Computing. He performs research under the supervision of
+Distinguished Professor David Bader. He received his B.S. in computer
+science with a minor in mathematics from William Paterson University
+in Wayne, NJ in May 2020 with summa cum laude honors.  During his
+undergraduate studies, he was a member of the Honors College, a part
+of the Upsilon Pi Epsilon honor society for computing and information
+disciplines and was also awarded the Omicron Omega award for
+excellence in computer science. His research interests lie in the
+intersection of high-performance computing and data
+science. Specifically, he is interested in the design and
+implementation of data structures, algorithms, and software to
+facilitate large-scale graph analysis. He was awarded a best paper
+presentation award at the 2020 Big Data and Machine Learning
+conference for his presentation on the paper titled “A Study of
+Machine Learning Inference Benchmarks”, done in collaboration with Dev
+Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su.
+Oliver served as the student keynote speaker at the Spring 2022
+meeting of the Academic Data Science Alliance, where he presented the
+keynote talk “Enabling Exploratory Large-Scale Graph Analytics through
+Arkouda.”
+
+Oliver is natively from Costa Rica, having moved with his family to
+the United States in 2003 when he was five. Oliver is a Deferred
+Action for Childhood Arrivals (DACA) recipient, the landmark executive
+order passed by President Barack Obama on June 12, 2012. Were it not
+for DACA, Oliver would be unable to study and work within the United
+States. Oliver is also a first-generation college graduate and the
+first member of his family to pursue a Ph.D. He grew up in Paterson,
+NJ, attended high school and college in Wayne, NJ, and decided to
+pursue his Ph.D. at NJIT when he found amazing research opportunities
+and was offered a research assistant position with his advisor, David
+Bader.
