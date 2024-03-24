@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Director, Head of HPC
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Silicon Therapeutics
-  url: "https://silicontx.com/"
+- name: Microsoft AI
+  url: "https://www.microsoft.com/ai"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
