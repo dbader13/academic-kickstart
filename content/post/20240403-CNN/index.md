@@ -103,10 +103,23 @@ https://www.cnn.com/2024/04/03/tech/taiwan-earthquake-risks-semiconductor-chip-i
 
 {{<figure src="ErieNewsNow.png" caption="https://www.erienewsnow.com/story/50637756/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-regions-chipmaking-industry">}}
 
+{{<figure src="IslandNews.jpg" caption="https://www.kitv.com/news/business/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-region-s-chipmaking/article_d2e4f040-4319-5124-9e03-9e22a6cfc9c8.html">}}
+
 {{<figure src="espotting.png" caption="https://espotting.com/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-regions-chipmaking-industry/">}}
 
 
 {{<figure src="Romania.png" caption="https://romania.postsen.com/trends/375871/The-Taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-region%E2%80%99s-chipmaking-industry.html">}}
+
+{{<figure src="alKhaleejToday.png" caption="https://alkhaleejtoday.co/international/5830222/Taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-region%E2%80%99s-chipmaking-industry.html">}}
+
+{{<figure src="krdo_logo_100px_width.png" caption="https://krdo.com/news/2024/04/03/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-regions-chipmaking-industry/">}}
+
+{{<figure src="nc3xsm.jpg" caption="https://kesq.com/money/cnn-business-consumer/2024/04/03/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-regions-chipmaking-industry/">}}
+
+{{<figure src="Channel8.jpg" caption="https://localnews8.com/money/cnn-business-consumer/2024/04/03/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-regions-chipmaking-industry/">}}
+
+{{<figure src="54270-KEYT-Logo-Tri_Logo_Jan2022-80.jpg" caption="https://keyt.com/news/money-and-business/cnn-business-consumer/2024/04/03/the-taiwan-earthquake-is-a-stark-reminder-of-the-risks-to-the-regions-chipmaking-industry/">}}
+
 
 
 
