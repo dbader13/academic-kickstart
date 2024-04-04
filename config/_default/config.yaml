@@ -83,3 +83,6 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+frontmatter:
+  lastmod:
+  - date
