@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+Congratulations to **Professor David Bader** who has been selected as the recipient for the SOE 2000 Junior Research Excellence Award.  Professor Bader has been active in research on parallel algorithms and applications for high performance computers. The award will be presented by Dean Paul Fleury and ECE Department Chair Christos Christodoulou on Friday, May 5 at 11:30am at the annual SOE Awards Event.
+
 {{<figure src="letter.jpg">}}
 {{<figure src="award.jpg">}}
 
