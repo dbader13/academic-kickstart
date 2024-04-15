@@ -34,9 +34,20 @@ Dear **David**:
 
 On behalf of the Committee on Awards and Prizes, I am pleased to inform you that you have been selected as a winner of the Elizabeth Major Nevius Award given to individuals who have entered their fifth year of work at Lehigh, whether it be a second undergraduate degree or graduate degree, on the basis of leadership, citizenship and scholarship.  With this distinguished award comes a monetary gift which will be sent to you under separate cover.
 
-Congraduations and best wishes for continued success at Lehigh University.
+Congratuations and best wishes for continued success at Lehigh University.
 
 Sincerely,
 
 Mark H. Erickson   
 Acting Dean of Students
+
+{{< figure src="pic1.jpg" >}}
+
+{{< figure src="pic2.jpg" >}}
+
+**Elizabeth Major Nevius Award** -- to individuals who have entered their fifth year of work at Lehigh, whether it be a second undergraduate degree or graduate degree, on the basis of leadership, citizenship and scholarshup
+
+
+
+
+
