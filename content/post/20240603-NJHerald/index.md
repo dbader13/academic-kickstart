@@ -78,6 +78,8 @@ Papadimitriou said you should also update your Ticketmaster password.
 
 https://www.njherald.com/story/news/2024/06/03/ticketmaster-data-breach-protect-your-personal-info-from-dark-web/73956957007/
 
+https://www.northjersey.com/story/news/2024/06/03/ticketmaster-data-breach-protect-your-personal-info-from-dark-web/73956957007/
+
 https://www.courierpostonline.com/story/news/2024/06/03/ticketmaster-data-breach-protect-your-personal-info-from-dark-web/73956957007/
 
 https://www.app.com/story/news/2024/06/03/ticketmaster-data-breach-protect-your-personal-info-from-dark-web/73956957007/
