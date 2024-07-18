@@ -30,6 +30,8 @@ projects: []
 
 {{<figure src="article15168.large.jpg">}}
 
+{{<figure src="IMG_2812.jpg">}}
+
 In recognition for his role in creating the Linux supercomputer, Department of Computer and Electrical Engineering (ECE) alumnus **David A. Bader** (Ph.D., ‘96, electrical engineering) will be inducted into the A. James Clark School of Engineering’s [Innovation Hall of Fame](https://eng.umd.edu/ihof) (IHOF) on Wednesday, November 9—joining a small but distinguished community of inventors who use their knowledge, perseverance, innovation, and ingenuity to change how we do things in the world.
 
 Bader is currently a Distinguished Professor and founder of the Department of Data Science in the Ying Wu College of Computing and the inaugural director of the Institute for Data Science at the New Jersey Institute of Technology.
