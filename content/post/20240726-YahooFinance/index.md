@@ -78,3 +78,5 @@ Ultimately, the solution to these kinds of world-scale problems might just come 
 Email Daniel Howley at dhowley@yahoofinance.com. Follow him on X at @DanielHowley.
 
 https://www.aol.com/finance/crowdstrike-outage-exposed-connected-world-150321849.html
+
+https://headtopics.com/ca/what-the-crowdstrike-outage-exposed-about-our-connected-56460861
