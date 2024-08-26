@@ -53,4 +53,6 @@ Community detection methods enable an understanding of the structure of networks
 
 * [Project website](https://sites.google.com/view/oac2402559/home)
 * [NSF OAC-2402560](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2402560)
+* [NJIT and Illinois Research on Data Analytics Will Measure Impact of Scientific Literature](https://news.njit.edu/njit-and-illinois-research-data-analytics-will-measure-impact-scientific-literature), NJIT News, 26 August 2024.
+
 
