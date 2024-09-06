@@ -50,5 +50,4 @@ So far, “There are prototypes for some of the algorithms that [Warnow] has dev
 
 https://news.njit.edu/njit-and-illinois-research-data-analytics-will-measure-impact-scientific-literature
 
-
-
+https://scienmag.com/njit-and-illinois-research-on-data-analytics-will-measure-impact-of-scientific-literature/
