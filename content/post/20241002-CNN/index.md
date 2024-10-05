@@ -87,3 +87,5 @@ However, Wang said that despite the scale of the devastation in Spruce Pine, the
 https://www.cnn.com/2024/10/02/tech/semiconductor-supply-chain-north-carolina-helene/index.html
 
 https://www.msn.com/en-us/news/us/devastation-from-hurricane-helene-could-bring-semiconductor-chipmaking-to-a-halt/ar-AA1rAZkG
+
+https://www.aol.com/finance/devastation-hurricane-helene-could-bring-164952109.html
