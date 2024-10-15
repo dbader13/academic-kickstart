@@ -45,3 +45,5 @@ https://www.applevalleynewsnow.com/news/national-news/dnt-helene-damage-threaten
 https://www.2news.com/weather/ap_weather_headlines/helene-damage-threatens-global-tech-supply-chain-3pmet/video_27923d26-60c8-53fa-b340-459c40b45539.html
 
 https://www.kxly.com/news/national-and-world-news/helene-damage-threatens-global-tech-supply-chain-3pmet/video_c1341b92-25a9-5d10-9ce5-a80fc8882d2f.html
+
+https://www.facebook.com/watch/live/?ref=watch_permalink&v=535520112457805
