@@ -4,7 +4,7 @@
 title: "AHPCC Seminar Talk: An Improved Randomized Selection Algorithm With An Experimental Study"
 event: "AHPCC Seminar Series, Albuquerque High Performance Computing Center, The University of New Mexico"
 event_url:
-location:
+location: "University of New Mexico, Albuquerque, NM"
 address:
   street:
   city:

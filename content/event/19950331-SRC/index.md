@@ -4,7 +4,7 @@
 title: "Supercomputing Research Center Colloquium Talk: Scalable and Portable Parallel Algorithms for Image Processing"
 event: "Supercomputing Research Center Colloquium Series"
 event_url:
-location:
+location: "Supercomputing Research Center, Bowie, MD"
 address:
   street:
   city:
