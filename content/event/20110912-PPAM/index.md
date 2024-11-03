@@ -5,6 +5,12 @@ title: "PPAM 2011 Keynote Talk: Opportunities and Challenges in Massive DataInte
 event: "The 9th International Conference on Parallel Processing and Applied Mathematics (PPAM)"
 event_url: "https://ppam.pl/prev/ppam2011/"
 location: "Torun, Poland"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract:
 

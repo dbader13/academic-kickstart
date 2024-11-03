@@ -5,6 +5,12 @@ title: "PPAM 2015 Keynote Talk: Massive-Scale Graph Analytics"
 event: "11th International Conference on Parallel Processing and Applied Mathematics"
 event_url: "https://ppam.pl/prev/ppam2015/"
 location: "Krakow, Poland"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary: ""
 abstract: ""
 

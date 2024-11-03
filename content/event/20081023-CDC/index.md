@@ -5,6 +5,12 @@ title: "CDC Keynote Talk: Petascale Phylogenetic Reconstruction of Evolutionary 
 event: "Symposium on Biomedical High Performance Computing"
 event_url:
 location: "CDC Biotechnology Core Facility, Atlanta, GA"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract:
 

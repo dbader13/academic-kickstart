@@ -5,6 +5,12 @@ title: "SC13 Invited Talk: Gathering Intelligence with Massive Graphs"
 event: "The 25th IEEE and ACM Supercomputing Conference (SC13)"
 event_url: "http://sc13.supercomputing.org/schedule/event_detail.php-evid=mswk115.html"
 location: "Denver, CO"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "Emerging real-world graph problems include detecting community structure in large social networks, improving the resilience of the electric power grid, and detecting and preventing disease in human populations. Unlike traditional applications in computational science and engineering, solving these problems at scale often raises new challenges because of sparsity and the lack of locality in the data, the need for additional research on scalable algorithms and development of frameworks for solving these problems on high performance computers, and the need for improved models that also capture the noise and bias inherent in the torrential data streams. In this talk, the speaker will discuss the opportunities and challenges in massive data-intensive computing for applications in computational biology, genomics, and security. This talk will highlight the importance of a portfolio of high performance computing and big data platforms for massive data analytics."
  

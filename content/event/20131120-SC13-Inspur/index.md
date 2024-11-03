@@ -5,6 +5,12 @@ title: "SC13 Invited Talk: Big Data Analytics"
 event: "Inspur HPC Connections Workshop, The 25th IEEE and ACM Supercomputing Conference (SC13)"
 event_url: "https://web.archive.org/web/20140701135409/http://www.asc-events.org/13en/HPC_Connection_Workshop_SC13.php"
 location: "Denver, CO"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "The HPC Connection workshop aims to provide an international communication platform for High Performance Computing (HPC) users and providers."
  
