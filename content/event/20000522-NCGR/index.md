@@ -5,6 +5,12 @@ title: "National Center for Genome Resources Talk: OPAL: Open Source Parallel Al
 event: "National Center for Genome Resources"
 event_url: 
 location: "Santa Fe, NM"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
 summary:
 abstract: "A fundamental problem in high-performance computing is to design high-level, architecture independent, algorithms that execute efficiently on general purpose parallel machines. We describe a methodology for developing high performance programs running on clusters of SMP nodes. Our methodology is based on an open source library (called SIMPLE) of collective communication primitives that make efficient use of the hybrid shared and message passing environment. Using SIMPLE, we address a number of basic combinatorial computations that are commonly needed in various large scale applications. Our research has produced the fastest known high-level, practical algorithms for many combinatorial problems such as sorting, personalized communication, selection, list ranking, and data redistribution, on general purpose parallel machines. SIMPLE contains interfaces to C, C++, and Fortran, and is built on top of the Message-Passing Interface and POSIX threads."
 
