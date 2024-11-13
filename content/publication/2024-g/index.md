@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Computational Science Grows Up: The Georgia Tech Example"
+title: "In an Interdisciplinary World, Computer Science Education Must Adapt"
 authors: ["Karen Smith Green"]
 date: 2024-10-25T13:30:01-04:00
 doi: "10.1145/3701622"
