@@ -73,6 +73,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
       
+      - title: Board Member
+        company: Computing Research Association
+        company_url: 'https://cra.org/'
+        company_logo: org-cra
+        location: Washington, DC
+        date_start: '2024-07-01'
+#        date_end: '2027-06-30'
+        date_end: ''
+    
       - title: Scientific Advisory Board Member
         company: Flatiron Institute, Simons Foundation
         company_url: 'https://www.simonsfoundation.org/flatiron/'
