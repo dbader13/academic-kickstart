@@ -4,7 +4,7 @@
 title: "IBM Invited Talk: Designing High Performance Algorithms for Clusters of SMPs"
 event: "IBM Hyper Cluster Computing Workshop, Albuquerque High Performance Computing Center, The University of New Mexico"
 event_url:
-location:
+location: "Albuquerque, NM"
 address:
   street:
   city:
