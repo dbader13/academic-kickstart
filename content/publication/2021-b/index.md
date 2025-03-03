@@ -16,7 +16,7 @@ publishDate: 2021-08-23T12:41:26-04:00
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Annals on the History of Computing"
+publication: "IEEE Annals of the History of Computing"
 publication_short: ""
 
 abstract: "In the 1990s I designed and built the first Linux supercomputer that remains the foundational infrastructure of today’s Linux supercomputers, including the fastest machines in the world. The ease of use of Linux supercomputers has had a profound impact on how scientists conduct their research and on the most pressing issues of our time, and I am proud of my role in this revolution in computing and discovery. Whether they are simulating astrophysical phenomena, impacts of climate change, or biological functions at the cellular level, Linux supercomputers are today’s primary tool of knowledge discovery.  Here I present my development of the first bona fide Linux supercomputer.  Today, researchers are building a new generation of exascale computing systems – machines capable of calculating at least one quintillion floating point operations per second. The Linux operating system is intrinsic to this effort because it provides the scale and flexibility to support high-performance computing at the exascale level."

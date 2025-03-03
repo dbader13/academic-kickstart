@@ -1,10 +1,10 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Panel Moderator: AI Summit of the Americas"
+title: "Panel Moderator: Rothberg Catalyzer AI Summit of the Americas"
 event: "University of Miami: Rothberg Catalyzer AI Summit of the Americas"
 event_url: "https://www.coe.miami.edu/events/ai-summit/ai-summit-2025/"
-location: "Shalala Student Center, University of Miami, Miami, FL"
+location: "Shalala Student Center, University of Miami, Coral Gables, FL"
 address:
   street:
   city:
