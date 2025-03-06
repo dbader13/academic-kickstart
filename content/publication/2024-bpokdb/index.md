@@ -4,7 +4,7 @@
 title: "Graph-Based Profiling of Dependency Vulnerability Remediation"
 authors: ["Fernando Vera Buschmann", "Palina Pauliuchenka", "Ethan Oh", "Bai Chien Kao", "Louis DiValentin", "David A. Bader"]
 date: 2024-07-11T09:50:06-05:00
-doi: ""
+doi: "10.1007/978-981-96-2417-1_8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-07-11T09:50:06-05:00
