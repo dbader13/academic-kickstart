@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-{{<figure src="20250306.jpg" caption="David Bader at the Hall of Fame ceremony, 6 March 2025.>}}
+{{<figure src="20250306.jpg" caption="David Bader at the Hall of Fame ceremony, 6 March 2025.">}}
 
 ROSWELL, Ga. – (February 4, 2025) – [Computer Museum of America (CMoA)](https://www.computermuseumofamerica.org/), a metro Atlanta attraction featuring one of the world’s largest collections of digital-age artifacts, today announced the induction of three new distinct members to its Hall of Fame. The trailblazing pioneers will be honored on March 6 during BYTE25, the museum’s largest fundraiser of the year.
 
