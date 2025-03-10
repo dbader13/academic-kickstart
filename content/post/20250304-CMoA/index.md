@@ -69,3 +69,5 @@ Kendall Bagley, Hemsworth
 
 
 https://www.computermuseumofamerica.org/news/computer-museum-of-america-announces-2025-hall-of-fame-inductees/
+
+https://hemsworthcommunications.com/computer-museum-of-america-announces-2025-hall-of-fame-inductees/
