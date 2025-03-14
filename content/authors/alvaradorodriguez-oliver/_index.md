@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -70,13 +70,13 @@ email: "oaa9@njit.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- PhD Alumni
 
 ---
 
 [Oliver Alvarado Rodriguez](https://www.oliveralvaradorodriguez.net/)
-is currently a computer science Ph.D. candidate at the Ying Wu College
-of Computing. He performs research under the supervision of
+completed his doctorate in computer science at the Ying Wu College
+of Computing in May 2025. He performs research under the supervision of
 Distinguished Professor David Bader. He received his B.S. in computer
 science with a minor in mathematics from William Paterson University
 in Wayne, NJ in May 2020 with summa cum laude honors.  During his
@@ -108,3 +108,5 @@ NJ, attended high school and college in Wayne, NJ, and decided to
 pursue his Ph.D. at NJIT when he found amazing research opportunities
 and was offered a research assistant position with his advisor, David
 Bader.
+
+Oliver will join Hewlett Packard Enterprise (HPE) in June 2025.
