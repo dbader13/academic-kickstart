@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD
+role: Research Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: New Jersey Institute of Technology
-  url: "http://www.njit.edu/"
+- name: Hewlett Packard Enterprise (HPE)
+  url: "http://hpe.com/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -24,6 +24,9 @@ organizations:
 
 education:
   courses:
+  - course: Ph.D. in Computer Science
+    institution: New Jersey Institute of Technology
+    year: 2025
   - course: B.S. in Computer Science
     institution: William Patterson University
     year: 2020
@@ -75,38 +78,9 @@ user_groups:
 ---
 
 [Oliver Alvarado Rodriguez](https://www.oliveralvaradorodriguez.net/)
-completed his doctorate in computer science at the Ying Wu College
-of Computing in May 2025. He performs research under the supervision of
-Distinguished Professor David Bader. He received his B.S. in computer
-science with a minor in mathematics from William Paterson University
-in Wayne, NJ in May 2020 with summa cum laude honors.  During his
-undergraduate studies, he was a member of the Honors College, a part
-of the Upsilon Pi Epsilon honor society for computing and information
-disciplines and was also awarded the Omicron Omega award for
-excellence in computer science. His research interests lie in the
-intersection of high-performance computing and data
-science. Specifically, he is interested in the design and
-implementation of data structures, algorithms, and software to
-facilitate large-scale graph analysis. He was awarded a best paper
-presentation award at the 2020 Big Data and Machine Learning
-conference for his presentation on the paper titled “A Study of
-Machine Learning Inference Benchmarks”, done in collaboration with Dev
-Dave and under the tutelage of Dr. Weihua Liu and Dr. Bogong Su.
-Oliver served as the student keynote speaker at the Spring 2022
-meeting of the Academic Data Science Alliance, where he presented the
-keynote talk “Enabling Exploratory Large-Scale Graph Analytics through
-Arkouda.”
+completed his doctorate in Computer Science at the Ying Wu College of Computing in May 2025 under the supervision of Distinguished Professor David A. Bader. He received his B.S. in Computer Science with a minor in Mathematics from William Paterson University in Wayne, NJ in May 2020 with summa cum laude honors. During his undergraduate studies, he was a member of the Honors College, part of the Upsilon Pi Epsilon honor society for computing and information disciplines, and was awarded the Omicron Omega award for excellence in Computer Science.
 
-Oliver is natively from Costa Rica, having moved with his family to
-the United States in 2003 when he was five. Oliver is a Deferred
-Action for Childhood Arrivals (DACA) recipient, the landmark executive
-order passed by President Barack Obama on June 12, 2012. Were it not
-for DACA, Oliver would be unable to study and work within the United
-States. Oliver is also a first-generation college graduate and the
-first member of his family to pursue a Ph.D. He grew up in Paterson,
-NJ, attended high school and college in Wayne, NJ, and decided to
-pursue his Ph.D. at NJIT when he found amazing research opportunities
-and was offered a research assistant position with his advisor, David
-Bader.
+His research interests lie at the intersection of high-performance computing and data science, specifically in the design and implementation of data structures, algorithms, and software to facilitate large-scale graph analytics.
 
-Oliver will join Hewlett Packard Enterprise (HPE) in June 2025.
+As of June 2025, Oliver is a Research Software Engineer at Hewlett Packard Enterprise working on the [Chapel](https://chapel-lang.org/) Programming Language team.
+
