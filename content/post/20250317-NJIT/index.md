@@ -34,7 +34,7 @@ projects: []
 
 
 
-New Jersey Institute of Technology distinguished professor David Bader was [inducted recently](https://www.linkedin.com/posts/dbader13_im-honored-to-receive-the-2025-heatherington-activity-7303581245014224896-mWG4/) into the Mimms Museum of Technology and Art Hall of Fame, located near Atlanta.
+New Jersey Institute of Technology distinguished professor **David Bader** was [inducted recently](https://www.linkedin.com/posts/dbader13_im-honored-to-receive-the-2025-heatherington-activity-7303581245014224896-mWG4/) into the Mimms Museum of Technology and Art Hall of Fame, located near Atlanta.
 
 The museum committee cited Bader, who also serves as director of NJIT’s Institute for Data Science, for “revolutioniz[ing] the computing industry through groundbreaking innovations that democratized high-performance computing.” His late-1990s supercomputer design combined off-the-shelf CPUs, high-performance networking, and the open-source Linux operating system.
 
