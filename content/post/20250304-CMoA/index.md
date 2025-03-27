@@ -68,6 +68,9 @@ Kendall Bagley, Hemsworth
 812-483-7717 or CMoA@HemsworthCommunications.com
 
 
-https://www.computermuseumofamerica.org/news/computer-museum-of-america-announces-2025-hall-of-fame-inductees/
+https://mimmsmuseum.org/news/cmoa-2025-hall-of-fame/
 
 https://hemsworthcommunications.com/computer-museum-of-america-announces-2025-hall-of-fame-inductees/
+
+https://www.computermuseumofamerica.org/news/computer-museum-of-america-announces-2025-hall-of-fame-inductees/
+
