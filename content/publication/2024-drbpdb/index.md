@@ -4,7 +4,7 @@
 title: "VF2-PS: Parallel and Scalable Subgraph Monomorphism in Arachne"
 authors: ["Mohammad Dindoost", "Oliver Alvarado Rodriguez", "Sounak Bagchi", "Palina Pauliuchenka", "Zhihui Du", "David Bader"]
 date: 2024-08-25T13:42:28-04:00
-doi: ""
+doi: "10.1109/HPEC62836.2024.10938454"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-08-25T13:42:28-04:00

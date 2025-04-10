@@ -4,7 +4,7 @@
 title: "Enhanced Knowledge Graph Attention Networks for Efficient Graph Learning (Outstanding Student Paper Award)"
 authors: ["Fernando Vera Buschmann", "Zhihui Du", "David Bader"]
 date: 2024-08-25T13:42:28-04:00
-doi: ""
+doi: "10.1109/HPEC62836.2024.10938526"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-08-25T13:42:28-04:00

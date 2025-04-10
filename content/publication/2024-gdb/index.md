@@ -4,7 +4,7 @@
 title: "A Deployment Tool for Large Scale Graph Analytics Framework Arachne"
 authors: ["Garrett Gonzalez-Rivas", "Zhihui Du", "David Bader"]
 date: 2024-08-25T13:42:28-04:00
-doi: ""
+doi: "10.1109/HPEC62836.2024.10938515"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-08-25T13:42:28-04:00
