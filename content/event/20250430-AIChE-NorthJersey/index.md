@@ -4,7 +4,7 @@
 title: "AIChE North Jersey Section invited talk: Accelerating Artificial Intelligence through High Performance Computing"
 event: "April 2025 AIChE, North Jersey Section, Virtual Dinner Meeting"
 event_url: https://www.aiche.org/community/sites/local-sections/north-jersey
-location:
+location: "North Jersey"
 address:
   street:
   city:
