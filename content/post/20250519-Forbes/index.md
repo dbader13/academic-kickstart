@@ -76,7 +76,7 @@ Nvidia, with a market capitalization of $2.6T, is one of the world’s most valu
 
 Lee said SHI may open more labs across the country, working with Nvidia or others. “The age of the GPU is here and it is going to completely transform the way that the computing world is been operating,” said Lee.
 
-She also gave an interview on her leadership style, here.
+She also gave an interview on her leadership style, [here](https://www.forbes.com/sites/elizabethmacbride/2025/05/19/the-ai-future-worries-thai-lee-and-its-coming-faster-than-you-think/).
 
 
 https://www.forbes.com/sites/elizabethmacbride/2025/05/19/one-of-americas-biggest-entrepreneurs-emerges-as-a-key-nvidia-partner/
