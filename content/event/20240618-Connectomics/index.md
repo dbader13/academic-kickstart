@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "This talk presents large-scale graph analytics for Connectomics using the open-source Arkouda/Arachne framework."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
