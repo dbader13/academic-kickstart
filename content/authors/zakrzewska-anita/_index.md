@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Member of Technical Staff
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Trovares
-  url: "https://trovares.com/"
+- name: Amazon Web Services (AWS)
+  url: "https://aws.com/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+# bio: 
 
 # interests:
 
@@ -80,3 +80,4 @@ user_groups:
 
 ---
 
+Anita Zakrzewska is a software engineer specializing in high-performance graph analytics and distributed systems, currently working on Amazon Neptune, AWS's managed graph database service. She brings over a decade of experience in graph-centric computing, including her previous role at Trovares, where she led the development of an in-memory parallel graph engine, improving query planning, access control, and I/O integration with Apache Arrow and Parquet. Anita earned her PhD in Computational Science and Engineering from Georgia Tech, where she focused on streaming graph analytics, community detection in dynamic networks, and contributed to the STINGER graph data structure. Her experience also includes research roles at IBM and Oak Ridge National Laboratory and engineering work at Ionic Security, leveraging technologies such as C++, Golang, and Julia across diverse data-intensive environments.

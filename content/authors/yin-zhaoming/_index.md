@@ -85,7 +85,7 @@ learning Software Engineering. After that he spent 3 years in Peking
 University under the supervision of Shiwen Yu for NLP research. Then he
 headed for Atlanta at GaTech and earned his PhD degree in the area of
 combinatorial research for bioinformatics and graph analysis advised
-by Prof David A. Bader. Zhaoming got my first job at Oracle in the Bay area
+by Prof David A. Bader. Zhaoming got his first job at Oracle in the Bay area
 working on Golden Gate, a data base replication software. Two and half
 years later, he moved back to China and lives in Hangzhou, and worked in
 Alibaba Cloud on ODPS -- a big data platform. After short stint at

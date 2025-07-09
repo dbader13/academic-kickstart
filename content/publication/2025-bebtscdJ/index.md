@@ -4,7 +4,7 @@
 title: "Rocket-Crane Algorithm for the Feedback Arc Set Problem"
 authors: ["David Bader", "Justin Ellis-Joyce", "Gert-Jan Both", "Srinivas C. Turaga", "Harinarayan Asoori Sriram", "Srijith Chinthalapudi", "Zhihui Du"]
 date: 2025-06-28T15:47:27-04:00
-doi: ""
+doi: "10.1007/s13278-025-01491-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-06-28T15:47:27-04:00
