@@ -63,6 +63,8 @@ Architect of Japan’s AI Supercomputing
 Susan Gregurick  
 Architect of NIH HPC/Data Strategy
 
+{{<figure src="hpcw-35Legend2025-DAVID-BADER-X-1280x720.jpg">}}
+
 [**David Bader**](https://www.hpcwire.com/35-hpc-legends-david-bader)  
 Linux-Cluster Trailblazer
 
