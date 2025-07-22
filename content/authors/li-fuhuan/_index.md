@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: New Jersey Institute of Technology
-  url: "http://www.njit.edu/"
+- name: Amazon
+  url: "http://www.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio:
@@ -24,6 +24,9 @@ organizations:
 
 education:
   courses:
+  - course: Ph.D. in Computer Science
+    institution: New Jersey Institute of Technology
+    year: 2025
   - course: M.S. in Data Science
     institution: Rutgers University
     year: 2019
@@ -73,9 +76,9 @@ email: "fl28@njit.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- PhD Alumni
 
 ---
 
 
-Fuhuan Li received his B.S. degree in statistics from Zhejiang University in 2017, and the M.S. degree in data science in Rutgers University, New Brunswick, in 2019. He is currently a computer science Ph.D. student at New Jersey Institute of Technology in Newark under the supervision of Dr. David Bader. His research interests include but not limited to design and implement algorithms in the area of graph theory and machine learning. In his free time, Fuhuan enjoys hiking and cooking.
+Fuhuan Li completed his PhD in Computer Science in July 2025 at New Jersey Institute of Technology under the direction of Dr. David A. Bader. He received his B.S. degree in statistics from Zhejiang University in 2017, and the M.S. degree in data science in Rutgers University, New Brunswick, in 2019. His research interests include but not limited to design and implement algorithms in the area of graph theory and machine learning. In his free time, Fuhuan enjoys hiking and cooking. Currently, Fuhuan is an Applied Scientist at Amazon.
