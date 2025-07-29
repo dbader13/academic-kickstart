@@ -53,6 +53,6 @@ The project will pursue three integrated research thrusts. First, it will develo
 ## Links ##
 
 * [NSF OAC-2453324](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2453324)
-
+* [Research from NJIT and Yale Leads to Trio of Computing Innovations](https://news.njit.edu/research-njit-and-yale-leads-trio-computing-innovations), NJIT News, 29 July 2025.
 
 
