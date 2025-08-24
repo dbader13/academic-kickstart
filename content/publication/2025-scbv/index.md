@@ -4,7 +4,7 @@
 title: "Wedge-Parallel Triangle Counting for GPUs (Best Paper Award Finalist)"
 authors: ["Jeffrey Spaan", "Kuan-Hsun Chen", "David Bader", "Ana-Lucia Varbanescu"]
 date: 2025-06-28T15:35:33-04:00
-doi: ""
+doi: "10.1007/978-3-031-99872-0_1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-06-28T15:35:33-04:00
