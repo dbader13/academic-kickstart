@@ -114,3 +114,5 @@ After Meta saw significant success with Llama, the latest launch had hit snags. 
 The model was expected to be released in April and now the launch has reportedly been pushed to fall or later. A July report from the New York Times revealed that Meta might abandon Llama and go for development of closed-source models under the Superintelligence team headed by Alexandr Wang.
 
 https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-breakthroughs-spur-race-for-superintelligence/articleshow/123370199.cms
+
+https://www.msn.com/en-in/money/news/ai-breakthroughs-spur-race-for-superintelligence/ar-AA1KLbtg
