@@ -1,0 +1,10 @@
+@inproceedings{2025-DRBKB,
+ author = {Mohammad Dindoost and Oliver Alvarado Rodriguez and Bartosz Bryg and Ioannis Koutis and David A. Bader},
+ booktitle = {The 29th Annual IEEE High Performance Extreme Computing Conference (HPEC), Virtual, September 15-19, 2025},
+ groups = {Edited},
+ title = {{HiPerMotif}: Novel Parallel Subgraph Isomorphism in Large-Scale Property Graphs},
+ year = {2025},
+ url       = {},
+ doi= {},
+ abstract = {Subgraph isomorphism algorithms face significant scalability bottlenecks on large-scale property graphs due to inefficient vertex-by-vertex search that requires extensive exploration of early search tree levels where pruning is minimal. We present HiPerMotif, a hybrid parallel algorithm that overcomes these limitations through edge-centric initialization. HiPerMotif first reorders pattern graphs to prioritize high-connectivity vertices, then systematically identifies and validates all possible first-edge mappings before injecting these pre-validated partial states directly at search depth 2. This approach eliminates costly early exploration while enabling natural parallelization over independent edge candidates. Comprehensive evaluation against state-of-the-art baselines (VF2-PS, VF3P, Glasgow) demonstrates up to 66x speedup on real-world networks and successful processing of massive datasets like the 150M-edge H01 human connectome that cause existing methods to fail due to memory constraints. Implemented in the open-source Arkouda/Arachne framework, HiPerMotif enables previously intractable large-scale network analysis in computational neuroscience and related domains.}
+}
