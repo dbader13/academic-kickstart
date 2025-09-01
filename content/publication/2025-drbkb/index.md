@@ -1,4 +1,4 @@
-n---
+---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: "HiPerMotif: Novel Parallel Subgraph Isomorphism in Large-Scale Property Graphs"

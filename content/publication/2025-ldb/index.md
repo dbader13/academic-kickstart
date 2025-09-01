@@ -1,13 +1,13 @@
-n---
+---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: "Designing Parallel Algorithms for Community Detection using Arachne"
 authors: ["Fuhuan Li", "Zhihui Du", "David Bader"]
-date: 2025-09-01T10:27:03-04:00
+date: 2025-08-31T10:27:03-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-09-01T10:27:03-04:00
+publishDate: 2025-08-31T10:27:03-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -1,4 +1,4 @@
-n---
+---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
 title: "Evaluating Efficiency and Novelty of LLM-Generated Code for Graph Analysis (Outstanding Student Paper Award)"
