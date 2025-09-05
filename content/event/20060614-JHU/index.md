@@ -4,7 +4,7 @@
 title: "Johns Hopkins University Invited Talk: Whole Genome Phylogenetic Reconstruction"
 event: "High Throughput Biology Center, Johns Hopkins University"
 event_url:
-location:
+location: "Baltimore, MD"
 address:
   street:
   city:

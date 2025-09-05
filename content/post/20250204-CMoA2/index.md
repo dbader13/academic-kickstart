@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Computer Museum of America, 2005 Hall of Fame Inductees"
+title: "Computer Museum of America, 2025 Hall of Fame Inductees"
 subtitle: ""
 summary: ""
 authors: []
