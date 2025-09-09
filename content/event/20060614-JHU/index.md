@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: ""
+abstract: "Phylogenies derived from gene order data may prove crucial in answering some fundamental questions in biomolecular evolution. Yet very few techniques are available for phylogenetic reconstruction based upon gene order and content, and these are (for the most part) computationally expensive. High-performance algorithm engineering offers a battery of tools that can reduce, sometimes spectacularly, the running time of existing approaches. We discuss one such such application, in which we started with the method known as `breakpoint analysis’ (developed by Sankoff and his colleagues) and produced a software suite, GRAPPA, that demonstrated over a billion-fold speedup in running time (on a variety of real and simulated datasets), by combining low-level algorithmic improvements, cache-aware programming, careful performance tuning, and massive parallelism. The phylogeny reconstruction now can be performed in parallel and attain a linear speedup with the number of processors. We show how these techniques are directly applicable to a large variety of problems in computational biology."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
