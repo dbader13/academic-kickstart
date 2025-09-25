@@ -76,3 +76,6 @@ This content was created by MarketWatch, which is operated by Dow Jones & Co. Ma
 https://www.marketwatch.com/story/why-nvidia-is-pouring-100-billion-into-openai-f2cb6983
 
 https://www.morningstar.com/news/marketwatch/20250922112/why-nvidias-100-billion-investment-in-openai-signals-a-major-transformation
+
+https://www.msn.com/en-us/money/markets/why-nvidia-s-100-billion-investment-in-openai-signals-a-major-transformation/ar-AA1N4Dja
+
